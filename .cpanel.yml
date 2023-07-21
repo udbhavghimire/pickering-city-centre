@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home4/shrutidu/arborwesthome.ca/
+    - export DEPLOYPATH=/home4/shrutidu/thepickering.ca/
     - /bin/cp -r * $DEPLOYPATH
