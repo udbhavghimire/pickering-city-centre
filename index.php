@@ -265,7 +265,7 @@ This location is in Pickering. Nearby parks include David Farr Memorial Park Sou
       </button>
     </h2>
     <div id="flush-collapseOne" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
-      <div class="accordion-body">Pickering City Centre is expected to be launched by CentreCourt Developments Inc. in Summer 2023 </div>
+      <div class="accordion-body">Pickering City Centre is expected to be launched by CentreCourt Developments Inc. in September  2023 </div>
     </div>
   </div>
   <div class="accordion-item">
