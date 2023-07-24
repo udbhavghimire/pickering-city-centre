@@ -261,7 +261,6 @@ This location is in Pickering. Nearby parks include David Farr Memorial Park Sou
                 <div class="p-1  d-flex justify-content-center">
                 <iframe width="900" height="415" src="https://www.youtube.com/embed/8iC7Oluzwn4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                 </div>
-                <span class="small-text text-center d-flex justify-content-center custom-underline pb-3">Note : The exact location of the project may vary from the street view shown here</span>
             </div>
         </div>
     </section>
