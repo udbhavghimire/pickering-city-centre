@@ -250,6 +250,22 @@ This location is in Pickering. Nearby parks include David Farr Memorial Park Sou
         </div>
     </section>
 
+    <section data-aos="fade-up" >
+        <div class="container pt-md-5 pt-5" id="video">
+            <div class="pt-md-5 "></div>
+            <div class="py-5" data-aos="fade-up" data-aos-duration="2000" data-aos-delay="50">
+                <h2 class="fw-bold fs-1 mb-0 text-center justify-content-center" data-aos="fade-up">
+                    <span class="mx-1 pb-3">Pickering's Bold New City Centre Vision</span> </span>
+                </h2>
+                <span class="small-text text-center d-flex justify-content-center custom-underline pb-3 px-2">Discover the Heart of Pickering: Pickering City Centre Condos</span>
+                <div class="p-1  d-flex justify-content-center">
+                <iframe width="900" height="415" src="https://www.youtube.com/embed/8iC7Oluzwn4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                </div>
+                <span class="small-text text-center d-flex justify-content-center custom-underline pb-3">Note : The exact location of the project may vary from the street view shown here</span>
+            </div>
+        </div>
+    </section>
+
 
 
     <section class="mt-md-5 py-md-5" id = "faq">
