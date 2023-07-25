@@ -16,7 +16,7 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css">
 
-    <title> Pickering City Centre Condos | Register Today</title>
+    <title> Pre construction homes for sale in Pickering | Register Today</title>
 
     <meta name="title" content="Pickering City Centre Condos | Register Today">
     <meta name="description" content="Pickering City Centre Condos is a new condo development by CentreCourt Developments currently in planning at 1355 A Kingston Road, Pickering, ON. The development is launching in  2023. Pickering City Centre Condos has a total of 55 Storeys.">
@@ -57,7 +57,7 @@
                 <a href="/" class="navbar-brand">
                 <img src="images/PCC-Logo.svg" class="navbar-brand"  alt="Pickering City Centre Logo">
                 </a>
-                <a href="#Contact" class="btn call-btn d-block d-md-none btn-sm py-2">
+                <a href="#Contact" class="btn  call-btn d-block d-md-none  py-2 btn-lg">
           Register Now
         </a>
                 <button class="d-block d-md-none btn" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -74,7 +74,7 @@
                 </a>
                             </li>
                             <li class="nav-item px-md-2">
-                                <a class="nav-link scrollto" href="#gallery">Renderings</a>
+                                <a class="nav-link scrollto" href="#newcondos">New Condos in Pickering</a>
                             </li>
                             <!-- <li class="nav-item px-md-2">
                                 <a class="nav-link scrollto" href="#features">Amenities</a>
@@ -84,7 +84,7 @@
                             </li> -->
 
                             <li class="nav-item px-md-2">
-                                <a class="nav-link scrollto" href="#location">Location</a>
+                                <a class="nav-link scrollto" href="#news">News</a>
                             </li>
                             <!-- <li class="nav-item px-md-2">
                                 <a class="nav-link scrollto" href="#contact">Contact</a>
@@ -104,13 +104,12 @@
   <section class="pt-3 py-md-5">
             <div class="container" id="hero">
                 <div class="row me-0 row-cols-1 row-cols-md-2 d-flex align-items-center">
-                    <div class="col order-2 order-md-1 pt-5 pt-md-0">
+                    <div class="col order-1 order-md-1 pt-5 pt-md-0">
                         <div class="">
                             <div>
                                 <div>
-                                    <h1 class="main-titlee mb-0  mt-0 mb-0 pb-0">
-                                    Pickering City Centre Condos
-                               
+                                    <h1 class="main-titlee mb-0  mt-0 mb-0 pb-4">
+                                    Pre construction homes for sale in Pickering
                                     </h1>
 
                                 </div>
@@ -142,7 +141,10 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col position-relative order-1 order-md-2">
+                    <div class="col position-relative order-2 order-md-2 pt-md-5 pt-0">
+                    <h2 class="main-titlee mb-0 mt-md-3 mt-0 mb-0 py-2 d-flex justify-content-center">
+                    Featured Project
+                                    </h2>
                         <img src="images/Pickering-City-Centre-Condos-Coming-Soon--1-v9-full.jpg" class="img-fluid" id="myVideo" alt="Pickering-City-Centre-Condos">
                     </div>
                 </div>
@@ -152,55 +154,110 @@
 
 
     <section>
-        <div class="">
-            <div class="container pt-3 " id="gallery">
+        <div class="pt-2" data-aos="fade-up" data-aos-duration="2000" data-aos-delay="50">
+            <div class="container pt-3 " id="newcondos">
                 <div class="my-md-5 my-3"></div>
                 <div class="pt-md-5 pt-5">
-                    <h2 class="fw-bold fs-1 pb-3 ps-3 ps-md-0 d-flex justify-content-center  brand-color">
-                        Models and Renderings
+                    <h2 class="fw-bold fs-1  mx-1 ps-md-0 d-flex justify-content-center align-items-center  brand-color text-center">
+                    Top Pre construction homes in Pickering
                     </h2>
+                    <span class="small-text text-center d-flex justify-content-center custom-underline pb-3 mx-1">Discover the ultimate pre construction opportunity in pickering </span>
                 </div>
                 <div class="rounded-3">
                     <div class="d-flex justify-content-between pb-3">
-                        <div class="row 
-                         row-cols-1 row-cols-sm-2 row-cols-lg-3 justify-content-center g-4 
-                        ">
-                            <div class="col">
-                                <div class="afte">
-                                    <img loading="lazy" src="images/Pickering-City-Centre-Condos-Pedestrian-Mews-4-v9-full.jpg" alt="Pickering City Centre" class="img-fluid imghei">
-                                </div>
-                            </div>
-                            <div class="col">
-                                <div class="afte">
-                                    <img loading="lazy" src="images/Pickering-City-Centre-Condos-Performance-Centre-5-v9-full.jpg" alt="Pickering City Centre" class="img-fluid imghei">
-                                </div>
-                            </div>
-                            <div class="col">
-                                <div href="#" class="afte">
-                                    <img loading="lazy" src="images/Pickering-City-Centre-Condos-Exterior-View-of-Podium-and-Lower-Levels-3-v9-full.jpg" alt="Pickering City Centre" class="img-fluid imghei">
-                                </div>
+                    <div class="row row-cols-1 row-cols-sm-2 row-cols-lg-4 justify-content-center g-4 mt-2">
+                    <div class="col">
+                        <div class="afte-proj">
+                            <img src="images/new-seaton.webp" alt="Bristol Palace" class="img-fluid rounded-mine imghei">
+                            <div class="img-text">
+                                <p class="mb-0">New Seaton</p>
+                                <p class="mb-0 tet-s">Taunton Road & Sideline 26, Pickering, ON</p>
                             </div>
                         </div>
+                    </div>
+                    <div class="col">
+                        <div class="afte-proj">
+                            <img src="images/highmark.png" alt="The Unionville Condos" class="img-fluid rounded-mine imghei">
+                            <div class="img-text">
+                                <p class="mb-0">The Highmark Condos</p>
+                                <p class="mb-0 tet-s">1640 Kingston Road, Pickering, ON</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div href="#" class="afte-proj">
+                            <img src="images/riverside.png" alt="New Seaton" class="img-fluid rounded-mine imghei">
+                            <div class="img-text">
+                                <p class="mb-0">Riverside Towns on Brock</p>
+                                <p class="mb-0 tet-s">2165 Brock Road, Pickering, ON</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div href="#" class="afte-proj">
+                            <img src="images/universal.jpg" alt="The Unionville Condos" class="img-fluid rounded-mine imghei">
+                            <div class="img-text">
+                                <p class="mb-0">Universal City East Condos</p>
+                                <p class="mb-0 tet-s">1496 Bayly Street, Pickering, ON</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
                     </div>
                 </div>
             </div>
         </div>
     </section>
 
-    <section >
-        <div class="container pt-md-5 pt-5" id="location">
-            <div class="pt-md-5 pt-5"></div>
-            <div class="py-5" data-aos="fade-up" data-aos-duration="2000" data-aos-delay="50">
-                <h2 class="fw-bold fs-1 mb-0 text-center justify-content-center" >
-                    <span class="mx-1 pb-3">Pickering City Centre - Location</span> </span>
-                </h2>
-                <span class="small-text text-center d-flex justify-content-center custom-underline pb-3">1355 A Kingston Rd, Pickering.</span>
-                <div class ="row">
+    <section>
+        <div class="pt-2" data-aos="fade-up" data-aos-duration="2000" data-aos-delay="50">
+            <div class="container pt-3 " id="newcondos">
+                <div class="my-md-5 my-3"></div>
+                <div class="pt-md-5 pt-5">
+                    <h2 class="fw-bold fs-1  mx-1 ps-md-0 d-flex justify-content-center align-items-center brand-color text-center">
+                   Sold out projects in Pickering
+                    </h2>
+                </div>
+                <div class="rounded-3">
+                    <div class="d-flex justify-content-between pb-3">
+                    <div class="row row-cols-1 row-cols-sm-2 row-cols-lg-4 justify-content-center g-4 mt-2">
                     <div class="col">
-                        <img src="images/map3.png" class="img-fluid" alt ="Pickering City Centre Condos Map"> 
+                        <div class="afte-proj">
+                            <img src="images/sf3.webp" alt="Bristol Palace" class="img-fluid rounded-mine imghei">
+                            <div class="img-text">
+                                <p class="mb-0">SF3 Condominiums</p>
+                                <p class="mb-0 tet-s">Bayly Street,  Pickering,   ON</p>
+                            </div>
+                        </div>
                     </div>
-                    <div class="bg-white pt-3  pt-md-0 d-flex justify-content-center col ">
-                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2878.052763717434!2d-79.0882919!3d43.8340039!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89d4dedde6ce050d%3A0xa51aaf81bf920ea1!2s1355%20Kingston%20Rd%2C%20Pickering%2C%20ON%20L1V%201B8%2C%20Canada!5e0!3m2!1sen!2snp!4v1689926300473!5m2!1sen!2snp" width="650" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                    <div class="col">
+                        <div class="afte-proj">
+                            <img src="images/central-district.webp" alt="The Unionville Condos" class="img-fluid rounded-mine imghei">
+                            <div class="img-text">
+                                <p class="mb-0">Central District Towns</p>
+                                <p class="mb-0 tet-s">770 Kingston Road,  Pickering, ON</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div href="#" class="afte-proj">
+                            <img src="images/market-district.webp" alt="New Seaton" class="img-fluid rounded-mine imghei">
+                            <div class="img-text">
+                                <p class="mb-0">Market District Urban Towns</p>
+                                <p class="mb-0 tet-s">Whites Road North,  Pickering,   ON</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div href="#" class="afte-proj">
+                            <img src="images/citywalk.webp" alt="The Unionville Condos" class="img-fluid rounded-mine imghei">
+                            <div class="img-text">
+                                <p class="mb-0">Citywalk Towns</p>
+                                <p class="mb-0 tet-s">Pickering Parkway & Brock Road,  Pickering,   ON</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
                     </div>
                 </div>
             </div>
@@ -270,45 +327,51 @@ This location is in Pickering. Nearby parks include David Farr Memorial Park Sou
     <section class="mt-md-5 py-md-5" id = "faq">
         <div class="container mt-5" data-aos="fade-up" data-aos-duration="2000" data-aos-delay="50">
         <h2 class="fw-bold fs-1 mb-0 text-center justify-content-center" data-aos="fade-up">
-                    <span class="mx-1 pb-5"> Pickering City Centre FAQ </span> </span>
+                    <span class="mx-1 pb-5"> Pickering Pre construction Home Buying FAQ</span> </span>
                 </h2>
         <div class="accordion accordion-flush pt-4" id="accordionFlushExample">
   <div class="accordion-item">
     <h2 class="accordion-header " id="flush-headingOne">
       <button class="accordion-button collapsed " type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseOne" aria-expanded="false" aria-controls="flush-collapseOne">
-      When is Pickering City Centre sales Launch?
+      What is the average housing market price in Pickering?
       </button>
     </h2>
     <div id="flush-collapseOne" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
-      <div class="accordion-body">Pickering City Centre is expected to be launched by CentreCourt Developments Inc. in September  2023 </div>
-    </div>
-  </div>
-  <div class="accordion-item">
-    <h2 class="accordion-header" id="flush-headingTwo">
-      <button class="accordion-button collapsed " type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseTwo" aria-expanded="false" aria-controls="flush-collapseTwo">
-      What makes Pickering City Centre Attractive ?
-      </button>
-    </h2>
-    <div id="flush-collapseTwo" class="accordion-collapse collapse" aria-labelledby="flush-headingTwo" data-bs-parent="#accordionFlushExample">
-      <ul >
-        <li>New 55-acre downtown</li>
-        <li>Direct connection to go train</li>
-        <li> 700,000+ sq. Ft. Shopping centre</li>
-        <li>  130,000+ sq. Ft. Office building</li>
-        <li> 20,000+ sq. Ft. State-of-the-art fitness centre</li>
-        <li> Walk to city hall, parks </li>
-        <li>Pickering waterfront</li>
-      </ul>
+      <div class="accordion-body">According to the July 2023 MLS® stats Housing Market Report, the average house price in Pickering, Ontario stands at <span class ="fw-bold">$1,118,363.</span></div>
     </div>
   </div>
   <div class="accordion-item">
     <h2 class="accordion-header" id="flush-headingThree">
       <button class="accordion-button collapsed " type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseThree" aria-expanded="false" aria-controls="flush-collapseThree">
-      Who is the builder of Pickering City Centre Condos?
+      What are the benefits of buying a pre-construction home in Pickering?
       </button>
     </h2>
     <div id="flush-collapseThree" class="accordion-collapse collapse" aria-labelledby="flush-headingThree" data-bs-parent="#accordionFlushExample">
-      <div class="accordion-body">Pickering City Centre Condos is a project from CentreCourt Developments Inc. CentreCourt Developments Inc. is a real estate company focused on the development of high-rise residential communities located near major amenities, rapid transit networks and employment areas across the Greater Toronto Area (GTA). </div>
+      <div class="accordion-body">
+      <ol type="a">
+        <li class="pt-2"><span class ="fw-bold">Customization:</span> Buyers can often choose from different layouts, finishes, and upgrades, allowing them to personalize their home according to their preferences and needs.</li>
+        <li class="pt-2"><span class ="fw-bold"> Newer Features:</span> Pre-construction homes are built using the latest construction techniques and often come with modern amenities and energy-efficient features.</li>
+        <li class="pt-2"><span class ="fw-bold"> Price Appreciation:</span> As the property is completed and the surrounding community develops, the value of the home may increase, offering potential long-term appreciation.</li>
+        <li class="pt-2"> <span class ="fw-bold"> Deposit Structure:</span> Builders typically require a deposit instead of the full purchase price upfront, making it more manageable for buyers to enter the property market.</li>
+    </ol>
+      </div>
+    </div>
+  </div>
+  <div class="accordion-item">
+    <h2 class="accordion-header" id="flush-headingTwo">
+      <button class="accordion-button collapsed " type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseTwo" aria-expanded="false" aria-controls="flush-collapseTwo">
+      What should I consider before buying a pre-construction home in Pickering?
+      </button>
+    </h2>
+    <div id="flush-collapseTwo" class="accordion-collapse collapse" aria-labelledby="flush-headingTwo" data-bs-parent="#accordionFlushExample">
+    Before purchasing a pre-construction home in Pickering, it's essential to keep the following factors in mind:
+    <ol type="a">
+        <li> Builder Reputation</li>
+        <li>Completion Timeline</li>
+        <li> Total Costs</li>
+        <li>  Contracts and Terms</li>
+        <li> Location and Amenities</li>
+    </ol>
     </div>
   </div>
 </div>
