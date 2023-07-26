@@ -25,7 +25,7 @@
 }
 
 .brand-color {
-    color: #001F2C;
+    color: #fb33ae;
 }
 
 .main-titlee {
@@ -68,7 +68,7 @@
     font-weight: 900 !important;
     font-size: 2.5rem !important;
     margin-right: 0rem !important;
-    height: 120px;
+    height: 100px;
 }
 
 .navbar-brand-foot {
@@ -80,7 +80,7 @@
 
 .nav-link {
     color: rgb(0, 0, 0) !important;
-    font-weight: 500;
+    font-weight: 800 !important;
     font-size: 20px;
 }
 
@@ -90,6 +90,11 @@
     text-decoration: underline #001F2C!important;
     text-underline-offset: 5px;
     text-decoration-thickness: 2px;
+}
+
+.dropdown:hover .dropdown-menu {
+    display: block;
+    margin-top: 0;
 }
 
 #myVideo {

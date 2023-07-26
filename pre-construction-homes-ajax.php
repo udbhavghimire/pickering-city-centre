@@ -16,7 +16,7 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css">
 
-    <title> Pre construction homes for sale in Pickering | Register Today</title>
+    <title> Pre construction homes for sale in Ajax | Register Today</title>
 
     <meta name="title" content="Pickering City Centre Condos | Register Today">
     <meta name="description" content="Pickering City Centre Condos is a new condo development by CentreCourt Developments currently in planning at 1355 A Kingston Road, Pickering, ON. The development is launching in  2023. Pickering City Centre Condos has a total of 55 Storeys.">
@@ -92,10 +92,10 @@
                             <i class="bi bi-caret-down-fill"></i>
                             </a>
                                 <div class="dropdown-menu" aria-labelledby="hoverDropdown">
-                                    <a class="dropdown-item" href="/index.php">Pickering</a>
-                                    <a class="dropdown-item" href="./pre-construction-homes-whitby.php">Whitby</a>
-                                    <a class="dropdown-item" href="./pre-construction-homes-ajax.php">Ajax</a>
-                                    <a class="dropdown-item" href="./pre-construction-homes-oshawa.php">Oshawa</a>
+                                    <a class="dropdown-item" href="index.php">Pickering</a>
+                                    <a class="dropdown-item" href="pre-construction-homes-whitby.php">Whitby</a>
+                                    <a class="dropdown-item" href="pre-construction-homes-ajax.php">Ajax</a>
+                                    <a class="dropdown-item" href="pre-construction-homes-oshawa.php">Oshawa</a>
                                 </div>
                                 </div>
                             </li>
@@ -119,46 +119,46 @@
                 <div class="my-md-5 my-3"></div>
                 <div class="pt-md-5 pt-5">
                     <h1 class="fw-bold fs-1  mx-1 ps-md-0 d-flex justify-content-center align-items-center  brand-color text-center">
-                    Top Pre construction homes in Pickering | New Updates*
+                    Top Pre construction homes in Ajax | New Updates*
                     </h1>
-                    <span class="small-text text-center d-flex justify-content-center custom-underline pb-3 mx-1">New Pre construction Detached, Townhomes, or Condos for sale in Pickering, Ontario </span>
+                    <span class="small-text text-center d-flex justify-content-center custom-underline pb-3 mx-1">New Pre construction Detached, Townhomes, or Condos for sale in Ajax, Ontario </span>
                 </div>
                 <div class="rounded-3">
                     <div class="d-flex justify-content-between pb-3">
                     <div class="row row-cols-1 row-cols-sm-2 row-cols-lg-4 justify-content-center g-4 mt-2">
                     <div class="col">
                         <div class="afte-proj">
-                            <img src="images/new-seaton.webp" alt="Bristol Palace" class="img-fluid rounded-mine imghei">
+                            <img src="images/ajax/lake-pointe condos.jpg" alt="Lake Pointe Condos" class="img-fluid rounded-mine imghei">
                             <div class="img-text">
-                                <p class="mb-0">New Seaton</p>
-                                <p class="mb-0 tet-s">Taunton Road & Sideline 26, Pickering, ON</p>
+                                <p class="mb-0">Lake Pointe Condos</p>
+                                <p class="mb-0 tet-s">253 Lake Driveway West, Ajax, ON</p>
                             </div>
                         </div>
                     </div>
                     <div class="col">
                         <div class="afte-proj">
-                            <img src="images/highmark.png" alt="The Unionville Condos" class="img-fluid rounded-mine imghei">
+                            <img src="images/ajax/eagle-woods.png" alt="Eagle Woods" class="img-fluid rounded-mine imghei">
                             <div class="img-text">
-                                <p class="mb-0">The Highmark Condos</p>
-                                <p class="mb-0 tet-s">1640 Kingston Road, Pickering, ON</p>
+                                <p class="mb-0">Eagle Woods</p>
+                                <p class="mb-0 tet-s">Sharplin Drive & Denny Street, Ajax, ON</p>
                             </div>
                         </div>
                     </div>
                     <div class="col">
                         <div href="#" class="afte-proj">
-                            <img src="images/riverside.png" alt="New Seaton" class="img-fluid rounded-mine imghei">
+                            <img src="images/ajax/ajax-taunton.jpg" alt="Ajax Taunton" class="img-fluid rounded-mine imghei">
                             <div class="img-text">
-                                <p class="mb-0">Riverside Towns on Brock</p>
-                                <p class="mb-0 tet-s">2165 Brock Road, Pickering, ON</p>
+                                <p class="mb-0">Ajax Taunton</p>
+                                <p class="mb-0 tet-s">361 Taunton Road West, Ajax, ON</p>
                             </div>
                         </div>
                     </div>
                     <div class="col">
                         <div href="#" class="afte-proj">
-                            <img src="images/universal.jpg" alt="The Unionville Condos" class="img-fluid rounded-mine imghei">
+                            <img src="images/ajax/garden-on-the-bay.png" alt="Garden on the Bay" class="img-fluid rounded-mine imghei">
                             <div class="img-text">
-                                <p class="mb-0">Universal City East Condos</p>
-                                <p class="mb-0 tet-s">1496 Bayly Street, Pickering, ON</p>
+                                <p class="mb-0">Garden on the Bay</p>
+                                <p class="mb-0 tet-s">282 Monarch Avenue, Ajax, ON</p>
                             </div>
                         </div>
                     </div>
@@ -175,7 +175,7 @@
                 <div class="my-md-5 my-3"></div>
                 <div class="pt-md-5 pt-5">
                     <h2 class="fw-bold fs-1  mx-1 ps-md-0 d-flex justify-content-center align-items-center brand-color text-center">
-                   Sold out projects in Pickering
+                   Sold out projects in Ajax
                     </h2>
                 </div>
                 <div class="rounded-3">
@@ -224,20 +224,6 @@
         </div>
     </section>
 
-    <section data-aos="fade-up" >
-        <div class="container pt-md-5 pt-5" id="video">
-            <div class="pt-md-5 "></div>
-            <div class="py-5" data-aos="fade-up" data-aos-duration="2000" data-aos-delay="50">
-                <h2 class="fw-bold fs-1 mb-0 text-center justify-content-center" data-aos="fade-up">
-                    <span class="mx-1 pb-3">Pickering's Bold New City Centre Vision</span> </span>
-                </h2>
-                <span class="small-text text-center d-flex justify-content-center custom-underline pb-3 px-2">Discover the Heart of Pickering: Pickering City Centre Condos</span>
-                <div class="p-1  d-flex justify-content-center">
-                <iframe width="900" height="415" src="https://www.youtube.com/embed/8iC7Oluzwn4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-                </div>
-            </div>
-        </div>
-    </section>
 
 
     <section class="mt-md-5 py-md-5" id = "faq">
