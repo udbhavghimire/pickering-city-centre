@@ -16,9 +16,9 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css">
 
-    <title> Pre construction homes for sale in Pickering | Register Today</title>
+    <title> 10+ New homes in Durham | Book Today</title>
 
-    <meta name="title" content="Pickering City Centre Condos | Register Today">
+    <meta name="title" content="10+ New homes in Durham | Book Today">
     <meta name="description" content="Pickering City Centre Condos is a new condo development by CentreCourt Developments currently in planning at 1355 A Kingston Road, Pickering, ON. The development is launching in  2023. Pickering City Centre Condos has a total of 55 Storeys.">
     <meta name="keywords" content="Pickering City Centre, Pickering City Centre, Pickering City Centre Condos, CentreCourt Developments, Pre construction condos in pickering,  condo in pickering">
     <meta name="robots" content="index, follow">
@@ -74,7 +74,27 @@
                 </a>
                             </li>
                             <li class="nav-item px-md-2">
-                                <a class="nav-link scrollto" href="#newcondos">New Condos in Pickering</a>
+                            <div class="dropdown">
+                            <a class="nav-link scrollto" href="#cities">Cities
+                            <i class="bi bi-caret-down-fill"></i>
+                            </a>
+                                <div class="dropdown-menu" aria-labelledby="hoverDropdown">
+                                    <a class="dropdown-item" href="/index.php">Pre construction homes  Pickering</a>
+                                    <a class="dropdown-item" href="./pre-construction-homes-whitby.php">Pre construction homes  Whitby</a>
+                                    <a class="dropdown-item" href="./pre-construction-homes-ajax.php">Pre construction homes  Ajax</a>
+                                    <a class="dropdown-item" href="./pre-construction-homes-oshawa.php">Pre construction homes  Oshawa</a>
+                                </div>
+                                </div>
+                            </li>
+                            <li class="nav-item px-md-2">
+                                <a class="nav-link scrollto" href="#newcondos">New Condos 
+                                    <i class="bi bi-caret-down-fill"></i></a>
+                                <div class="dropdown-menu" aria-labelledby="hoverDropdown">
+                                    <a class="dropdown-item" href="/index.php">Pre construction homes Pickering</a>
+                                    <a class="dropdown-item" href="./pre-construction-homes-whitby.php">Whitby</a>
+                                    <a class="dropdown-item" href="./pre-construction-homes-ajax.php">Ajax</a>
+                                    <a class="dropdown-item" href="./pre-construction-homes-oshawa.php">Oshawa</a>
+                                </div>
                             </li>
                             <!-- <li class="nav-item px-md-2">
                                 <a class="nav-link scrollto" href="#features">Amenities</a>
@@ -86,22 +106,10 @@
                             <li class="nav-item px-md-2">
                                 <a class="nav-link scrollto" href="#news">News</a>
                             </li>
-                            <li class="nav-item px-md-2">
-                            <div class="dropdown">
-                            <a class="nav-link scrollto" href="#cities">Cities
-                            <i class="bi bi-caret-down-fill"></i>
-                            </a>
-                                <div class="dropdown-menu" aria-labelledby="hoverDropdown">
-                                    <a class="dropdown-item" href="/index.php">Pickering</a>
-                                    <a class="dropdown-item" href="./pre-construction-homes-whitby.php">Whitby</a>
-                                    <a class="dropdown-item" href="./pre-construction-homes-ajax.php">Ajax</a>
-                                    <a class="dropdown-item" href="./pre-construction-homes-oshawa.php">Oshawa</a>
-                                </div>
-                                </div>
-                            </li>
+                            
                             <li class="nav-item px-md-2 d-none d-md-block">
                                 <a href="#Contact" class="btn call-btn btn-lg fss">
-                                    Register Now
+                                    Contact
                 </a>
                             </li>
                         </ul>
@@ -119,9 +127,9 @@
                 <div class="my-md-5 my-3"></div>
                 <div class="pt-md-5 pt-5">
                     <h1 class="fw-bold fs-1  mx-1 ps-md-0 d-flex justify-content-center align-items-center  brand-color text-center">
-                    Top Pre construction homes in Pickering | New Updates*
+                    Everything about pre construciton development in Durham region <br> ( Pickering, Ajax, Whitby & Oshawa ) 
                     </h1>
-                    <span class="small-text text-center d-flex justify-content-center custom-underline pb-3 mx-1">New Pre construction Detached, Townhomes, or Condos for sale in Pickering, Ontario </span>
+                    <span class="small-text text-center d-flex justify-content-center custom-underline pb-3 mx-1">All upcoming and current pre construction detached, townhomes & condos in Durham region | Updated Daily </span>
                 </div>
                 <div class="rounded-3">
                     <div class="d-flex justify-content-between pb-3">
@@ -175,7 +183,7 @@
                 <div class="my-md-5 my-3"></div>
                 <div class="pt-md-5 pt-5">
                     <h2 class="fw-bold fs-1  mx-1 ps-md-0 d-flex justify-content-center align-items-center brand-color text-center">
-                   Sold out projects in Pickering
+                   Previous pre construction projects in Durkham <br> (Pickering, Ajax, Whitby & Oshawa)
                     </h2>
                 </div>
                 <div class="rounded-3">
@@ -301,9 +309,9 @@
                     <!-- <div class="text-center pt-3 ">
                         <img src="images/empire-logo.png " class="img-fluid regoimg " alt="Empire Communities Logo ">
                     </div> -->
-                    <h6 class="text-center fs-1 fw-bold pt-3 register " > Register today</h6>
+                    <h6 class="text-center fs-1 fw-bold pt-3 register " > Send Me Latest Information</h6>
                     <div class="registertext px-4 d-flex justify-content-center align-items-center text-center ">
-                        <p>Register today and get the first update on Pickering City Centre Condos
+                        <p>Send me informatiuon on latest pre construction project in Durham Region 
                         </p>
                     </div>
 
