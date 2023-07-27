@@ -118,6 +118,7 @@
                     <h2 class="fw-bold fs-1  mx-1 ps-md-0 d-flex justify-content-center align-items-center brand-color text-center">
                    Sold out projects in Oshawa
                     </h2>
+                    <span class="small-text text-center d-flex justify-content-center custom-underline pb-3 mx-1">New Pre construction Detached, Townhomes, or Condos for sale in Oshawa, Ontario </span>
                 </div>
                 <div class="rounded-3">
                     <div class="d-flex justify-content-between pb-3">
