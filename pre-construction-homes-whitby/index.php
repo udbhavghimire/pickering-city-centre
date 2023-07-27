@@ -7,8 +7,8 @@
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="css/style.css">
-    <link rel="stylesheet" href="css/silverBox.min.css">
+    <link rel="stylesheet" href="../css/style.css">
+    <link rel="stylesheet" href="../css/silverBox.min.css">
     <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
 
 
@@ -16,7 +16,7 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css">
 
-    <title> Pre construction homes for sale in Oshawa | Register Today</title>
+    <title> Pre construction homes for sale in Whitby | Register Today</title>
 
     <meta name="title" content="Pickering City Centre Condos | Register Today">
     <meta name="description" content="Pickering City Centre Condos is a new condo development by CentreCourt Developments currently in planning at 1355 A Kingston Road, Pickering, ON. The development is launching in  2023. Pickering City Centre Condos has a total of 55 Storeys.">
@@ -51,8 +51,7 @@
 
 <body>
 
-<?php include './header.php'; ?>
-
+<?php include '../header.php'; ?>
 
     <section>
         <div class="pt-2" data-aos="fade-up" data-aos-duration="2000" data-aos-delay="50">
@@ -60,46 +59,46 @@
                 <div class="my-md-5 my-3"></div>
                 <div class="pt-md-5 pt-5">
                     <h1 class="fw-bold fs-1  mx-1 ps-md-0 d-flex justify-content-center align-items-center  brand-color text-center">
-                    Top Pre construction homes in Oshawa | New Updates*
+                    Top Pre construction homes in Whitby | New Updates*
                     </h1>
-                    <span class="small-text text-center d-flex justify-content-center custom-underline pb-3 mx-1">New Pre construction Detached, Townhomes, or Condos for sale in Oshawa, Ontario </span>
+                    <span class="small-text text-center d-flex justify-content-center custom-underline pb-3 mx-1">New Pre construction Detached, Townhomes, or Condos for sale in Whitby, Ontario </span>
                 </div>
                 <div class="rounded-3">
                     <div class="d-flex justify-content-between pb-3">
                     <div class="row row-cols-1 row-cols-sm-2 row-cols-lg-4 justify-content-center g-4 mt-2">
                     <div class="col">
                         <div class="afte-proj">
-                            <img src="images/oshawa/Palmetto-Homes.jpg" alt="Palmetto Homes" class="img-fluid rounded-mine imghei">
-                            <div class="img-text">
-                                <p class="mb-0">Palmetto Homes</p>
-                                <p class="mb-0 tet-s">1290 Conlin Rd E, Oshawa</p>
+                            <img src="../images/whitby/the-trial-of-country-lane.jpg" alt="the-trial-of-country-lane" class="img-fluid rounded-mine imghei">
+                            <div class="img-text card">
+                                <p class="mb-0">The Trails of Country Lane</p>
+                                <p class="mb-0 tet-s">Taunton Road West, Whitby, ON, Canada</p>
                             </div>
                         </div>
                     </div>
                     <div class="col">
                         <div class="afte-proj">
-                            <img src="images/oshawa/treehouse_studios.webp" alt="Treehouse Studios" class="img-fluid rounded-mine imghei">
-                            <div class="img-text">
-                                <p class="mb-0">Treehouse Studios</p>
-                                <p class="mb-0 tet-s">1664 Simcoe Street North, Oshawa, ON</p>
+                            <img src="../images/whitby/Mary-Street-Towns.jpg" alt="Mary-Street-Towns" class="img-fluid rounded-mine imghei">
+                            <div class="img-text card">
+                                <p class="mb-0">Mary Street Towns</p>
+                                <p class="mb-0 tet-s">ary Street East, Whitby, ON</p>
                             </div>
                         </div>
                     </div>
                     <div class="col">
                         <div href="#" class="afte-proj">
-                            <img src="images/oshawa/nahid-harbour.webp" alt="Nahid Harbour Condos" class="img-fluid rounded-mine imghei">
-                            <div class="img-text">
-                                <p class="mb-0">Nahid Harbour Condos</p>
-                                <p class="mb-0 tet-s">80 Harbour Road, Oshawa, ON</p>
+                            <img src="../images/whitby/Manors-on-Mayfield-Towns.webp" alt="Manors-on-Mayfield-Towns" class="img-fluid rounded-mine imghei">
+                            <div class="img-text card">
+                                <p class="mb-0">Manors on Mayfield Towns</p>
+                                <p class="mb-0 tet-s">780 Garden Street, Whitby, ON</p>
                             </div>
                         </div>
                     </div>
                     <div class="col">
                         <div href="#" class="afte-proj">
-                            <img src="images/oshawa/uc-tower-3.jpg" alt="U.C. Tower 3" class="img-fluid rounded-mine imghei">
-                            <div class="img-text">
-                                <p class="mb-0">U.C. Tower 3</p>
-                                <p class="mb-0 tet-s">2691 Durham Regional Rd 2, Oshawa</p>
+                            <img src="../images/whitby/Highcrest-Whitby.jpg" alt="Highcrest-Whitby" class="img-fluid rounded-mine imghei">
+                            <div class="img-text card">
+                                <p class="mb-0">Highcrest Whitby</p>
+                                <p class="mb-0 tet-s">Seaboard Gate, Whitby, ON</p>
                             </div>
                         </div>
                     </div>
@@ -116,7 +115,7 @@
                 <div class="my-md-5 my-3"></div>
                 <div class="pt-md-5 pt-5">
                     <h2 class="fw-bold fs-1  mx-1 ps-md-0 d-flex justify-content-center align-items-center brand-color text-center">
-                   Sold out projects in Oshawa
+                   Sold out projects in Whitby
                     </h2>
                 </div>
                 <div class="rounded-3">
@@ -124,8 +123,8 @@
                     <div class="row row-cols-1 row-cols-sm-2 row-cols-lg-4 justify-content-center g-4 mt-2">
                     <div class="col">
                         <div class="afte-proj">
-                            <img src="images/sf3.webp" alt="Bristol Palace" class="img-fluid rounded-mine imghei">
-                            <div class="img-text">
+                            <img src="../images/sf3.webp" alt="Bristol Palace" class="img-fluid rounded-mine imghei">
+                            <div class="img-text card">
                                 <p class="mb-0">SF3 Condominiums</p>
                                 <p class="mb-0 tet-s">Bayly Street,  Pickering,   ON</p>
                             </div>
@@ -133,8 +132,8 @@
                     </div>
                     <div class="col">
                         <div class="afte-proj">
-                            <img src="images/central-district.webp" alt="The Unionville Condos" class="img-fluid rounded-mine imghei">
-                            <div class="img-text">
+                            <img src="../images/central-district.webp" alt="The Unionville Condos" class="img-fluid rounded-mine imghei">
+                            <div class="img-text card">
                                 <p class="mb-0">Central District Towns</p>
                                 <p class="mb-0 tet-s">770 Kingston Road,  Pickering, ON</p>
                             </div>
@@ -142,8 +141,8 @@
                     </div>
                     <div class="col">
                         <div href="#" class="afte-proj">
-                            <img src="images/market-district.webp" alt="New Seaton" class="img-fluid rounded-mine imghei">
-                            <div class="img-text">
+                            <img src="../images/market-district.webp" alt="New Seaton" class="img-fluid rounded-mine imghei">
+                            <div class="img-text card">
                                 <p class="mb-0">Market District Urban Towns</p>
                                 <p class="mb-0 tet-s">Whites Road North,  Pickering,   ON</p>
                             </div>
@@ -151,8 +150,8 @@
                     </div>
                     <div class="col">
                         <div href="#" class="afte-proj">
-                            <img src="images/citywalk.webp" alt="The Unionville Condos" class="img-fluid rounded-mine imghei">
-                            <div class="img-text">
+                            <img src="../images/citywalk.webp" alt="The Unionville Condos" class="img-fluid rounded-mine imghei">
+                            <div class="img-text card">
                                 <p class="mb-0">Citywalk Towns</p>
                                 <p class="mb-0 tet-s">Pickering Parkway & Brock Road,  Pickering,   ON</p>
                             </div>
@@ -164,6 +163,9 @@
             </div>
         </div>
     </section>
+
+    
+
 
 
     <section class="mt-md-5 py-md-5" id = "faq">
@@ -227,9 +229,9 @@
                     <!-- <div class="text-center pt-3 ">
                         <img src="images/empire-logo.png " class="img-fluid regoimg " alt="Empire Communities Logo ">
                     </div> -->
-                    <h6 class="text-center fs-1 fw-bold pt-3 register " > Register today</h6>
+                    <h6 class="text-center fs-1 fw-bold pt-3 register "> Send me latest update on Whitby </h6>
                     <div class="registertext px-4 d-flex justify-content-center align-items-center text-center ">
-                        <p>Register today and get the first update on Pickering City Centre Condos
+                        <p>Register today and get the latest update on Whitby Pre Construction homes
                         </p>
                     </div>
 
@@ -238,7 +240,7 @@
                     <div class="col-md-3 "></div>
                     <div class="col-md-6 px-md-5 ">
 
-                        <form action="./contactForm.php" method="POST">
+                        <form action="../contactForm.php" method="POST">
                             <div class="row ">
                                 <div class="mb-3 "><input type="text" placeholder="Name" name="name" id="name" class="fields" required></div>
 
@@ -272,80 +274,7 @@
         </div>
     </section>
 
-    <div class="mt-5 pt-3 ">
-        <img loading="lazy " src="images/line.png " alt="Line image for character " class="img-fluid foot-up-img " />
-    </div>
-    <footer class="footerr py-5 mb-4 ">
-        <div class="container ">
-            <div class="row row-cols-1 row-cols-sm-2 row-cols-md-5 pt-5 justify-content-around ">
-                <div class="col-md-4 my-3 fotwidth center-sm px-4 px-md-0 ">
-                    <p class=" ">
-                        <h2 class="navbar-brand-foot fs-4">The Pickering</h2>
-                    </p>
-                    <span class=" justifyy ">
-                    We do not represent the builder. Information provided on this website is gathered from publicly available websites. The information might not be updated and could include inaccurate or outdated information such as location, pricing, availability, floor plans etc. To learn more about the project, please contact the builder directly. </span>
-                    <div class="list pt-md-5 pt-3 d-md-block d-none ">
-                        <p class=" ">
-                            Website designed by <a href="https://www.sixdesign.ca/ " target="_blank " class="text-dark text-decoration-none "><strong>SixDesign.</strong> </a>
-                        </p>
-
-                    </div>
-                </div>
-
-                <div class="col-md-4 py-md-5 py-5 center-sm px-md-5 px-5 d-flex justify-content-around">
-                    <div>
-                        <h5 class="text-dark fw-bold mt-3 mb-3 ">Pre construiction Cities</h5>
-                        <div class="list d-block ">
-                            <p class="mybot pb-md-0 pb-0 ">
-                                <a href ="./index.php" class ="text-dark">Pre construction homes Pickering</a>
-                            </p>
-                            <p class="mybot pb-md-0 pb-0 ">
-                            <a href ="./pre-construction-homes-ajax.php" class ="text-dark">Pre construction homes Ajax</a>
-                            </p>
-                            <p class="mybot pb-md-0 pb-0 ">
-                            <a href ="./pre-construction-homes-whitby.php" class ="text-dark">Pre construction homes Whitby</a>
-                            </p>
-                            <p class="mybot pb-md-0 pb-0 ">
-                            <a href ="./pre-construction-homes-oshawa.php" class ="text-dark">Pre construction homes Oshawa</a>
-                            </p>
-
-                        </div>
-
-                    </div>
-                </div>
-
-                <div class="col-md-4 py-md-5 py-5 center-sm px-md-5 px-5 d-flex justify-content-around">
-                    <div>
-                        <h5 class="text-dark fw-bold mt-3 mb-3 ">Pre construiction Condos</h5>
-                        <div class="list d-block ">
-                            <p class="mybot pb-md-0 pb-0 ">
-                                <a href ="./index.php" class ="text-dark">Pre construction condos Pickering</a>
-                            </p>
-                            <p class="mybot pb-md-0 pb-0 ">
-                            <a href ="./pre-construction-homes-ajax.php" class ="text-dark">Pre construction condos Ajax</a>
-                            </p>
-                            <p class="mybot pb-md-0 pb-0 ">
-                            <a href ="./pre-construction-homes-whitby.php" class ="text-dark">Pre construction condos Whitby</a>
-                            </p>
-                            <p class="mybot pb-md-0 pb-0 ">
-                            <a href ="./pre-construction-homes-oshawa.php" class ="text-dark">Pre construction condos Oshawa</a>
-                            </p>
-
-                        </div>
-
-                    </div>
-                </div>
-
-
-            <div class="list mt-5 pt-5 d-md-none d-block center-sm px-4 ">
-                <p class=" ">
-                    Website designed by <a href="https://www.sixdesign.ca/ " target="_blank " class="text-dark text-decoration-none "><strong>SixDesign.</strong> </a>
-                </p>
-
-            </div>
-
-        </div>
-    </footer>
+    <?php require '../footer.php'; ?>
 
 
 <!-- 

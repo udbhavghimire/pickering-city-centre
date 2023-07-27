@@ -15,7 +15,7 @@ $mail->isSMTP(); // Set mailer to use SMTP
 $mail->Host = 'mail.thepickering.ca'; // Specify main and backup SMTP servers
 $mail->SMTPAuth = true; // Enable SMTP authentication
 $mail->Username = 'info@thepickering.ca'; // SMTP username
-$mail->Password = 'milan@homebaba.ca'; // SMTP password
+$mail->Password = 'mail@thepickering'; // SMTP password
 $mail->SMTPSecure = 'tls'; // Enable TLS encryption, `ssl` also accepted
 $mail->Port = 587; // TCP port to connect to
 

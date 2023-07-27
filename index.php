@@ -52,8 +52,76 @@
 <body>
 
 
+<div class="sticky-top topp bg-white" id="header">
+        <nav class="navbar navbar-expand-md navbar-light" id="navbar">
+            <div class="container">
+                <a href="/" class="navbar-brand">
+                <img src="./images/the-pickering-logo.png" class="navbar-brand"  alt="The Pickeiring Logo">
+                </a>
+                <a href="#Contact" class="btn  call-btn d-block d-md-none  py-2 btn-lg">
+          Register Now
+        </a>
+                <button class="d-block d-md-none btn" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+          <svg width="18" height="12" viewBox="0 0 18 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path d="M0 12H18V10H0V12ZM0 7H18V5H0V7ZM0 0V2H18V0H0Z" fill="black" />
+          </svg>
+        </button>
+                <div class="row me-0 row-cols-2 collapse navbar-collapse" id="navbarSupportedContent">
+                    <div class="col-12 d-flex justify-content-start justify-content-md-end">
+                        <ul class="navbar-nav mb-2 mb-lg-0 align-items-start align-items-md-center">
+                            <li class="nav-item">
+                                <a href="#hero" class="nav-link scrollto" aria-current="page">
+                  Home
+                </a>
+                            </li>
+                            <li class="nav-item px-md-2">
+                            <div class="dropdown">
+                            <a class="nav-link scrollto" href="#cities">Cities
+                            <i class="bi bi-caret-down-fill"></i>
+                            </a>
+                                <div class="dropdown-menu" aria-labelledby="hoverDropdown">
+                                    <a class="dropdown-item" href="./pre-construction-homes-pickering/">Pre construction homes  Pickering</a>
+                                    <a class="dropdown-item" href="./pre-construction-homes-whitby/">Pre construction homes  Whitby</a>
+                                    <a class="dropdown-item" href="./pre-construction-homes-ajax/">Pre construction homes  Ajax</a>
+                                    <a class="dropdown-item" href="./pre-construction-homes-oshawa/">Pre construction homes  Oshawa</a>
+                                </div>
+                                </div>
+                            </li>
+                            <li class="nav-item px-md-2">
+                                 <div class="dropdown">
+                            <a class="nav-link scrollto" href="#cities">New Condos
+                            <i class="bi bi-caret-down-fill"></i>
+                            </a>
+                                <div class="dropdown-menu" aria-labelledby="hoverDropdown">
+                                    <a class="dropdown-item" href="/index.php">Pre construction condos  Pickering</a>
+                                    <a class="dropdown-item" href="./pre-construction-homes-whitby.php">Pre construction condos  Whitby</a>
+                                    <a class="dropdown-item" href="./pre-construction-homes-ajax.php">Pre construction condos  Ajax</a>
+                                    <a class="dropdown-item" href="./pre-construction-homes-oshawa.php">Pre construction condos  Oshawa</a>
+                                </div>
+                                </div>
+                            </li>
+                            <!-- <li class="nav-item px-md-2">
+                                <a class="nav-link scrollto" href="#features">Amenities</a>
+                            </li> -->
+                            <!-- <li class="nav-item px-md-2">
+                                <a class="nav-link scrollto" href="#plans">Plans & Pricing</a>
+                            </li> -->
 
-<?php include './header.php'; ?>
+                            <li class="nav-item px-md-2">
+                                <a class="nav-link scrollto" href="#news">News</a>
+                            </li>
+                            
+                            <li class="nav-item px-md-2 d-none d-md-block">
+                                <a href="#Contact" class="btn call-btn btn-lg fss">
+                                    Contact
+                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </nav>
+    </div>
 
     <section>
         <div class="pt-2" data-aos="fade-up" data-aos-duration="2000" data-aos-delay="50">
@@ -71,7 +139,7 @@
                     <div class="col">
                         <div class="afte-proj">
                             <img src="images/new-seaton.webp" alt="Bristol Palace" class="img-fluid rounded-mine imghei">
-                            <div class="img-text">
+                            <div class="img-text card ">
                                 <p class="mb-0">New Seaton</p>
                                 <p class="mb-0 tet-s">Taunton Road & Sideline 26, Pickering, ON</p>
                             </div>
@@ -80,7 +148,7 @@
                     <div class="col">
                         <div class="afte-proj">
                             <img src="images/highmark.png" alt="The Unionville Condos" class="img-fluid rounded-mine imghei">
-                            <div class="img-text">
+                            <div class="img-text card ">
                                 <p class="mb-0">The Highmark Condos</p>
                                 <p class="mb-0 tet-s">1640 Kingston Road, Pickering, ON</p>
                             </div>
@@ -89,7 +157,7 @@
                     <div class="col">
                         <div href="#" class="afte-proj">
                             <img src="images/riverside.png" alt="New Seaton" class="img-fluid rounded-mine imghei">
-                            <div class="img-text">
+                            <div class="img-text card">
                                 <p class="mb-0">Riverside Towns on Brock</p>
                                 <p class="mb-0 tet-s">2165 Brock Road, Pickering, ON</p>
                             </div>
@@ -98,7 +166,7 @@
                     <div class="col">
                         <div href="#" class="afte-proj">
                             <img src="images/universal.jpg" alt="The Unionville Condos" class="img-fluid rounded-mine imghei">
-                            <div class="img-text">
+                            <div class="img-text card">
                                 <p class="mb-0">Universal City East Condos</p>
                                 <p class="mb-0 tet-s">1496 Bayly Street, Pickering, ON</p>
                             </div>
@@ -126,7 +194,7 @@
                     <div class="col">
                         <div class="afte-proj">
                             <img src="images/sf3.webp" alt="Bristol Palace" class="img-fluid rounded-mine imghei">
-                            <div class="img-text">
+                            <div class="img-text card">
                                 <p class="mb-0">SF3 Condominiums</p>
                                 <p class="mb-0 tet-s">Bayly Street,  Pickering,   ON</p>
                             </div>
@@ -135,7 +203,7 @@
                     <div class="col">
                         <div class="afte-proj">
                             <img src="images/central-district.webp" alt="The Unionville Condos" class="img-fluid rounded-mine imghei">
-                            <div class="img-text">
+                            <div class="img-text card">
                                 <p class="mb-0">Central District Towns</p>
                                 <p class="mb-0 tet-s">770 Kingston Road,  Pickering, ON</p>
                             </div>
@@ -144,7 +212,7 @@
                     <div class="col">
                         <div href="#" class="afte-proj">
                             <img src="images/market-district.webp" alt="New Seaton" class="img-fluid rounded-mine imghei">
-                            <div class="img-text">
+                            <div class="img-text card">
                                 <p class="mb-0">Market District Urban Towns</p>
                                 <p class="mb-0 tet-s">Whites Road North,  Pickering,   ON</p>
                             </div>
@@ -153,7 +221,7 @@
                     <div class="col">
                         <div href="#" class="afte-proj">
                             <img src="images/citywalk.webp" alt="The Unionville Condos" class="img-fluid rounded-mine imghei">
-                            <div class="img-text">
+                            <div class="img-text card">
                                 <p class="mb-0">Citywalk Towns</p>
                                 <p class="mb-0 tet-s">Pickering Parkway & Brock Road,  Pickering,   ON</p>
                             </div>
@@ -177,6 +245,58 @@
                 <div class="p-1  d-flex justify-content-center">
                 <iframe width="900" height="415" src="https://www.youtube.com/embed/8iC7Oluzwn4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                 </div>
+            </div>
+        </div>
+    </section>
+
+    <section data-aos="fade-up" >
+        <div class="container pt-md-5 pt-5" id="video">
+            <div class="pt-md-5 "></div>
+            <div class="py-5" data-aos="fade-up" data-aos-duration="2000" data-aos-delay="50">
+                <h2 class="fw-bold fs-1 mb-0 text-center justify-content-center" data-aos="fade-up">
+                    <span class="mx-1 pb-3">News and Updates</span> </span>
+                </h2>
+                <span class="small-text text-center d-flex justify-content-center custom-underline pb-3 px-2">See the latest news and updates on Durhan Region</span>
+                
+                <div class="row row-cols-1 row-cols-md-3 g-4">
+  <div class="col">
+    <div class="card ">
+      <img src="./images/highmark.png" class="imghei" alt="...">
+      <div class="card-body">
+        <h5 class="card-title">Card title</h5>
+        <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+      </div>
+      <div class="card-footer">
+        <small class="text-muted">Last updated 3 mins ago</small>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card ">
+      <img src="./images/ajax/garden-on-the-bay.png" class="imghei" alt="...">
+      <div class="card-body">
+        <h5 class="card-title">Card title</h5>
+        <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
+      </div>
+      <div class="card-footer">
+        <small class="text-muted">Last updated 3 mins ago</small>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card ">
+      <img src="./images/oshawa/uc-tower-3.jpg" class="imghei" alt="...">
+      <div class="card-body">
+        <h5 class="card-title">Card title</h5>
+        <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
+      </div>
+      <div class="card-footer">
+        <small class="text-muted">Last updated 3 mins ago</small>
+      </div>
+    </div>
+  </div>
+</div>
+
             </div>
         </div>
     </section>
@@ -313,16 +433,16 @@
                         <h5 class="text-dark fw-bold mt-3 mb-3 ">Pre construiction Cities</h5>
                         <div class="list d-block ">
                             <p class="mybot pb-md-0 pb-0 ">
-                                <a href ="./index.php" class ="text-dark">Pre construction homes Pickering</a>
+                                <a href ="./pre-construction-homes-pickering/" class ="text-dark">Pre construction homes Pickering</a>
                             </p>
                             <p class="mybot pb-md-0 pb-0 ">
-                            <a href ="./pre-construction-homes-ajax.php" class ="text-dark">Pre construction homes Ajax</a>
+                            <a href ="./pre-construction-homes-ajax/" class ="text-dark">Pre construction homes Ajax</a>
                             </p>
                             <p class="mybot pb-md-0 pb-0 ">
-                            <a href ="./pre-construction-homes-whitby.php" class ="text-dark">Pre construction homes Whitby</a>
+                            <a href =".pre-construction-homes-whitby/" class ="text-dark">Pre construction homes Whitby</a>
                             </p>
                             <p class="mybot pb-md-0 pb-0 ">
-                            <a href ="./pre-construction-homes-oshawa.php" class ="text-dark">Pre construction homes Oshawa</a>
+                            <a href ="./pre-construction-homes-oshawa/" class ="text-dark">Pre construction homes Oshawa</a>
                             </p>
 
                         </div>
