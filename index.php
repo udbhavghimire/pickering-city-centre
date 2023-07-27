@@ -16,10 +16,10 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css">
 
-    <title> 10+ New homes in Durham | Book Today</title>
+    <title> Durham New Construction Homes | New Projects</title>
 
     <meta name="title" content="10+ New homes in Durham | Book Today">
-    <meta name="description" content="Pickering City Centre Condos is a new condo development by CentreCourt Developments currently in planning at 1355 A Kingston Road, Pickering, ON. The development is launching in  2023. Pickering City Centre Condos has a total of 55 Storeys.">
+    <meta name="description" content="New Construction Homes & Condos in Durham | Find Pre construction Detached, Townhomes & condos in Durham. Plans & pricing available">
     <meta name="keywords" content="Pickering City Centre, Pickering City Centre, Pickering City Centre Condos, CentreCourt Developments, Pre construction condos in pickering,  condo in pickering">
     <meta name="robots" content="index, follow">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
