@@ -129,8 +129,17 @@
                 <div class="my-md-5 my-3"></div>
                 <div class="pt-md-5 pt-5">
                     <h1 class="fw-bold fs-1  mx-1 ps-md-0 d-flex justify-content-center align-items-center  brand-color text-center">
-                    Everything about pre construction development in Durham region <br> ( Pickering, Ajax, Whitby & Oshawa ) 
+                    Everything about new construction development in Durham region 
                     </h1>
+                    <div class="d-flex justify-content-center align-items-center  brand-color text-center">
+                    <h2>
+                        
+                        ( <a class="brand-color" href="/pre-construction-homes-pickering/">Pickering</a>,      
+                        <a class=" brand-color" href="/pre-construction-homes-ajax/">Ajax</a>,
+                        <a class=" brand-color" href="/pre-construction-homes-whitby/">Whitby</a> &
+                        <a class=" brand-color" href="/pre-construction-homes-oshawa/">Oshawa</a> ) 
+                    </h2>
+</div>
                     <span class="small-text text-center d-flex justify-content-center custom-underline pb-3 mx-1">All upcoming and current pre construction detached, townhomes & condos in Durham region | Updated Daily </span>
                 </div>
                 <div class="rounded-3">
@@ -185,8 +194,17 @@
                 <div class="my-md-5 my-3"></div>
                 <div class="pt-md-5 pt-5">
                     <h2 class="fw-bold fs-1  mx-1 ps-md-0 d-flex justify-content-center align-items-center brand-color text-center">
-                   Previous pre construction projects in Durkham <br> (Pickering, Ajax, Whitby & Oshawa)
+                   Previous pre construction projects in Durkham 
                     </h2>
+                    <div class="d-flex justify-content-center align-items-center  brand-color text-center">
+                    <h2>
+                        
+                        ( <a class="brand-color" href="/pre-construction-homes-pickering/">Pickering</a>,      
+                        <a class=" brand-color" href="/pre-construction-homes-ajax/">Ajax</a>,
+                        <a class=" brand-color" href="/pre-construction-homes-whitby/">Whitby</a> &
+                        <a class=" brand-color" href="/pre-construction-homes-oshawa/">Oshawa</a> ) 
+                    </h2>
+</div>
                 </div>
                 <div class="rounded-3">
                     <div class="d-flex justify-content-between pb-3">
