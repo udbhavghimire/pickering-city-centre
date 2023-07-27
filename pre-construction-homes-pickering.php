@@ -16,9 +16,9 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css">
 
-    <title> Pre construction homes for sale in Oshawa | Register Today</title>
+    <title> Pre construction homes for sale in Pickering | Register Today</title>
 
-    <meta name="title" content="Pickering City Centre Condos | Register Today">
+    <meta name="title" content="Pre construction homes for sale in Pickering | Register Today">
     <meta name="description" content="Pickering City Centre Condos is a new condo development by CentreCourt Developments currently in planning at 1355 A Kingston Road, Pickering, ON. The development is launching in  2023. Pickering City Centre Condos has a total of 55 Storeys.">
     <meta name="keywords" content="Pickering City Centre, Pickering City Centre, Pickering City Centre Condos, CentreCourt Developments, Pre construction condos in pickering,  condo in pickering">
     <meta name="robots" content="index, follow">
@@ -60,46 +60,46 @@
                 <div class="my-md-5 my-3"></div>
                 <div class="pt-md-5 pt-5">
                     <h1 class="fw-bold fs-1  mx-1 ps-md-0 d-flex justify-content-center align-items-center  brand-color text-center">
-                    Top Pre construction homes in Oshawa | New Updates*
+                    Top Pre construction homes in Pickering | New Updates* 
                     </h1>
-                    <span class="small-text text-center d-flex justify-content-center custom-underline pb-3 mx-1">New Pre construction Detached, Townhomes, or Condos for sale in Oshawa, Ontario </span>
+                    <span class="small-text text-center d-flex justify-content-center custom-underline pb-3 mx-1">New Pre construction Detached, Townhomes, or Condos for sale in Pickering, Ontario </span>
                 </div>
                 <div class="rounded-3">
                     <div class="d-flex justify-content-between pb-3">
                     <div class="row row-cols-1 row-cols-sm-2 row-cols-lg-4 justify-content-center g-4 mt-2">
                     <div class="col">
                         <div class="afte-proj">
-                            <img src="images/oshawa/Palmetto-Homes.jpg" alt="Palmetto Homes" class="img-fluid rounded-mine imghei">
+                            <img src="images/new-seaton.webp" alt="Bristol Palace" class="img-fluid rounded-mine imghei">
                             <div class="img-text">
-                                <p class="mb-0">Palmetto Homes</p>
-                                <p class="mb-0 tet-s">1290 Conlin Rd E, Oshawa</p>
+                                <p class="mb-0">New Seaton</p>
+                                <p class="mb-0 tet-s">Taunton Road & Sideline 26, Pickering, ON</p>
                             </div>
                         </div>
                     </div>
                     <div class="col">
                         <div class="afte-proj">
-                            <img src="images/oshawa/treehouse_studios.webp" alt="Treehouse Studios" class="img-fluid rounded-mine imghei">
+                            <img src="images/highmark.png" alt="The Unionville Condos" class="img-fluid rounded-mine imghei">
                             <div class="img-text">
-                                <p class="mb-0">Treehouse Studios</p>
-                                <p class="mb-0 tet-s">1664 Simcoe Street North, Oshawa, ON</p>
+                                <p class="mb-0">The Highmark Condos</p>
+                                <p class="mb-0 tet-s">1640 Kingston Road, Pickering, ON</p>
                             </div>
                         </div>
                     </div>
                     <div class="col">
                         <div href="#" class="afte-proj">
-                            <img src="images/oshawa/nahid-harbour.webp" alt="Nahid Harbour Condos" class="img-fluid rounded-mine imghei">
+                            <img src="images/riverside.png" alt="New Seaton" class="img-fluid rounded-mine imghei">
                             <div class="img-text">
-                                <p class="mb-0">Nahid Harbour Condos</p>
-                                <p class="mb-0 tet-s">80 Harbour Road, Oshawa, ON</p>
+                                <p class="mb-0">Riverside Towns on Brock</p>
+                                <p class="mb-0 tet-s">2165 Brock Road, Pickering, ON</p>
                             </div>
                         </div>
                     </div>
                     <div class="col">
                         <div href="#" class="afte-proj">
-                            <img src="images/oshawa/uc-tower-3.jpg" alt="U.C. Tower 3" class="img-fluid rounded-mine imghei">
+                            <img src="images/universal.jpg" alt="The Unionville Condos" class="img-fluid rounded-mine imghei">
                             <div class="img-text">
-                                <p class="mb-0">U.C. Tower 3</p>
-                                <p class="mb-0 tet-s">2691 Durham Regional Rd 2, Oshawa</p>
+                                <p class="mb-0">Universal City East Condos</p>
+                                <p class="mb-0 tet-s">1496 Bayly Street, Pickering, ON</p>
                             </div>
                         </div>
                     </div>
@@ -116,7 +116,7 @@
                 <div class="my-md-5 my-3"></div>
                 <div class="pt-md-5 pt-5">
                     <h2 class="fw-bold fs-1  mx-1 ps-md-0 d-flex justify-content-center align-items-center brand-color text-center">
-                   Sold out projects in Oshawa
+                    Sold out projects in Oshawa
                     </h2>
                 </div>
                 <div class="rounded-3">
@@ -160,6 +160,21 @@
                     </div>
                 </div>
                     </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section data-aos="fade-up" >
+        <div class="container pt-md-5 pt-5" id="video">
+            <div class="pt-md-5 "></div>
+            <div class="py-5" data-aos="fade-up" data-aos-duration="2000" data-aos-delay="50">
+                <h2 class="fw-bold fs-1 mb-0 text-center justify-content-center" data-aos="fade-up">
+                    <span class="mx-1 pb-3">Pickering's Bold New City Centre Vision</span> </span>
+                </h2>
+                <span class="small-text text-center d-flex justify-content-center custom-underline pb-3 px-2">Discover the Heart of Pickering: Pickering City Centre Condos</span>
+                <div class="p-1  d-flex justify-content-center">
+                <iframe width="900" height="415" src="https://www.youtube.com/embed/8iC7Oluzwn4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                 </div>
             </div>
         </div>
@@ -227,9 +242,9 @@
                     <!-- <div class="text-center pt-3 ">
                         <img src="images/empire-logo.png " class="img-fluid regoimg " alt="Empire Communities Logo ">
                     </div> -->
-                    <h6 class="text-center fs-1 fw-bold pt-3 register " > Register today</h6>
+                    <h6 class="text-center fs-1 fw-bold pt-3 register " > Send Me Latest Information</h6>
                     <div class="registertext px-4 d-flex justify-content-center align-items-center text-center ">
-                        <p>Register today and get the first update on Pickering City Centre Condos
+                        <p>Send me informatiuon on latest pre construction project in Durham Region 
                         </p>
                     </div>
 
