@@ -116,9 +116,9 @@
                 <div class="my-md-5 my-3"></div>
                 <div class="pt-md-5 pt-5">
                     <h2 class="fw-bold fs-1  mx-1 ps-md-0 d-flex justify-content-center align-items-center brand-color text-center">
-                   Sold out projects in Ajax
+                    Past New Pre Construction Projects in Ajax
                     </h2>
-                    <span class="small-text text-center d-flex justify-content-center custom-underline pb-3 mx-1">New Pre construction Detached, Townhomes, or Condos for sale in Ajax, Ontario </span>
+                    <span class="small-text text-center d-flex justify-content-center custom-underline pb-3 mx-1">See the pricing, plans & information about previous pre-construction homes sold in Ajax</span>
                 </div>
                 <div class="rounded-3">
                     <div class="d-flex justify-content-between pb-3">
