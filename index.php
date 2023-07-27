@@ -129,7 +129,7 @@
                 <div class="my-md-5 my-3"></div>
                 <div class="pt-md-5 pt-5">
                     <h1 class="fw-bold fs-1  mx-1 ps-md-0 d-flex justify-content-center align-items-center  brand-color text-center">
-                    Everything about new construction development in Durham region 
+                    Latest New Construction Development in Durham Region | Updated Daily
                     </h1>
                     <div class="d-flex justify-content-center align-items-center  brand-color text-center">
                     <h2>
@@ -194,7 +194,7 @@
                 <div class="my-md-5 my-3"></div>
                 <div class="pt-md-5 pt-5">
                     <h2 class="fw-bold fs-1  mx-1 ps-md-0 d-flex justify-content-center align-items-center brand-color text-center">
-                   Previous pre construction projects in Durkham 
+                    Past New Pre Construction Projects in Durham
                     </h2>
                     <div class="d-flex justify-content-center align-items-center  brand-color text-center">
                     <h2>
@@ -272,17 +272,17 @@
             <div class="pt-md-5 "></div>
             <div class="py-5" data-aos="fade-up" data-aos-duration="2000" data-aos-delay="50">
                 <h2 class="fw-bold fs-1 mb-0 text-center justify-content-center" data-aos="fade-up">
-                    <span class="mx-1 pb-3">News and Updates</span> </span>
+                    <span class="mx-1 pb-3">Latest Durham Preconstruction Development News & Updates</span> </span>
                 </h2>
-                <span class="small-text text-center d-flex justify-content-center custom-underline pb-3 px-2">See the latest news and updates on Durhan Region</span>
+                <span class="small-text text-center d-flex justify-content-center custom-underline pb-3 px-2">Preconstruction homes in Pickering, Ajax, Whitby & Oshawa news & updates </span>
                 
                 <div class="row row-cols-1 row-cols-md-3 g-4">
   <div class="col">
     <div class="card ">
       <img src="./images/highmark.png" class="imghei" alt="...">
       <div class="card-body">
-        <h5 class="card-title">Card title</h5>
-        <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+        <h5 class="card-title fw-bold pb-2">Pickering City centre condos coming in september - Centrecourt </h5>
+        <p class="card-text">Pickering City Centre Condo - Most anticipated Condo Project to come to Pickering.</p>
       </div>
       <div class="card-footer">
         <small class="text-muted">Last updated 3 mins ago</small>
@@ -293,7 +293,7 @@
     <div class="card ">
       <img src="./images/ajax/garden-on-the-bay.png" class="imghei" alt="...">
       <div class="card-body">
-        <h5 class="card-title">Card title</h5>
+      <h5 class="card-title fw-bold pb-2">Pickering City centre condos coming in september - Centrecourt </h5>
         <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
       </div>
       <div class="card-footer">
@@ -305,7 +305,7 @@
     <div class="card ">
       <img src="./images/oshawa/uc-tower-3.jpg" class="imghei" alt="...">
       <div class="card-body">
-        <h5 class="card-title">Card title</h5>
+      <h5 class="card-title fw-bold pb-2">Pickering City centre condos coming in september - Centrecourt </h5>
         <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
       </div>
       <div class="card-footer">
@@ -323,13 +323,13 @@
     <section class="mt-md-5 py-md-5" id = "faq">
         <div class="container mt-5" data-aos="fade-up" data-aos-duration="2000" data-aos-delay="50">
         <h2 class="fw-bold fs-1 mb-0 text-center justify-content-center" data-aos="fade-up">
-                    <span class="mx-1 pb-5"> Pickering Pre construction Home Buying FAQ</span> </span>
+                    <span class="mx-1 pb-5"> Durham Pre construction Home Buying FAQ</span> </span>
                 </h2>
         <div class="accordion accordion-flush pt-4" id="accordionFlushExample">
   <div class="accordion-item">
     <h2 class="accordion-header " id="flush-headingOne">
       <button class="accordion-button collapsed " type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseOne" aria-expanded="false" aria-controls="flush-collapseOne">
-      What is the average housing market price in Pickering?
+      What is the average housing market price in Durham Region?
       </button>
     </h2>
     <div id="flush-collapseOne" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
@@ -339,7 +339,7 @@
   <div class="accordion-item">
     <h2 class="accordion-header" id="flush-headingThree">
       <button class="accordion-button collapsed " type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseThree" aria-expanded="false" aria-controls="flush-collapseThree">
-      What are the benefits of buying a pre-construction home in Pickering?
+      What are the benefits of buying a pre-construction home in Durham Region?
       </button>
     </h2>
     <div id="flush-collapseThree" class="accordion-collapse collapse" aria-labelledby="flush-headingThree" data-bs-parent="#accordionFlushExample">
@@ -356,7 +356,7 @@
   <div class="accordion-item">
     <h2 class="accordion-header" id="flush-headingTwo">
       <button class="accordion-button collapsed " type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseTwo" aria-expanded="false" aria-controls="flush-collapseTwo">
-      What should I consider before buying a pre-construction home in Pickering?
+      What should I consider before buying a pre-construction home in Durham Region?
       </button>
     </h2>
     <div id="flush-collapseTwo" class="accordion-collapse collapse" aria-labelledby="flush-headingTwo" data-bs-parent="#accordionFlushExample">
