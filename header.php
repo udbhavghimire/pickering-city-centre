@@ -4,17 +4,18 @@
                 <a href="/" class="navbar-brand">
                 <img src="../images/the-pickering-logo.png" class="navbar-brand"  alt="The Pickeiring Logo">
                 </a>
-                <div class="dropdown d-block d-md-none">
+                <div class="dropdown d-block d-md-none shadow-lg rounded-3 mt-4">
                             <a class="nav-link scrollto" href="#cities">Cities
                             <i class="bi bi-caret-down-fill"></i>
                             </a>
-                                <div class="dropdown-menu" aria-labelledby="hoverDropdown">
+                                <div class="dropdown-menu dropdown-menu-end" aria-labelledby="hoverDropdown">
                                     <a class="dropdown-item" href="../pre-construction-homes-pickering/">Pre construction homes  Pickering</a>
                                     <a class="dropdown-item" href="../pre-construction-homes-whitby/">Pre construction homes  Whitby</a>
                                     <a class="dropdown-item" href="../pre-construction-homes-ajax/">Pre construction homes  Ajax</a>
                                     <a class="dropdown-item" href="../pre-construction-homes-oshawa/">Pre construction homes  Oshawa</a>
                                 </div>
-                <button class="d-block d-md-none btn" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+               </div>   
+                <button class="d-block d-md-none btn mt-4" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
           <svg width="18" height="12" viewBox="0 0 18 12" fill="none" xmlns="http://www.w3.org/2000/svg">
             <path d="M0 12H18V10H0V12ZM0 7H18V5H0V7ZM0 0V2H18V0H0Z" fill="black" />
           </svg>
@@ -72,6 +73,6 @@
                         </ul>
                     </div>
                 </div>
-            </div>
+            
         </nav>
     </div>
