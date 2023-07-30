@@ -159,37 +159,53 @@
                     <div class="row row-cols-1 row-cols-sm-2 row-cols-lg-4 justify-content-center g-4 mt-2">
                     <div class="col">
                         <div class="afte-proj">
-                            <img src="images/new-seaton.webp" alt="Bristol Palace" class="img-fluid rounded-mine imghei">
-                            <div class="img-text card ">
+                            <img src="./images/new-seaton.webp" alt="Bristol Palace" class="img-fluid rounded-mine imghei">
+                            <div class="img-text card">
                                 <p class="mb-0">New Seaton</p>
+                                <p class="mb-0 card-price">Starting from low $700k</p>
                                 <p class="mb-0 tet-s">Taunton Road & Sideline 26, Pickering, ON</p>
+                                <p class="mb-0 tet-s">Move in Est. Spring 2024</p>
+                                <p class="mb-0 tet-s">Developed by: Towerhill Homes</p>
+                                <p class="mb-0 tet-s"> No of units: 0</p>
                             </div>
                         </div>
                     </div>
                     <div class="col">
                         <div class="afte-proj">
-                            <img src="images/highmark.png" alt="The Unionville Condos" class="img-fluid rounded-mine imghei">
-                            <div class="img-text card ">
+                            <img src="./images/highmark.png" alt="The Unionville Condos" class="img-fluid rounded-mine imghei">
+                            <div class="img-text card">
                                 <p class="mb-0">The Highmark Condos</p>
+                                <p class="mb-0 card-price">Starting from low $500k</p>
                                 <p class="mb-0 tet-s">1640 Kingston Road, Pickering, ON</p>
+                                <p class="mb-0 tet-s">Move in TBD</p>
+                                <p class="mb-0 tet-s">Developed by: Highmark Homes</p>
+                                <p class="mb-0 tet-s"> No of units: 346</p>
                             </div>
                         </div>
                     </div>
                     <div class="col">
                         <div href="#" class="afte-proj">
-                            <img src="images/riverside.png" alt="New Seaton" class="img-fluid rounded-mine imghei">
+                            <img src="./images/riverside.png" alt="New Seaton" class="img-fluid rounded-mine imghei">
                             <div class="img-text card">
                                 <p class="mb-0">Riverside Towns on Brock</p>
+                                <p class="mb-0 card-price">Pricing not available</p>
                                 <p class="mb-0 tet-s">2165 Brock Road, Pickering, ON</p>
+                                <p class="mb-0 tet-s">Move in TBD</p>
+                                <p class="mb-0 tet-s">Developed by: Skale Developments</p>
+                                <p class="mb-0 tet-s"> No of units: 53</p>
                             </div>
                         </div>
                     </div>
                     <div class="col">
                         <div href="#" class="afte-proj">
-                            <img src="images/universal.jpg" alt="The Unionville Condos" class="img-fluid rounded-mine imghei">
+                            <img src="./images/universal.jpg" alt="The Unionville Condos" class="img-fluid rounded-mine imghei">
                             <div class="img-text card">
                                 <p class="mb-0">Universal City East Condos</p>
+                                <p class="mb-0 card-price">Pricing not available</p>
                                 <p class="mb-0 tet-s">1496 Bayly Street, Pickering, ON</p>
+                                <p class="mb-0 tet-s">Move in TBD</p>
+                                <p class="mb-0 tet-s">Developed by: Chestnut Hill Developments</p>
+                                <p class="mb-0 tet-s"> No of units: 302</p>
                             </div>
                         </div>
                     </div>
@@ -223,37 +239,49 @@
                     <div class="row row-cols-1 row-cols-sm-2 row-cols-lg-4 justify-content-center g-4 mt-2">
                     <div class="col">
                         <div class="afte-proj">
-                            <img src="images/sf3.webp" alt="Bristol Palace" class="img-fluid rounded-mine imghei">
+                            <img src="./images/sf3.webp" alt="Bristol Palace" class="img-fluid rounded-mine imghei">
                             <div class="img-text card">
                                 <p class="mb-0">SF3 Condominiums</p>
-                                <p class="mb-0 tet-s">Bayly Street,  Pickering,   ON</p>
+                                <p class="mb-0 tet-s">Bayly Street, Pickering, ON</p>
+                                <p class="mb-0 tet-s">Move in 2020</p>
+                                <p class="mb-0 tet-s">Developed by: Chestnut Hill Developments</p>
+                                <p class="mb-0 tet-s"> No of units: 302</p>
                             </div>
                         </div>
                     </div>
                     <div class="col">
                         <div class="afte-proj">
-                            <img src="images/central-district.webp" alt="The Unionville Condos" class="img-fluid rounded-mine imghei">
+                            <img src="./images/central-district.webp" alt="The Unionville Condos" class="img-fluid rounded-mine imghei">
                             <div class="img-text card">
                                 <p class="mb-0">Central District Towns</p>
                                 <p class="mb-0 tet-s">770 Kingston Road,  Pickering, ON</p>
+                                <p class="mb-0 tet-s">Move in 2024</p>
+                                <p class="mb-0 tet-s">Developed by:  Icon Homes and Old Orchard Development</p>
+                                <p class="mb-0 tet-s"> No of units: 88 </p>
                             </div>
                         </div>
                     </div>
                     <div class="col">
                         <div href="#" class="afte-proj">
-                            <img src="images/market-district.webp" alt="New Seaton" class="img-fluid rounded-mine imghei">
+                            <img src="./images/market-district.webp" alt="New Seaton" class="img-fluid rounded-mine imghei">
                             <div class="img-text card">
                                 <p class="mb-0">Market District Urban Towns</p>
                                 <p class="mb-0 tet-s">Whites Road North,  Pickering,   ON</p>
+                                <p class="mb-0 tet-s">Move in 2020</p>
+                                <p class="mb-0 tet-s">Developed by: Icon Homes</p>
+                                <p class="mb-0 tet-s"> No of units: 92</p>
                             </div>
                         </div>
                     </div>
                     <div class="col">
                         <div href="#" class="afte-proj">
-                            <img src="images/citywalk.webp" alt="The Unionville Condos" class="img-fluid rounded-mine imghei">
+                            <img src="./images/citywalk.webp" alt="The Unionville Condos" class="img-fluid rounded-mine imghei">
                             <div class="img-text card">
                                 <p class="mb-0">Citywalk Towns</p>
                                 <p class="mb-0 tet-s">Pickering Parkway & Brock Road,  Pickering,   ON</p>
+                                <p class="mb-0 tet-s">Move in TBD</p>
+                                <p class="mb-0 tet-s">Developed by: Metropia</p>
+                                <p class="mb-0 tet-s"> No of units: 103</p>
                             </div>
                         </div>
                     </div>
