@@ -18,8 +18,8 @@
 
     <title> Pre construction homes for sale in Oshawa | Register Today</title>
 
-    <meta name="title" content="Pickering City Centre Condos | Register Today">
-    <meta name="description" content="Pickering City Centre Condos is a new condo development by CentreCourt Developments currently in planning at 1355 A Kingston Road, Pickering, ON. The development is launching in  2023. Pickering City Centre Condos has a total of 55 Storeys.">
+    <meta name="title" content="Pre construction homes for sale in Oshawa | Register Today">
+    <meta name="description" content="New Construction Homes & Condos in Oshawa | Find Pre construction Detached, Townhomes & condos in Oshawa. Plans & pricing.">
     <meta name="keywords" content="Pickering City Centre, Pickering City Centre, Pickering City Centre Condos, CentreCourt Developments, Pre construction condos in pickering,  condo in pickering">
     <meta name="robots" content="index, follow">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -257,7 +257,7 @@
                                 <div class=" "><textarea name="message" id="message" placeholder="Enter your message" class="fields mess" required></textarea></div>
                             </div>
                             <div class="row ">
-                                <p class=" text-muted sm-text text-center mt-0 ">*I consent to receive future communications about Pickering City Centre Homes. I understand I can opt out at anytime by sending an email.</p>
+                                <p class=" text-muted sm-text text-center mt-0 ">*I consent to receive future communications about Pre construction homes in Oshawa. I understand I can opt out at anytime by sending an email.</p>
                             </div>
                             <div class="row ">
                                 <div class="col text-center ">

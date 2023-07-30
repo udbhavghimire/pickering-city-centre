@@ -18,8 +18,8 @@
 
     <title> Pre construction homes for sale in Whitby | Register Today</title>
 
-    <meta name="title" content="Pickering City Centre Condos | Register Today">
-    <meta name="description" content="Pickering City Centre Condos is a new condo development by CentreCourt Developments currently in planning at 1355 A Kingston Road, Pickering, ON. The development is launching in  2023. Pickering City Centre Condos has a total of 55 Storeys.">
+    <meta name="title" content="Pre construction homes for sale in Whitby | Register Today">
+    <meta name="description" content="New Construction Homes & Condos in Whitby | Find Pre construction Detached, Townhomes & condos in Whitby. Plans & pricing available">
     <meta name="keywords" content="Pickering City Centre, Pickering City Centre, Pickering City Centre Condos, CentreCourt Developments, Pre construction condos in pickering,  condo in pickering">
     <meta name="robots" content="index, follow">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -61,7 +61,7 @@
                     <h1 class="fw-bold fs-1  mx-1 ps-md-0 d-flex justify-content-center align-items-center  brand-color text-center">
                     Top Pre construction homes in Whitby | New Updates*
                     </h1>
-                    <span class="small-text text-center d-flex justify-content-center custom-underline pb-3 mx-1">New Pre construction Detached, Townhomes, or Condos for sale in Pickering, Ontario </span>
+                    <span class="small-text text-center d-flex justify-content-center custom-underline pb-3 mx-1">New Pre construction Detached, Townhomes, or Condos for sale in Whitby, Ontario </span>
                 </div>
                 <div class="rounded-3">
                     <div class="d-flex justify-content-between pb-3">
@@ -172,7 +172,7 @@
     <section class="mt-md-5 py-md-5" id = "faq">
         <div class="container mt-5" data-aos="fade-up" data-aos-duration="2000" data-aos-delay="50">
         <h2 class="fw-bold fs-1 mb-0 text-center justify-content-center" data-aos="fade-up">
-                    <span class="mx-1 pb-5"> Pickering Pre construction Home Buying FAQ</span> </span>
+                    <span class="mx-1 pb-5"> Whitby Pre construction Home Buying FAQ</span> </span>
                 </h2>
         <div class="accordion accordion-flush pt-4" id="accordionFlushExample">
   <div class="accordion-item">
@@ -258,7 +258,7 @@
                                 <div class=" "><textarea name="message" id="message" placeholder="Enter your message" class="fields mess" required></textarea></div>
                             </div>
                             <div class="row ">
-                                <p class=" text-muted sm-text text-center mt-0 ">*I consent to receive future communications about Pickering City Centre Homes. I understand I can opt out at anytime by sending an email.</p>
+                                <p class=" text-muted sm-text text-center mt-0 ">*I consent to receive future communications about Pre construction homes in Whitby. I understand I can opt out at anytime by sending an email.</p>
                             </div>
                             <div class="row ">
                                 <div class="col text-center ">

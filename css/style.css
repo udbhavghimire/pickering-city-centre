@@ -196,6 +196,14 @@
 .tet-s {
     font-size: 0.9rem;
     font-weight: 500;
+    padding-bottom: 6px;
+}
+
+.card-price {
+    font-size: 1.2rem;
+    color: #00b5d6;
+    font-weight: 500;
+    padding-bottom: 6px;
 }
 
 .rounded-mine {

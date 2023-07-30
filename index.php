@@ -291,13 +291,14 @@
                 <div class="row row-cols-1 row-cols-md-3 g-4">
   <div class="col">
     <div class="card ">
-      <img src="./images/highmark.png" class="imghei" alt="...">
+      <img src="./images/pickering-news.jpg" class="imghei" alt="...">
       <div class="card-body">
-        <h5 class="card-title fw-bold pb-2">Pickering City centre condos coming in september - Centrecourt </h5>
-        <p class="card-text">Pickering City Centre Condo - Most anticipated Condo Project to come to Pickering.</p>
+        <h5 class="card-title fw-bold pb-2">New Pickering Town Centre plans make way for 55-storey building </h5>
+        <p class="card-text">There’s a new plan for the demolished wing of the Pickering Town Centre, and the planning and development committee has approved it. At the Monday, Jan. 6 meeting, the committee approved OPB Realty Inc.’s draft plan of a subdivision on the easterly portion of the Pickering Town Centre property, consisting of nine development blocks, one parkland block and new internal and private roads. There will be 5,099 residential units, and buildings ranging between nine and 55 storeys. There will also be 3,418 square metres of commercial or retail space spread among the nine development blocks.
+</p>
       </div>
       <div class="card-footer">
-        <small class="text-muted">Last updated 3 mins ago</small>
+        <small class="text-muted">Source: Durkhamregion</small>
       </div>
     </div>
   </div>
