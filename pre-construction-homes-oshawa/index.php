@@ -274,6 +274,29 @@
         </div>
     </section>
 
+    <section data-aos="fade-up" >
+        <div class="container pt-md-5 pt-5" id="video">
+            <div class="pt-md-5 "></div>
+            <div class="py-5" data-aos="fade-up" data-aos-duration="2000" data-aos-delay="50">
+                <h2 class="fw-bold fs-1 mb-0 text-center justify-content-center" data-aos="fade-up">
+                    <span class="mx-1 pb-3">Top new homes in Oshawa for sale</span> </span>
+                </h2>
+                <span class="small-text text-center d-flex justify-content-center custom-underline pb-4 px-2">The most anticipated pre construction homes for sale in Oshawa</span>
+                <div class="p-1  d-flex justify-content-center align-items-center precon-list">
+                <p>
+                1. Palmetto Homes - Palmetto is a new townhouse community by Treasure Hill Homes currently in preconstruction at Oshawa. Situated in the thriving Palmetto North Oshawa area, astute homebuyers have been captivated by the irresistible charm of this exceptional location. Immerse yourself in a wealth of amenities and attractions that define the uniqueness of Palmetto North Oshawa. Delight in unparalleled shopping opportunities, indulge in mouthwatering dining choices, and embrace the pleasure of nearby golf courses. <br> <br>
+
+            2. The Heights of Harmony  - The Heights of Harmony is a new townhouse and single family home development by Minto Communities currently under construction at Harmony Road North, Oshawa. Available units range in price from $844,900 to over $1,509,900. The Heights of Harmony unit sizes range from 2006 to 2863 square feet. <br> <br>
+
+            3. Nahid Harbour Condos - Nahid Harbour is a new condo development by Nahid Corp currently in preconstruction at 80 Harbour Road, Oshawa. Nahid Harbour has a total of 694 units.Located along the shores of Lake Ontario, Nahid Harbour offers the ultimate waterfront living experience for all its residents. <br> <br>
+
+            4. Kings Cross - King's Cross is a new single family home community by Downing Street Group and Holland Homes currently in preconstruction at Melrose Street & Queensdale Avenue, Oshawa. The community is scheduled for completion in 2024. King's Cross has a total of 11 units. <br> <br>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </section>
+
     <?php require '../footer.php'; ?>
 
 <!-- 

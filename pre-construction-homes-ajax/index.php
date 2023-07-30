@@ -275,6 +275,32 @@
         </div>
     </section>
 
+    <section data-aos="fade-up" >
+        <div class="container pt-md-5 pt-5" id="video">
+            <div class="pt-md-5 "></div>
+            <div class="py-5" data-aos="fade-up" data-aos-duration="2000" data-aos-delay="50">
+                <h2 class="fw-bold fs-1 mb-0 text-center justify-content-center" data-aos="fade-up">
+                    <span class="mx-1 pb-3">Top new homes in Ajax for sale</span> </span>
+                </h2>
+                <span class="small-text text-center d-flex justify-content-center custom-underline pb-4 px-2">The most anticipated pre construction homes for sale in Ajax</span>
+                <div class="p-1  d-flex justify-content-center align-items-center precon-list">
+                <p>
+                1. New Forest at Duffin's Creek - By Haber Homes | Location: 1192 Church Street North, Ajax, ON <br><br>
+                2. 27 Harwood Ave South Condos - By U Developments | Location:27 Harwood Avenue South, Ajax <br><br>
+                3. Ajax Taunton - By Valour Group | Location: 361 Taunton Road West, Ajax <br><br>
+                4. Manhattan Place - By  Fourteen Estates and Construct & Conserve. | Location: 520 Rossland Road West, Ajax <br><br>
+                5. Garden on the Bay - By 95 Developments Inc |  Location : 282 Monarch Avenue, Ajax <br><br>
+                6. Galaxy Townhomes - By OSMI Homes | Location: 367 Porte Road, Ajax <br><br>
+                7. Forest Edge Towns - By North Star Homes | Location: 1238 Concession Rd 3 Ajax <br><br>
+                8. Jax Condos - By Crystal Glen Homes | Location : 1961 Ravenscroft Road, Ajax <br><br>
+                9. Ruback Towns - By OSMI Homes | Location : 10 Doric Street, Ajax <br><br>
+                10. Lake Pointe Condos - By Your Home Developments | Location : 253 Lake Driveway West, Ajax <br><br>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </section>
+
     <?php require '../footer.php'; ?>
 
 

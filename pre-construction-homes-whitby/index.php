@@ -275,6 +275,30 @@
         </div>
     </section>
 
+    <section data-aos="fade-up" >
+        <div class="container pt-md-5 pt-5" id="video">
+            <div class="pt-md-5 "></div>
+            <div class="py-5" data-aos="fade-up" data-aos-duration="2000" data-aos-delay="50">
+                <h2 class="fw-bold fs-1 mb-0 text-center justify-content-center" data-aos="fade-up">
+                    <span class="mx-1 pb-3">Top new homes in Whitby for sale</span> </span>
+                </h2>
+                <span class="small-text text-center d-flex justify-content-center custom-underline pb-4 px-2">The most anticipated pre construction homes for sale in Whitby</span>
+                <div class="p-1  d-flex justify-content-center align-items-center precon-list">
+                <p>
+                1. Whitby Meadows - Whitby Meadows is a new townhouse and single family home development by Arista Homes currently under construction at Rossland Road West, Whitby. Whitby Meadow is a beautiful master-planned community offering one of the widest selections of home designs in the GTA. Amidst parks and nature trails, superb transit access, top-rated schools, restaurants, retail, and so much more, it truly offers the most comprehensive lifestyle in Whitby. Enjoy an immense selection of semis and 30’ Detached designs in the community that surrounds you with all the best Whitby has to offer. <br> <br>
+
+                2. Towns at Folkstone - Towns at Folkstone is a new townhouse development by Mansouri Living currently under construction at 6 Seven Oaks Street, Whitby. The newest and most inspiring phase of Folkstone – a limited collection of Traditional and Terrace Towns surrounded by dedicated conservation area and parks. Modern living in harmony with nature and every neccessity. A place rich with possibilities. Welcome to Towns at Folkstone <br> <br>
+
+                3. Springhill - Springhill is a new townhouse and single family home development by CedarOak Homes and Brookfield Residential currently in preconstruction at Conlin Road & Anderson Street, Whitby. A place with a true sense of community, which has made it one of the most sought-after neighbourhoods just south of Brooklin. There’s shopping and dining, beautiful parks, conservation areas and golf courses right around the corner, and even ski hills nearby. You can be in Downtown Whitby in minutes with a world of amenities, and with Highways 401, 407 and 412 at your doorstep, you can get wherever you need to go. But chances are, everything you want is already here.<br> <br>
+
+                4. The Trails of Country Lane - The Trails of Country Lane is a new townhouse and single family home development by Heathwood currently under construction at Country Lane, Whitby. The Trails is the latest phase of Country Lane, a master-planned community that’s home to over 300 families. Soon releasing a brand new collection of Luxury Detached homes on 36’ and 45’ lots with timeless classic brick and stone facades and oversized picture windows. Come home to magnificent great rooms, master chef kitchens, elegant bedrooms and spa inspired ensuites. It’s modern style and comfort on a whole new level. <br> <br>
+                    
+              </p>
+                </div>
+            </div>
+        </div>
+    </section>
+
     <?php require '../footer.php'; ?>
 
 

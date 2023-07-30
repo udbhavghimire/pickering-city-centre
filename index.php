@@ -105,10 +105,10 @@
                             <i class="bi bi-caret-down-fill"></i>
                             </a>
                                 <div class="dropdown-menu" aria-labelledby="hoverDropdown">
-                                    <a class="dropdown-item" href="/index.php">Pre construction condos  Pickering</a>
-                                    <a class="dropdown-item" href="./pre-construction-homes-whitby.php">Pre construction condos  Whitby</a>
-                                    <a class="dropdown-item" href="./pre-construction-homes-ajax.php">Pre construction condos  Ajax</a>
-                                    <a class="dropdown-item" href="./pre-construction-homes-oshawa.php">Pre construction condos  Oshawa</a>
+                                    <a class="dropdown-item" href="/pre-construction-homes-pickering/">Pre construction condos  Pickering</a>
+                                    <a class="dropdown-item" href="./pre-construction-homes-whitby/">Pre construction condos  Whitby</a>
+                                    <a class="dropdown-item" href="./pre-construction-homes-ajax/">Pre construction condos  Ajax</a>
+                                    <a class="dropdown-item" href="./pre-construction-homes-oshawa/">Pre construction condos  Oshawa</a>
                                 </div>
                                 </div>
                             </li>
@@ -306,6 +306,7 @@
             </div>
         </div>
     </section>
+    
 
     <section data-aos="fade-up" >
         <div class="container pt-md-5 pt-5" id="video">

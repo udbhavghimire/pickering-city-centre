@@ -210,6 +210,59 @@
         </div>
     </section>
 
+    <section data-aos="fade-up" >
+        <div class="container pt-md-5 pt-5" id="video">
+            <div class="pt-md-5 "></div>
+            <div class="py-5" data-aos="fade-up" data-aos-duration="2000" data-aos-delay="50">
+                <h2 class="fw-bold fs-1 mb-0 text-center justify-content-center" data-aos="fade-up">
+                    <span class="mx-1 pb-3">Latest Pickering Preconstruction Development News & Updates</span> </span>
+                </h2>
+                <span class="small-text text-center d-flex justify-content-center custom-underline pb-3 px-2">Preconstruction homes in Pickering, Ajax, Whitby & Oshawa news & updates </span>
+                
+                <div class="row row-cols-1 row-cols-md-3 g-4">
+  <div class="col">
+    <div class="card ">
+      <img src="../images/pickering-news.jpg" class="imghei" alt="...">
+      <div class="card-body">
+        <h5 class="card-title fw-bold pb-2">New Pickering Town Centre plans make way for 55-storey building </h5>
+        <p class="card-text">There’s a new plan for the demolished wing of the Pickering Town Centre, and the planning and development committee has approved it. At the Monday, Jan. 6 meeting, the committee approved OPB Realty Inc.’s draft plan of a subdivision on the easterly portion of the Pickering Town Centre property, consisting of nine development blocks, one parkland block and new internal and private roads. There will be 5,099 residential units, and buildings ranging between nine and 55 storeys. There will also be 3,418 square metres of commercial or retail space spread among the nine development blocks.
+</p>
+      </div>
+      <div class="card-footer">
+        <small class="text-muted">Source: Durkhamregion</small>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card ">
+      <img src="../images/ajax/garden-on-the-bay.png" class="imghei" alt="...">
+      <div class="card-body">
+      <h5 class="card-title fw-bold pb-2">Pickering City centre condos coming in september - Centrecourt </h5>
+        <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
+      </div>
+      <div class="card-footer">
+        <small class="text-muted">Last updated 3 mins ago</small>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card ">
+      <img src="../images/oshawa/uc-tower-3.jpg" class="imghei" alt="...">
+      <div class="card-body">
+      <h5 class="card-title fw-bold pb-2">Pickering City centre condos coming in september - Centrecourt </h5>
+        <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
+      </div>
+      <div class="card-footer">
+        <small class="text-muted">Last updated 3 mins ago</small>
+      </div>
+    </div>
+  </div>
+</div>
+
+            </div>
+        </div>
+    </section>
+
 
     <section class="mt-md-5 py-md-5" id = "faq">
         <div class="container mt-5" data-aos="fade-up" data-aos-duration="2000" data-aos-delay="50">
@@ -316,6 +369,49 @@
             </div>
         </div>
     </section>
+
+    <section data-aos="fade-up" >
+        <div class="container pt-md-5 pt-5" id="video">
+            <div class="pt-md-5 "></div>
+            <div class="py-5" data-aos="fade-up" data-aos-duration="2000" data-aos-delay="50">
+                <h2 class="fw-bold fs-1 mb-0 text-center justify-content-center" data-aos="fade-up">
+                    <span class="mx-1 pb-3">Top new homes in Pickering for sale</span> </span>
+                </h2>
+                <span class="small-text text-center d-flex justify-content-center custom-underline pb-4 px-2">The most anticipated pre construction homes for sale in Pickering</span>
+                <div class="p-1  d-flex justify-content-center align-items-center precon-list">
+                <p>
+                    1.New Seaton - By Towerhill Homes | Location : Taunton Road & Sideline 26, Pickering, ON <br> </br>
+
+                    2.375 Kingston Road Condos - By Decade Homes | Location : 375 Kingston Road, Pickering, ON <br> </br>
+
+                    3.Je Vila Towns - By Revation Group | Location : 2620 Brock Road, Pickering, ON <br> </br>
+
+                    4.Universal City East Condos - By Chestnut Hill Developments | Location : 1496 Bayly Street, Pickering, ON <br> </br>
+
+                   5.The Grand at Universal City - By Chestnut Hill Developments | Location : 1474 Bayly Street, Pickering, ON <br> </br>
+
+                    6.The Highmark Condos - By Highmark Homes | Location : 1640 Kingston Road, Pickering, ON <br> </br>
+
+                    7.DeerView Heights - By Stonepay | Location : Palmers Sawmill Road, Pickering, ON <br> </br>
+
+                    8.Park District Towns - By Icon Homes | Location : 2574 Brock Road, Pickering, ON <br> </br> 
+
+                    9.Central District Towns - By Icon Homes and Old Orchard | Location : 770 Kingston Road, Pickering, ON <br> </br>
+
+                    10.Daniels FirstHome - By The Daniels Corporation | Location : 1525 Kingston Road, Pickering, ON <br> </br>
+                    
+
+                    11.Pickering City Centre Condos - Pickering City Centre Condos is a new upcoming condo development at Pickering, ON Canada by CentreCourt Developments which will be launched soon. Get access to plans and pricing now <br> </br> 
+
+                     12.Axess Condos : Axess condos is a new, one-of-a-kind development in Pickering. With spacious suites, and luxurious amenities, Axess is a pre-construction project to keep an eye on. <br> </br>
+
+                    
+                                    </p>
+                </div>
+            </div>
+        </div>
+    </section>
+
 
 <?php require '../footer.php'; ?>
 
