@@ -73,7 +73,11 @@
                             <img src="../images/ajax/lake-pointe condos.jpg" alt="Lake Pointe Condos" class="img-fluid rounded-mine imghei">
                             <div class="img-text card">
                                 <p class="mb-0">Lake Pointe Condos</p>
+                                <p class="mb-0 card-price">Starting from low $600k</p>
                                 <p class="mb-0 tet-s">253 Lake Driveway West, Ajax, ON</p>
+                                <p class="mb-0 tet-s">Move in 2027</p>
+                                <p class="mb-0 tet-s">Developed by: Your Home Developments</p>
+                                <p class="mb-0 tet-s"> No of units: 187</p>
                             </div>
                         </div>
                     </div>
@@ -82,7 +86,11 @@
                             <img src="../images/ajax/eagle-woods.png" alt="Eagle Woods" class="img-fluid rounded-mine imghei">
                             <div class="img-text card">
                                 <p class="mb-0">Eagle Woods</p>
+                                <p class="mb-0 card-price">Pricing not available</p>
                                 <p class="mb-0 tet-s">Sharplin Drive & Denny Street, Ajax, ON</p>
+                                <p class="mb-0 tet-s">Move in TBD</p>
+                                <p class="mb-0 tet-s">Developed by: John Boddy Homes</p>
+                                <p class="mb-0 tet-s"> No of units: 550</p>
                             </div>
                         </div>
                     </div>
@@ -91,7 +99,11 @@
                             <img src="../images/ajax/ajax-taunton.jpg" alt="Ajax Taunton" class="img-fluid rounded-mine imghei">
                             <div class="img-text card">
                                 <p class="mb-0">Ajax Taunton</p>
+                                <p class="mb-0 card-price">Pricing not available</p>
                                 <p class="mb-0 tet-s">361 Taunton Road West, Ajax, ON</p>
+                                <p class="mb-0 tet-s">Move in TBD</p>
+                                <p class="mb-0 tet-s">Developed by: Valour Group</p>
+                                <p class="mb-0 tet-s"> No of units: 1233</p>
                             </div>
                         </div>
                     </div>
@@ -100,7 +112,11 @@
                             <img src="../images/ajax/garden-on-the-bay.png" alt="Garden on the Bay" class="img-fluid rounded-mine imghei">
                             <div class="img-text card">
                                 <p class="mb-0">Garden on the Bay</p>
+                                <p class="mb-0 card-price">Pricing not available</p>
                                 <p class="mb-0 tet-s">282 Monarch Avenue, Ajax, ON</p>
+                                <p class="mb-0 tet-s">Move in TBD</p>
+                                <p class="mb-0 tet-s">Developed by: 95 Developments Inc.</p>
+                                <p class="mb-0 tet-s"> No of units: 949</p>
                             </div>
                         </div>
                     </div>
@@ -130,6 +146,9 @@
                             <div class="img-text card">
                                 <p class="mb-0">SF3 Condominiums</p>
                                 <p class="mb-0 tet-s">Bayly Street,  Pickering,   ON</p>
+                                <p class="mb-0 tet-s">Move in 2023</p>
+                                <p class="mb-0 tet-s">Developed by: Laurier Homes</p>
+                                <p class="mb-0 tet-s"> No of units: 39</p>
                             </div>
                         </div>
                     </div>
@@ -139,6 +158,9 @@
                             <div class="img-text card">
                                 <p class="mb-0">Central District Towns</p>
                                 <p class="mb-0 tet-s">770 Kingston Road,  Pickering, ON</p>
+                                <p class="mb-0 tet-s">Move in 2023</p>
+                                <p class="mb-0 tet-s">Developed by: Laurier Homes</p>
+                                <p class="mb-0 tet-s"> No of units: 39</p>
                             </div>
                         </div>
                     </div>
@@ -148,6 +170,9 @@
                             <div class="img-text card">
                                 <p class="mb-0">Market District Urban Towns</p>
                                 <p class="mb-0 tet-s">Whites Road North,  Pickering,   ON</p>
+                                <p class="mb-0 tet-s">Move in 2023</p>
+                                <p class="mb-0 tet-s">Developed by: Laurier Homes</p>
+                                <p class="mb-0 tet-s"> No of units: 39</p>
                             </div>
                         </div>
                     </div>
@@ -157,6 +182,9 @@
                             <div class="img-text card">
                                 <p class="mb-0">Citywalk Towns</p>
                                 <p class="mb-0 tet-s">Pickering Parkway & Brock Road,  Pickering,   ON</p>
+                                <p class="mb-0 tet-s">Move in 2023</p>
+                                <p class="mb-0 tet-s">Developed by: Laurier Homes</p>
+                                <p class="mb-0 tet-s"> No of units: 39</p>
                             </div>
                         </div>
                     </div>
@@ -280,7 +308,7 @@
             <div class="pt-md-5 "></div>
             <div class="py-5" data-aos="fade-up" data-aos-duration="2000" data-aos-delay="50">
                 <h2 class="fw-bold fs-1 mb-0 text-center justify-content-center" data-aos="fade-up">
-                    <span class="mx-1 pb-3">Top new homes in Ajax for sale</span> </span>
+                    <span class="mx-1 pb-3">List of all Ajax Pre construction Homes | Upcoming & Sold out ( Updated August 2023 )</span> </span>
                 </h2>
                 <span class="small-text text-center d-flex justify-content-center custom-underline pb-4 px-2">The most anticipated pre construction homes for sale in Ajax</span>
                 <div class="p-1  d-flex justify-content-center align-items-center precon-list">

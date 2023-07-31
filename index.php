@@ -105,7 +105,7 @@
                             <i class="bi bi-caret-down-fill"></i>
                             </a>
                                 <div class="dropdown-menu" aria-labelledby="hoverDropdown">
-                                    <a class="dropdown-item" href="/pre-construction-homes-pickering/">Pre construction condos  Pickering</a>
+                                    <a class="dropdown-item" href="./pre-construction-homes-pickering/">Pre construction condos  Pickering</a>
                                     <a class="dropdown-item" href="./pre-construction-homes-whitby/">Pre construction condos  Whitby</a>
                                     <a class="dropdown-item" href="./pre-construction-homes-ajax/">Pre construction condos  Ajax</a>
                                     <a class="dropdown-item" href="./pre-construction-homes-oshawa/">Pre construction condos  Oshawa</a>
@@ -135,7 +135,7 @@
         </nav>
     </div>
 
-    <section>
+    <section id="hero">
         <div class="pt-2" data-aos="fade-up" data-aos-duration="2000" data-aos-delay="50">
             <div class="container pt-3 " id="newcondos">
                 <div class="my-md-5 my-3"></div>
@@ -308,7 +308,7 @@
     </section>
     
 
-    <section data-aos="fade-up" >
+    <section data-aos="fade-up" id="news">
         <div class="container pt-md-5 pt-5" id="video">
             <div class="pt-md-5 "></div>
             <div class="py-5" data-aos="fade-up" data-aos-duration="2000" data-aos-delay="50">
@@ -333,10 +333,11 @@
   </div>
   <div class="col">
     <div class="card ">
-      <img src="./images/ajax/garden-on-the-bay.png" class="imghei" alt="...">
+      <img src="./images/Pickering-City-Centre-Condos-Coming-Soon--1-v9-full.jpg" class="imghei" alt="...">
       <div class="card-body">
-      <h5 class="card-title fw-bold pb-2">Pickering City centre condos coming in september - Centrecourt </h5>
-        <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
+      <h5 class="card-title fw-bold pb-2">Pickering City Centre Condo - Most anticipated Condo Project to come to Pickering. </h5>
+        <p class="card-text">Pickering City Centre Condos is a new condo development by CentreCourt Developments currently in planning at 1355 A Kingston Road, Pickering, ON. The development is launching in  2023. Pickering City Centre Condos has a total of 55 Storeys. </p>
+        <p class="card-text">The Pickering City Centre Condos will feature three residential towers, along with a planned hotel, arts centre, outdoor ice rink, combined senior and youth centre, and an expanded central library. This development complex is strategically located in Pickering's city centre, which holds provincial recognition as an Urban Growth Centre and Mobility Hub. </p>
       </div>
       <div class="card-footer">
         <small class="text-muted">Last updated 3 mins ago</small>

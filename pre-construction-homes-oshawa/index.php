@@ -73,7 +73,11 @@
                             <img src="../images/oshawa/Palmetto-Homes.jpg" alt="Palmetto Homes" class="img-fluid rounded-mine imghei">
                             <div class="img-text card">
                                 <p class="mb-0">Palmetto Homes</p>
+                                <p class="mb-0 card-price">Starting from low $800k</p>
                                 <p class="mb-0 tet-s">1290 Conlin Rd E, Oshawa</p>
+                                <p class="mb-0 tet-s">Move in Est 2024</p>
+                                <p class="mb-0 tet-s">Developed by: Treasure Hill Homes</p>
+                                <p class="mb-0 tet-s"> No of units: 0</p>
                             </div>
                         </div>
                     </div>
@@ -82,7 +86,11 @@
                             <img src="../images/oshawa/treehouse_studios.webp" alt="Treehouse Studios" class="img-fluid rounded-mine imghei">
                             <div class="img-text card">
                                 <p class="mb-0">Treehouse Studios</p>
+                                <p class="mb-0 card-price">Pricing not available</p>
                                 <p class="mb-0 tet-s">1664 Simcoe Street North, Oshawa, ON</p>
+                                <p class="mb-0 tet-s">Move in TBD</p>
+                                <p class="mb-0 tet-s">Developed by: Karmina Developments</p>
+                                <p class="mb-0 tet-s"> No of units: 142</p>
                             </div>
                         </div>
                     </div>
@@ -91,7 +99,11 @@
                             <img src="../images/oshawa/nahid-harbour.webp" alt="Nahid Harbour Condos" class="img-fluid rounded-mine imghei">
                             <div class="img-text card">
                                 <p class="mb-0">Nahid Harbour Condos</p>
+                                <p class="mb-0 card-price">Pricing not available</p>
                                 <p class="mb-0 tet-s">80 Harbour Road, Oshawa, ON</p>
+                                <p class="mb-0 tet-s">Move in TBD</p>
+                                <p class="mb-0 tet-s">Developed by: Nahid Corp</p>
+                                <p class="mb-0 tet-s"> No of units: 694</p>
                             </div>
                         </div>
                     </div>
@@ -100,7 +112,11 @@
                             <img src="../images/oshawa/uc-tower-3.jpg" alt="U.C. Tower 3" class="img-fluid rounded-mine imghei">
                             <div class="img-text card">
                                 <p class="mb-0">U.C. Tower 3</p>
+                                <p class="mb-0 card-price">Starting from low $500k</p>
                                 <p class="mb-0 tet-s">2691 Durham Regional Rd 2, Oshawa</p>
+                                <p class="mb-0 tet-s">Move in Est. 2025</p>
+                                <p class="mb-0 tet-s">Developed by: Tribute Communities and Riocan Living</p>
+                                <p class="mb-0 tet-s"> No of units: 229</p>
                             </div>
                         </div>
                     </div>
@@ -130,6 +146,9 @@
                             <div class="img-text card">
                                 <p class="mb-0">SF3 Condominiums</p>
                                 <p class="mb-0 tet-s">Bayly Street,  Pickering,   ON</p>
+                                <p class="mb-0 tet-s">Move in 2023</p>
+                                <p class="mb-0 tet-s">Developed by: Laurier Homes</p>
+                                <p class="mb-0 tet-s"> No of units: 39</p>
                             </div>
                         </div>
                     </div>
@@ -139,6 +158,9 @@
                             <div class="img-text card">
                                 <p class="mb-0">Central District Towns</p>
                                 <p class="mb-0 tet-s">770 Kingston Road,  Pickering, ON</p>
+                                <p class="mb-0 tet-s">Move in 2023</p>
+                                <p class="mb-0 tet-s">Developed by: Laurier Homes</p>
+                                <p class="mb-0 tet-s"> No of units: 39</p>
                             </div>
                         </div>
                     </div>
@@ -148,6 +170,9 @@
                             <div class="img-text card">
                                 <p class="mb-0">Market District Urban Towns</p>
                                 <p class="mb-0 tet-s">Whites Road North,  Pickering,   ON</p>
+                                <p class="mb-0 tet-s">Move in 2023</p>
+                                <p class="mb-0 tet-s">Developed by: Laurier Homes</p>
+                                <p class="mb-0 tet-s"> No of units: 39</p>
                             </div>
                         </div>
                     </div>
@@ -157,6 +182,9 @@
                             <div class="img-text card">
                                 <p class="mb-0">Citywalk Towns</p>
                                 <p class="mb-0 tet-s">Pickering Parkway & Brock Road,  Pickering,   ON</p>
+                                <p class="mb-0 tet-s">Move in 2023</p>
+                                <p class="mb-0 tet-s">Developed by: Laurier Homes</p>
+                                <p class="mb-0 tet-s"> No of units: 39</p>
                             </div>
                         </div>
                     </div>

@@ -71,7 +71,11 @@
                             <img src="../images/whitby/the-trial-of-country-lane.jpg" alt="the-trial-of-country-lane" class="img-fluid rounded-mine imghei">
                             <div class="img-text card">
                                 <p class="mb-0">The Trails of Country Lane</p>
+                                <p class="mb-0 card-price">Starting from low $900k</p>
                                 <p class="mb-0 tet-s">Taunton Road West, Whitby, ON, Canada</p>
+                                <p class="mb-0 tet-s">Move in Est. Spring 2024</p>
+                                <p class="mb-0 tet-s">Developed by:Heathwood</p>
+                                <p class="mb-0 tet-s"> No of units: 133</p>
                             </div>
                         </div>
                     </div>
@@ -80,7 +84,11 @@
                             <img src="../images/whitby/Mary-Street-Towns.jpg" alt="Mary-Street-Towns" class="img-fluid rounded-mine imghei">
                             <div class="img-text card">
                                 <p class="mb-0">Mary Street Towns</p>
-                                <p class="mb-0 tet-s">ary Street East, Whitby, ON</p>
+                                <p class="mb-0 card-price">Pricing not available</p>
+                                <p class="mb-0 tet-s">Mary Street East, Whitby, ON</p>
+                                <p class="mb-0 tet-s">Move in TBD</p>
+                                <p class="mb-0 tet-s">Developed by:Cosmopolitan Homes</p>
+                                <p class="mb-0 tet-s"> No of units: 0</p>
                             </div>
                         </div>
                     </div>
@@ -89,7 +97,11 @@
                             <img src="../images/whitby/Manors-on-Mayfield-Towns.webp" alt="Manors-on-Mayfield-Towns" class="img-fluid rounded-mine imghei">
                             <div class="img-text card">
                                 <p class="mb-0">Manors on Mayfield Towns</p>
+                                <p class="mb-0 card-price">Pricing not available</p>
                                 <p class="mb-0 tet-s">780 Garden Street, Whitby, ON</p>
+                                <p class="mb-0 tet-s">Move in Est. 2025</p>
+                                <p class="mb-0 tet-s">Developed by: Sakmet Developments</p>
+                                <p class="mb-0 tet-s"> No of units: 40</p>
                             </div>
                         </div>
                     </div>
@@ -98,7 +110,11 @@
                             <img src="../images/whitby/Highcrest-Whitby.jpg" alt="Highcrest-Whitby" class="img-fluid rounded-mine imghei">
                             <div class="img-text card">
                                 <p class="mb-0">Highcrest Whitby</p>
+                                <p class="mb-0 card-price">Pricing not available</p>
                                 <p class="mb-0 tet-s">Seaboard Gate, Whitby, ON</p>
+                                <p class="mb-0 tet-s">Move in 2023</p>
+                                <p class="mb-0 tet-s">Developed by: Laurier Homes</p>
+                                <p class="mb-0 tet-s"> No of units: 39</p>
                             </div>
                         </div>
                     </div>
@@ -128,6 +144,9 @@
                             <div class="img-text card">
                                 <p class="mb-0">SF3 Condominiums</p>
                                 <p class="mb-0 tet-s">Bayly Street,  Pickering,   ON</p>
+                                <p class="mb-0 tet-s">Move in Est. Spring 2024</p>
+                                <p class="mb-0 tet-s">Developed by: Towerhill Homes</p>
+                                <p class="mb-0 tet-s"> No of units: 0</p>
                             </div>
                         </div>
                     </div>
@@ -137,6 +156,9 @@
                             <div class="img-text card">
                                 <p class="mb-0">Central District Towns</p>
                                 <p class="mb-0 tet-s">770 Kingston Road,  Pickering, ON</p>
+                                <p class="mb-0 tet-s">Move in Est. Spring 2024</p>
+                                <p class="mb-0 tet-s">Developed by: Towerhill Homes</p>
+                                <p class="mb-0 tet-s"> No of units: 0</p>
                             </div>
                         </div>
                     </div>
@@ -146,6 +168,9 @@
                             <div class="img-text card">
                                 <p class="mb-0">Market District Urban Towns</p>
                                 <p class="mb-0 tet-s">Whites Road North,  Pickering,   ON</p>
+                                <p class="mb-0 tet-s">Move in Est. Spring 2024</p>
+                                <p class="mb-0 tet-s">Developed by: Towerhill Homes</p>
+                                <p class="mb-0 tet-s"> No of units: 0</p>
                             </div>
                         </div>
                     </div>
@@ -155,6 +180,9 @@
                             <div class="img-text card">
                                 <p class="mb-0">Citywalk Towns</p>
                                 <p class="mb-0 tet-s">Pickering Parkway & Brock Road,  Pickering,   ON</p>
+                                <p class="mb-0 tet-s">Move in Est. Spring 2024</p>
+                                <p class="mb-0 tet-s">Developed by: Towerhill Homes</p>
+                                <p class="mb-0 tet-s"> No of units: 0</p>
                             </div>
                         </div>
                     </div>

@@ -235,10 +235,11 @@
   </div>
   <div class="col">
     <div class="card ">
-      <img src="../images/ajax/garden-on-the-bay.png" class="imghei" alt="...">
+      <img src="../images/Pickering-City-Centre-Condos-Coming-Soon--1-v9-full.jpg" class="imghei" alt="...">
       <div class="card-body">
-      <h5 class="card-title fw-bold pb-2">Pickering City centre condos coming in september - Centrecourt </h5>
-        <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
+      <h5 class="card-title fw-bold pb-2">Pickering City Centre Condo - Most anticipated Condo Project to come to Pickering. </h5>
+        <p class="card-text">Pickering City Centre Condos is a new condo development by CentreCourt Developments currently in planning at 1355 A Kingston Road, Pickering, ON. The development is launching in  2023. Pickering City Centre Condos has a total of 55 Storeys. </p>
+        <p class="card-text">The Pickering City Centre Condos will feature three residential towers, along with a planned hotel, arts centre, outdoor ice rink, combined senior and youth centre, and an expanded central library. This development complex is strategically located in Pickering's city centre, which holds provincial recognition as an Urban Growth Centre and Mobility Hub. </p>
       </div>
       <div class="card-footer">
         <small class="text-muted">Last updated 3 mins ago</small>
