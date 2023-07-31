@@ -376,7 +376,7 @@
             <div class="pt-md-5 "></div>
             <div class="py-5" data-aos="fade-up" data-aos-duration="2000" data-aos-delay="50">
                 <h2 class="fw-bold fs-1 mb-0 text-center justify-content-center" data-aos="fade-up">
-                    <span class="mx-1 pb-3">Top new homes in Pickering for sale</span> </span>
+                    <span class="mx-1 pb-3">List of all Pickering Pre construction Homes | Upcoming & Sold out ( Updated August 2023 )</span> </span>
                 </h2>
                 <span class="small-text text-center d-flex justify-content-center custom-underline pb-4 px-2">The most anticipated pre construction homes for sale in Pickering</span>
                 <div class="p-1  d-flex justify-content-center align-items-center precon-list">
