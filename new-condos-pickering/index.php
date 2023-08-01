@@ -7,8 +7,8 @@
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="css/style.css">
-    <link rel="stylesheet" href="css/silverBox.min.css">
+    <link rel="stylesheet" href="../css/style.css">
+    <link rel="stylesheet" href="../css/silverBox.min.css">
     <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
 
 
@@ -16,10 +16,10 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css">
 
-    <title> Durham New Construction Homes | New Projects</title>
+    <title> Pre construction condos for sale in Pickering | Register Today</title>
 
-    <meta name="title" content="10+ New homes in Durham | Book Today">
-    <meta name="description" content="New Construction Homes & Condos in Durham | Find Pre construction Detached, Townhomes & condos in Durham. Plans & pricing available">
+    <meta name="title" content="Pre construction condos for sale in Pickering | Register Today">
+    <meta name="description" content="New Construction Homes & Condos in Pickering | Find Pre construction Detached, Townhomes & condos in Pickering. Plans & pricing available">
     <meta name="keywords" content="Pickering City Centre, Pickering City Centre, Pickering City Centre Condos, CentreCourt Developments, Pre construction condos in pickering,  condo in pickering">
     <meta name="robots" content="index, follow">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -28,10 +28,10 @@
     <meta property="og:image" content="https://thepickering.ca/Pickering-City-Centre-Condos-Coming-Soon--1-v9-full.jpg"> 
     <meta property="og:site_name" content="Pickering City Centre" />
 
-    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-    <link rel="icon" type="image/ico" sizes="16x16" href="/favicon.ico">
+    <link rel="apple-touch-icon" sizes="180x180" href="../apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="../favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="../favicon-16x16.png">
+    <link rel="icon" type="image/ico" sizes="16x16" href="../favicon.ico">
    
     <link rel="manifest" href="/site.webmanifest">
 
@@ -52,114 +52,25 @@
 
 <body>
 
+<?php require '../header.php' ?>
 
-<div class="sticky-top topp bg-white" id="header">
-        <nav class="navbar navbar-expand-md navbar-light" id="navbar">
-            <div class="container">
-                <a href="/" class="navbar-brand">
-                <img src="./images/the-pickering-logo.png" class="navbar-brand"  alt="The Pickeiring Logo">
-                </a>
-               
-               <div class="dropdown d-block d-md-none shadow-lg rounded-3 mt-4">
-                            <a class="nav-link scrollto" href="#cities">Cities
-                            <i class="bi bi-caret-down-fill"></i>
-                            </a>
-                                <div class="dropdown-menu dropdown-menu-end" aria-labelledby="hoverDropdown">
-                                    <a class="dropdown-item" href="./pre-construction-homes-pickering/">Pre construction homes  Pickering</a>
-                                    <a class="dropdown-item" href="./pre-construction-homes-whitby/">Pre construction homes  Whitby</a>
-                                    <a class="dropdown-item" href="./pre-construction-homes-ajax/">Pre construction homes  Ajax</a>
-                                    <a class="dropdown-item" href="./pre-construction-homes-oshawa/">Pre construction homes  Oshawa</a>
-                                </div>
-               </div>
-               
-                <button class="d-block d-md-none btn mt-4" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-          <svg width="18" height="12" viewBox="0 0 18 12" fill="none" xmlns="http://www.w3.org/2000/svg">
-            <path d="M0 12H18V10H0V12ZM0 7H18V5H0V7ZM0 0V2H18V0H0Z" fill="black" />
-          </svg>
-        </button>
-        
-                <div class="row me-0 row-cols-2 collapse navbar-collapse pt-5" id="navbarSupportedContent">
-                    <div class="col-12 d-flex justify-content-start justify-content-md-end">
-                        <ul class="navbar-nav mb-2 mb-lg-0 align-items-start align-items-md-center">
-                            <li class="nav-item">
-                                <a href="#hero" class="nav-link scrollto" aria-current="page">
-                  Home
-                </a>
-                            </li>
-                            <li class="nav-item px-md-2">
-                            <div class="dropdown">
-                            <a class="nav-link scrollto" href="#cities">Cities
-                            <i class="bi bi-caret-down-fill"></i>
-                            </a>
-                                <div class="dropdown-menu" aria-labelledby="hoverDropdown">
-                                    <a class="dropdown-item" href="./pre-construction-homes-pickering/">Pre construction homes  Pickering</a>
-                                    <a class="dropdown-item" href="./pre-construction-homes-whitby/">Pre construction homes  Whitby</a>
-                                    <a class="dropdown-item" href="./pre-construction-homes-ajax/">Pre construction homes  Ajax</a>
-                                    <a class="dropdown-item" href="./pre-construction-homes-oshawa/">Pre construction homes  Oshawa</a>
-                                </div>
-                                </div>
-                            </li>
-                            <li class="nav-item px-md-2">
-                                 <div class="dropdown">
-                            <a class="nav-link scrollto" href="#cities">New Condos
-                            <i class="bi bi-caret-down-fill"></i>
-                            </a>
-                                <div class="dropdown-menu" aria-labelledby="hoverDropdown">
-                                    <a class="dropdown-item" href="./new-condos-pickering/">New Condos in Pickering</a>
-                                    <a class="dropdown-item" href="./new-condos-whitby/">New Condos in Whitby</a>
-                                    <a class="dropdown-item" href="./new-condos-ajax/">New Condos in Ajax</a>
-                                    <a class="dropdown-item" href="./new-condos-oshawa/">New Condos in Oshawa</a>
-                                </div>
-                                </div>
-                            </li>
-                            <!-- <li class="nav-item px-md-2">
-                                <a class="nav-link scrollto" href="#features">Amenities</a>
-                            </li> -->
-                            <!-- <li class="nav-item px-md-2">
-                                <a class="nav-link scrollto" href="#plans">Plans & Pricing</a>
-                            </li> -->
 
-                            <li class="nav-item px-md-2">
-                                <a class="nav-link scrollto" href="#news">News</a>
-                            </li>
-                            
-                            <li class="nav-item px-md-2 d-none d-md-block">
-                                <a href="#Contact" class="btn call-btn btn-lg fss">
-                                    Contact
-                </a>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </nav>
-    </div>
-
-    <section id="hero">
+    <section>
         <div class="pt-2" data-aos="fade-up" data-aos-duration="2000" data-aos-delay="50">
             <div class="container pt-3 " id="newcondos">
                 <div class="my-md-5 my-3"></div>
                 <div class="pt-md-5 pt-5">
                     <h1 class="fw-bold fs-1  mx-1 ps-md-0 d-flex justify-content-center align-items-center  brand-color text-center">
-                    Latest New Construction Development in Durham Region | Updated Daily
+                    Top Pre Construction Condos in Pickering | New Updates* 
                     </h1>
-                    <div class="d-flex justify-content-center align-items-center  brand-color text-center">
-                    <h2>
-                        
-                        ( <a class="brand-color" href="./pre-construction-homes-pickering/">Pickering</a>,      
-                        <a class=" brand-color" href="./pre-construction-homes-ajax/">Ajax</a>,
-                        <a class=" brand-color" href="./pre-construction-homes-whitby/">Whitby</a> &
-                        <a class=" brand-color" href="./pre-construction-homes-oshawa/">Oshawa</a> ) 
-                    </h2>
-</div>
-                    <span class="small-text text-center d-flex justify-content-center custom-underline pb-3 mx-1">All upcoming and current pre construction detached, townhomes & condos in Durham region | Updated Daily </span>
+                    <span class="small-text text-center d-flex justify-content-center custom-underline pb-3 mx-1">New Pre construction  Condos for sale in Pickering, Ontario </span>
                 </div>
                 <div class="rounded-3">
                     <div class="d-flex justify-content-between pb-3">
                     <div class="row row-cols-1 row-cols-sm-2 row-cols-lg-4 justify-content-center g-4 mt-2">
                     <div class="col">
                         <div class="afte-proj">
-                            <img src="./images/new-seaton.webp" alt="Bristol Palace" class="img-fluid rounded-mine imghei">
+                            <img src="../images/new-seaton.webp" alt="Bristol Palace" class="img-fluid rounded-mine imghei">
                             <div class="img-text card">
                                 <p class="mb-0">New Seaton</p>
                                 <p class="mb-0 card-price">Starting from low $700k</p>
@@ -172,7 +83,7 @@
                     </div>
                     <div class="col">
                         <div class="afte-proj">
-                            <img src="./images/highmark.png" alt="The Unionville Condos" class="img-fluid rounded-mine imghei">
+                            <img src="../images/highmark.png" alt="The Unionville Condos" class="img-fluid rounded-mine imghei">
                             <div class="img-text card">
                                 <p class="mb-0">The Highmark Condos</p>
                                 <p class="mb-0 card-price">Starting from low $500k</p>
@@ -185,7 +96,7 @@
                     </div>
                     <div class="col">
                         <div href="#" class="afte-proj">
-                            <img src="./images/riverside.png" alt="New Seaton" class="img-fluid rounded-mine imghei">
+                            <img src="../images/riverside.png" alt="New Seaton" class="img-fluid rounded-mine imghei">
                             <div class="img-text card">
                                 <p class="mb-0">Riverside Towns on Brock</p>
                                 <p class="mb-0 card-price">Pricing not available</p>
@@ -198,7 +109,7 @@
                     </div>
                     <div class="col">
                         <div href="#" class="afte-proj">
-                            <img src="./images/universal.jpg" alt="The Unionville Condos" class="img-fluid rounded-mine imghei">
+                            <img src="../images/universal.jpg" alt="The Unionville Condos" class="img-fluid rounded-mine imghei">
                             <div class="img-text card">
                                 <p class="mb-0">Universal City East Condos</p>
                                 <p class="mb-0 card-price">Pricing not available</p>
@@ -222,24 +133,16 @@
                 <div class="my-md-5 my-3"></div>
                 <div class="pt-md-5 pt-5">
                     <h2 class="fw-bold fs-1  mx-1 ps-md-0 d-flex justify-content-center align-items-center brand-color text-center">
-                    Past New Pre Construction Projects in Durham
+                    Past Pre Construction Condos in Pickering
                     </h2>
-                    <div class="d-flex justify-content-center align-items-center  brand-color text-center">
-                    <h2>
-                        
-                        ( <a class="brand-color" href="/pre-construction-homes-pickering/">Pickering</a>,      
-                        <a class=" brand-color" href="/pre-construction-homes-ajax/">Ajax</a>,
-                        <a class=" brand-color" href="/pre-construction-homes-whitby/">Whitby</a> &
-                        <a class=" brand-color" href="/pre-construction-homes-oshawa/">Oshawa</a> ) 
-                    </h2>
-</div>
+                    <span class="small-text text-center d-flex justify-content-center custom-underline pb-3 mx-1">See the pricing, plans & information about previous pre-construction condos sold in Pickering</span>
                 </div>
                 <div class="rounded-3">
                     <div class="d-flex justify-content-between pb-3">
                     <div class="row row-cols-1 row-cols-sm-2 row-cols-lg-4 justify-content-center g-4 mt-2">
                     <div class="col">
                         <div class="afte-proj">
-                            <img src="./images/sf3.webp" alt="Bristol Palace" class="img-fluid rounded-mine imghei">
+                            <img src="../images/sf3.webp" alt="Bristol Palace" class="img-fluid rounded-mine imghei">
                             <div class="img-text card">
                                 <p class="mb-0">SF3 Condominiums</p>
                                 <p class="mb-0 tet-s">Bayly Street, Pickering, ON</p>
@@ -251,7 +154,7 @@
                     </div>
                     <div class="col">
                         <div class="afte-proj">
-                            <img src="./images/central-district.webp" alt="The Unionville Condos" class="img-fluid rounded-mine imghei">
+                            <img src="../images/central-district.webp" alt="The Unionville Condos" class="img-fluid rounded-mine imghei">
                             <div class="img-text card">
                                 <p class="mb-0">Central District Towns</p>
                                 <p class="mb-0 tet-s">770 Kingston Road,  Pickering, ON</p>
@@ -263,7 +166,7 @@
                     </div>
                     <div class="col">
                         <div href="#" class="afte-proj">
-                            <img src="./images/market-district.webp" alt="New Seaton" class="img-fluid rounded-mine imghei">
+                            <img src="../images/market-district.webp" alt="New Seaton" class="img-fluid rounded-mine imghei">
                             <div class="img-text card">
                                 <p class="mb-0">Market District Urban Towns</p>
                                 <p class="mb-0 tet-s">Whites Road North,  Pickering,   ON</p>
@@ -275,7 +178,7 @@
                     </div>
                     <div class="col">
                         <div href="#" class="afte-proj">
-                            <img src="./images/citywalk.webp" alt="The Unionville Condos" class="img-fluid rounded-mine imghei">
+                            <img src="../images/citywalk.webp" alt="The Unionville Condos" class="img-fluid rounded-mine imghei">
                             <div class="img-text card">
                                 <p class="mb-0">Citywalk Towns</p>
                                 <p class="mb-0 tet-s">Pickering Parkway & Brock Road,  Pickering,   ON</p>
@@ -306,21 +209,20 @@
             </div>
         </div>
     </section>
-    
 
-    <section data-aos="fade-up" id="news">
+    <section data-aos="fade-up" >
         <div class="container pt-md-5 pt-5" id="video">
             <div class="pt-md-5 "></div>
             <div class="py-5" data-aos="fade-up" data-aos-duration="2000" data-aos-delay="50">
                 <h2 class="fw-bold fs-1 mb-0 text-center justify-content-center" data-aos="fade-up">
-                    <span class="mx-1 pb-3">Latest Durham Preconstruction Development News & Updates</span> </span>
+                    <span class="mx-1 pb-3">Latest Pickering Preconstruction Development News & Updates</span> </span>
                 </h2>
                 <span class="small-text text-center d-flex justify-content-center custom-underline pb-3 px-2">Preconstruction homes in Pickering, Ajax, Whitby & Oshawa news & updates </span>
                 
                 <div class="row row-cols-1 row-cols-md-3 g-4">
   <div class="col">
     <div class="card ">
-      <img src="./images/pickering-news.jpg" class="imghei" alt="...">
+      <img src="../images/pickering-news.jpg" class="imghei" alt="...">
       <div class="card-body">
         <h5 class="card-title fw-bold pb-2">New Pickering Town Centre plans make way for 55-storey building </h5>
         <p class="card-text">There’s a new plan for the demolished wing of the Pickering Town Centre, and the planning and development committee has approved it. At the Monday, Jan. 6 meeting, the committee approved OPB Realty Inc.’s draft plan of a subdivision on the easterly portion of the Pickering Town Centre property, consisting of nine development blocks, one parkland block and new internal and private roads. There will be 5,099 residential units, and buildings ranging between nine and 55 storeys. There will also be 3,418 square metres of commercial or retail space spread among the nine development blocks.
@@ -333,7 +235,7 @@
   </div>
   <div class="col">
     <div class="card ">
-      <img src="./images/Pickering-City-Centre-Condos-Coming-Soon--1-v9-full.jpg" class="imghei" alt="...">
+      <img src="../images/Pickering-City-Centre-Condos-Coming-Soon--1-v9-full.jpg" class="imghei" alt="...">
       <div class="card-body">
       <h5 class="card-title fw-bold pb-2">Pickering City Centre Condo - Most anticipated Condo Project to come to Pickering. </h5>
         <p class="card-text">Pickering City Centre Condos is a new condo development by CentreCourt Developments currently in planning at 1355 A Kingston Road, Pickering, ON. The development is launching in  2023. Pickering City Centre Condos has a total of 55 Storeys. </p>
@@ -346,7 +248,7 @@
   </div>
   <div class="col">
     <div class="card ">
-      <img src="./images/oshawa/uc-tower-3.jpg" class="imghei" alt="...">
+      <img src="../images/oshawa/uc-tower-3.jpg" class="imghei" alt="...">
       <div class="card-body">
       <h5 class="card-title fw-bold pb-2">Pickering City centre condos coming in september - Centrecourt </h5>
         <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
@@ -366,13 +268,13 @@
     <section class="mt-md-5 py-md-5" id = "faq">
         <div class="container mt-5" data-aos="fade-up" data-aos-duration="2000" data-aos-delay="50">
         <h2 class="fw-bold fs-1 mb-0 text-center justify-content-center" data-aos="fade-up">
-                    <span class="mx-1 pb-5"> Durham Pre construction Home Buying FAQ</span> </span>
+                    <span class="mx-1 pb-5"> Pickering Pre construction Home Buying FAQ</span> </span>
                 </h2>
         <div class="accordion accordion-flush pt-4" id="accordionFlushExample">
   <div class="accordion-item">
     <h2 class="accordion-header " id="flush-headingOne">
       <button class="accordion-button collapsed " type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseOne" aria-expanded="false" aria-controls="flush-collapseOne">
-      What is the average housing market price in Durham Region?
+      What is the average housing market price in Pickering?
       </button>
     </h2>
     <div id="flush-collapseOne" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
@@ -382,7 +284,7 @@
   <div class="accordion-item">
     <h2 class="accordion-header" id="flush-headingThree">
       <button class="accordion-button collapsed " type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseThree" aria-expanded="false" aria-controls="flush-collapseThree">
-      What are the benefits of buying a pre-construction home in Durham Region?
+      What are the benefits of buying a pre-construction home in Pickering?
       </button>
     </h2>
     <div id="flush-collapseThree" class="accordion-collapse collapse" aria-labelledby="flush-headingThree" data-bs-parent="#accordionFlushExample">
@@ -399,7 +301,7 @@
   <div class="accordion-item">
     <h2 class="accordion-header" id="flush-headingTwo">
       <button class="accordion-button collapsed " type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseTwo" aria-expanded="false" aria-controls="flush-collapseTwo">
-      What should I consider before buying a pre-construction home in Durham Region?
+      What should I consider before buying a pre-construction home in Pickering?
       </button>
     </h2>
     <div id="flush-collapseTwo" class="accordion-collapse collapse" aria-labelledby="flush-headingTwo" data-bs-parent="#accordionFlushExample">
@@ -424,9 +326,9 @@
                     <!-- <div class="text-center pt-3 ">
                         <img src="images/empire-logo.png " class="img-fluid regoimg " alt="Empire Communities Logo ">
                     </div> -->
-                    <h6 class="text-center fs-1 fw-bold pt-3 register " > Send Me Latest Information</h6>
+                    <h6 class="text-center fs-1 fw-bold pt-3 register "> Send me latest update on Pickering </h6>
                     <div class="registertext px-4 d-flex justify-content-center align-items-center text-center ">
-                        <p>Send me informatiuon on latest pre construction project in Durham Region 
+                        <p>Register today and get the latest update on Pickering Pre Construction condos
                         </p>
                     </div>
 
@@ -435,7 +337,7 @@
                     <div class="col-md-3 "></div>
                     <div class="col-md-6 px-md-5 ">
 
-                        <form action="./contactForm.php" method="POST">
+                        <form action="../contactForm.php" method="POST">
                             <div class="row ">
                                 <div class="mb-3 "><input type="text" placeholder="Name" name="name" id="name" class="fields" required></div>
 
@@ -469,100 +371,50 @@
         </div>
     </section>
 
-    <div class="mt-5 pt-3 ">
-        <img loading="lazy " src="images/line.png " alt="Line image for character " class="img-fluid foot-up-img " />
-    </div>
-    <footer class="footerr py-5 mb-4 ">
-        <div class="container ">
-            <div class="row row-cols-1 row-cols-sm-2 row-cols-md-5 pt-5 justify-content-around ">
-                <div class="col-md-4 my-3 fotwidth center-sm px-4 px-md-0 ">
-                    <p class=" ">
-                        <h2 class="navbar-brand-foot fs-4 text-center">The Pickering</h2>
-                    </p>
-                    <span class=" justifyy ">
-                    We do not represent the builder. Information provided on this website is gathered from publicly available websites. The information might not be updated and could include inaccurate or outdated information such as location, pricing, availability, floor plans etc. To learn more about the project, please contact the builder directly. </span>
-                   
-                    <div class="col mt-5 mt-md-5 pt-md-0  ">
-                    <form action="./contactForm.php" method="POST">
-                        <h6 class="  fw-bold p-2 fs-5  text-center">SUBSCRIBE TO NEWSLETTER</h6>
-                        <div class="row ">
-                            <div class="col">
-                                <div class="mb-3"><input type="text" aria-describedby="emailHelp" placeholder="Name" name="name" class="foot-fields"></div>
-                            </div>
-                            <div class="col ">
-                                <div class="mb-3"><input type="text" aria-describedby="emailHel" placeholder="Email" name="email" class="foot-fields"></div>
-                            </div>
-                        </div>
-                            <div class="row mx-1">
-                            <input type="submit" value="Subscribe Now" class="btn call-btn btn-lg fss " id="subbtn2">
-                        </div>
-                    </form>
+    <section data-aos="fade-up" >
+        <div class="container pt-md-5 pt-5" id="video">
+            <div class="pt-md-5 "></div>
+            <div class="py-5" data-aos="fade-up" data-aos-duration="2000" data-aos-delay="50">
+                <h2 class="fw-bold fs-1 mb-0 text-center justify-content-center" data-aos="fade-up">
+                    <span class="mx-1 pb-3">List of all Pickering Pre construction Homes | Upcoming & Sold out ( Updated August 2023 )</span> </span>
+                </h2>
+                <span class="small-text text-center d-flex justify-content-center custom-underline pb-4 px-2">The most anticipated pre construction condos for sale in Pickering</span>
+                <div class="p-1  d-flex justify-content-center align-items-center precon-list">
+                <p>
+                    1.New Seaton - By Towerhill Homes | Location : Taunton Road & Sideline 26, Pickering, ON <br> </br>
+
+                    2.375 Kingston Road Condos - By Decade Homes | Location : 375 Kingston Road, Pickering, ON <br> </br>
+
+                    3.Je Vila Towns - By Revation Group | Location : 2620 Brock Road, Pickering, ON <br> </br>
+
+                    4.Universal City East Condos - By Chestnut Hill Developments | Location : 1496 Bayly Street, Pickering, ON <br> </br>
+
+                   5.The Grand at Universal City - By Chestnut Hill Developments | Location : 1474 Bayly Street, Pickering, ON <br> </br>
+
+                    6.The Highmark Condos - By Highmark Homes | Location : 1640 Kingston Road, Pickering, ON <br> </br>
+
+                    7.DeerView Heights - By Stonepay | Location : Palmers Sawmill Road, Pickering, ON <br> </br>
+
+                    8.Park District Towns - By Icon Homes | Location : 2574 Brock Road, Pickering, ON <br> </br> 
+
+                    9.Central District Towns - By Icon Homes and Old Orchard | Location : 770 Kingston Road, Pickering, ON <br> </br>
+
+                    10.Daniels FirstHome - By The Daniels Corporation | Location : 1525 Kingston Road, Pickering, ON <br> </br>
+                    
+
+                    11.Pickering City Centre Condos - Pickering City Centre Condos is a new upcoming condo development at Pickering, ON Canada by CentreCourt Developments which will be launched soon. Get access to plans and pricing now <br> </br> 
+
+                     12.Axess Condos : Axess condos is a new, one-of-a-kind development in Pickering. With spacious suites, and luxurious amenities, Axess is a pre-construction project to keep an eye on. <br> </br>
+
+                    
+                                    </p>
                 </div>
-                <div class="list pt-md-5 pt-3 d-md-block d-none ">
-                        <p class="text-center ">
-                            Website designed by <a href="https://www.sixdesign.ca/ " target="_blank " class="text-dark text-decoration-none "><strong>SixDesign.</strong> </a>
-                        </p>
-
-                    </div>
-                </div>
-
-                <div class="col-md-4 py-md-5 py-5 center-sm px-md-5 px-5 d-flex justify-content-around">
-                    <div>
-                        <h5 class="text-dark fw-bold mt-3 mb-3 ">Pre construiction Cities</h5>
-                        <div class="list d-block ">
-                            <p class="mybot pb-md-0 pb-0 ">
-                                <a href ="./pre-construction-homes-pickering/" class ="text-dark">Pre construction homes Pickering</a>
-                            </p>
-                            <p class="mybot pb-md-0 pb-0 ">
-                            <a href ="./pre-construction-homes-ajax/" class ="text-dark">Pre construction homes Ajax</a>
-                            </p>
-                            <p class="mybot pb-md-0 pb-0 ">
-                            <a href =".pre-construction-homes-whitby/" class ="text-dark">Pre construction homes Whitby</a>
-                            </p>
-                            <p class="mybot pb-md-0 pb-0 ">
-                            <a href ="./pre-construction-homes-oshawa/" class ="text-dark">Pre construction homes Oshawa</a>
-                            </p>
-
-                        </div>
-
-                    </div>
-                </div>
-
-                <div class="col-md-4 py-md-5 py-5 center-sm px-md-5 px-5 d-flex justify-content-around">
-                    <div>
-                        <h5 class="text-dark fw-bold mt-3 mb-3 ">Pre construiction Condos</h5>
-                        <div class="list d-block ">
-                            <p class="mybot pb-md-0 pb-0 ">
-                                <a href ="./index.php" class ="text-dark">Pre construction condos Pickering</a>
-                            </p>
-                            <p class="mybot pb-md-0 pb-0 ">
-                            <a href ="./pre-construction-homes-ajax.php" class ="text-dark">Pre construction condos Ajax</a>
-                            </p>
-                            <p class="mybot pb-md-0 pb-0 ">
-                            <a href ="./pre-construction-homes-whitby.php" class ="text-dark">Pre construction condos Whitby</a>
-                            </p>
-                            <p class="mybot pb-md-0 pb-0 ">
-                            <a href ="./pre-construction-homes-oshawa.php" class ="text-dark">Pre construction condos Oshawa</a>
-                            </p>
-
-                        </div>
-
-                    </div>
-                   
-                </div>
-        
-             
-
-
-            <div class="list mt-5 pt-5 d-md-none d-block center-sm px-4 ">
-                <p class=" ">
-                    Website designed by <a href="https://www.sixdesign.ca/ " target="_blank " class="text-dark text-decoration-none "><strong>SixDesign.</strong> </a>
-                </p>
-
             </div>
-
         </div>
-    </footer>
+    </section>
+
+
+<?php require '../footer.php'; ?>
 
 
 <!-- 

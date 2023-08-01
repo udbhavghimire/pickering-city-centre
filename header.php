@@ -46,11 +46,11 @@
                             <a class="nav-link scrollto" href="#cities">New Condos
                             <i class="bi bi-caret-down-fill"></i>
                             </a>
-                                <div class="dropdown-menu" aria-labelledby="hoverDropdown">
-                                    <a class="dropdown-item" href="../pre-construction-homes-pickering/">Pre construction condos  Pickering</a>
-                                    <a class="dropdown-item" href="../pre-construction-homes-whitby/">Pre construction condos  Whitby</a>
-                                    <a class="dropdown-item" href="../pre-construction-homes-ajax/">Pre construction condos  Ajax</a>
-                                    <a class="dropdown-item" href="../pre-construction-homes-oshawa/">Pre construction condos  Oshawa</a>
+                            <div class="dropdown-menu" aria-labelledby="hoverDropdown">
+                                    <a class="dropdown-item" href="../new-condos-pickering/">New Condos in Pickering</a>
+                                    <a class="dropdown-item" href="../new-condos-whitby/">New Condos in Whitby</a>
+                                    <a class="dropdown-item" href="../new-condos-ajax/">New Condos in Ajax</a>
+                                    <a class="dropdown-item" href="../new-condos-oshawa/">New Condos in Oshawa</a>
                                 </div>
                                 </div>
                             </li>
