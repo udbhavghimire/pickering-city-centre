@@ -469,6 +469,15 @@
         </div>
     </section>
 
+    <div class="floating fixxcont2 mb-3">
+        <a href="#Contact" class="btn bgggggggg br-m d-block d-md-none w-100 py-2 shadow-lg">Send a message  
+            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-chat-left-dots" viewBox="0 0 16 16">
+                <path d="M14 1a1 1 0 0 1 1 1v8a1 1 0 0 1-1 1H4.414A2 2 0 0 0 3 11.586l-2 2V2a1 1 0 0 1 1-1h12zM2 0a2 2 0 0 0-2 2v12.793a.5.5 0 0 0 .854.353l2.853-2.853A1 1 0 0 1 4.414 12H14a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2H2z"></path><path d="M5 6a1 1 0 1 1-2 0 1 1 0 0 1 2 0zm4 0a1 1 0 1 1-2 0 1 1 0 0 1 2 0zm4 0a1 1 0 1 1-2 0 1 1 0 0 1 2 0z">
+                </path>
+            </svg>
+            </a>
+        </div>
+
     <div class="mt-5 pt-3 ">
         <img loading="lazy " src="images/line.png " alt="Line image for character " class="img-fluid foot-up-img " />
     </div>
@@ -533,16 +542,16 @@
                         <h5 class="text-dark fw-bold mt-3 mb-3 ">Pre construiction Condos</h5>
                         <div class="list d-block ">
                             <p class="mybot pb-md-0 pb-0 ">
-                                <a href ="./index.php" class ="text-dark">Pre construction condos Pickering</a>
+                                <a href ="./new-condos-pickering/" class ="text-dark">Pre construction condos Pickering</a>
                             </p>
                             <p class="mybot pb-md-0 pb-0 ">
-                            <a href ="./pre-construction-homes-ajax.php" class ="text-dark">Pre construction condos Ajax</a>
+                            <a href ="./new-condos-ajax/" class ="text-dark">Pre construction condos Ajax</a>
                             </p>
                             <p class="mybot pb-md-0 pb-0 ">
-                            <a href ="./pre-construction-homes-whitby.php" class ="text-dark">Pre construction condos Whitby</a>
+                            <a href ="./new-condos-whitby/" class ="text-dark">Pre construction condos Whitby</a>
                             </p>
                             <p class="mybot pb-md-0 pb-0 ">
-                            <a href ="./pre-construction-homes-oshawa.php" class ="text-dark">Pre construction condos Oshawa</a>
+                            <a href ="./new-condos-oshawa/" class ="text-dark">Pre construction condos Oshawa</a>
                             </p>
 
                         </div>

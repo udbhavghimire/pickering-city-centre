@@ -61,16 +61,16 @@
                         <h5 class="text-dark fw-bold mt-3 mb-3 ">Pre construiction Condos</h5>
                         <div class="list d-block ">
                             <p class="mybot pb-md-0 pb-0 ">
-                                <a href ="./pre-construction-homes-pickering/" class ="text-dark">Pre construction condos Pickering</a>
+                                <a href ="../new-condos-pickering/" class ="text-dark">Pre construction condos Pickering</a>
                             </p>
                             <p class="mybot pb-md-0 pb-0 ">
-                            <a href ="./pre-construction-homes-ajax/" class ="text-dark">Pre construction condos Ajax</a>
+                            <a href ="../new-condos-pickering/" class ="text-dark">Pre construction condos Ajax</a>
                             </p>
                             <p class="mybot pb-md-0 pb-0 ">
-                            <a href ="./pre-construction-homes-whitby/" class ="text-dark">Pre construction condos Whitby</a>
+                            <a href ="../new-condos-pickering/" class ="text-dark">Pre construction condos Whitby</a>
                             </p>
                             <p class="mybot pb-md-0 pb-0 ">
-                            <a href ="./pre-construction-homes-oshawa/" class ="text-dark">Pre construction condos Oshawa</a>
+                            <a href ="../new-condos-pickering/" class ="text-dark">Pre construction condos Oshawa</a>
                             </p>
 
                         </div>

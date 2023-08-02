@@ -257,6 +257,17 @@
     margin-bottom: 3px !important;
 }
 
+.bgggggggg {
+    background-color: #ff5722 !important;
+    color: #ffffff !important;
+}
+
+.br-m {
+    border-radius: 9px!important;
+    padding-top: 0.65rem!important;
+    padding-bottom: 0.65rem!important;
+}
+
 @media (max-width: 768px) {
     #hero h1 {
         font-size: 48px;
@@ -272,5 +283,15 @@
         margin-right: 0rem !important;
         height: 70px;
         padding-left: 10px;
+    }
+    .fixxcont2 {
+        bottom: 12px;
+        width: 70%;
+        left: 50%;
+        transform: translateX(-50%);
+        border-radius: 9px;
+        position: fixed;
+        z-index: 9999;
+        display: block;
     }
 }
