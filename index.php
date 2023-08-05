@@ -348,10 +348,12 @@
   </div>
   <div class="col">
     <div class="card ">
-      <img src="./images/oshawa/uc-tower-3.jpg" class="imghei" alt="...">
+      <img src="./images/news-pickering-2.jpeg" class="imghei" alt="...">
       <div class="card-body">
-      <h5 class="card-title fw-bold pb-2">Pickering City centre condos coming in september - Centrecourt </h5>
-        <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
+      <h5 class="card-title fw-bold pb-2">Developer announces plans to transform Pickering Town Centre with 10 new condo towers </h5>
+        <p class="card-text">CentreCourt Developments announced plans today for a new mixed-use community centred around Pickering Town Centre Mall, which will include at least 10 new condo towers and more than 6,000 residences along with shops, amenities and a virtual health clinic.
+The community will be known as Pickering City Centre and will feature over 50 acres of newly designed space, CentreCourt says.
+</p>
       </div>
       <div class="card-footer">
         <small class="text-muted">Last updated 3 mins ago</small>
