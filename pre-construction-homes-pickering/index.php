@@ -61,7 +61,7 @@
                 <div class="my-md-5 my-3"></div>
                 <div class="pt-md-5 pt-5">
                     <h1 class="fw-bold fs-1  mx-1 ps-md-0 d-flex justify-content-center align-items-center  brand-color text-center">
-                    Top Pre construction homes in Pickering | New Updates* 
+                    Latest New Pre construction homes in Pickering | August Updates* 
                     </h1>
                     <span class="small-text text-center d-flex justify-content-center custom-underline pb-3 mx-1">New Pre construction Detached, Townhomes, or Condos for sale in Pickering, Ontario </span>
                 </div>
@@ -203,9 +203,14 @@
                     <span class="mx-1 pb-3">Pickering's Bold New City Centre Vision</span> </span>
                 </h2>
                 <span class="small-text text-center d-flex justify-content-center custom-underline pb-3 px-2">Discover the Heart of Pickering: Pickering City Centre Condos</span>
-                <div class="p-1  d-flex justify-content-center">
-                <iframe width="900" height="415" src="https://www.youtube.com/embed/8iC7Oluzwn4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+               <div class ="row">
+               <div class="p-1 col  d-flex justify-content-center">
+                <iframe width="650" height="450" src="https://www.youtube.com/embed/8iC7Oluzwn4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                 </div>
+                <div class ="col">
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d368815.0300425257!2d-79.40609289637035!3d43.76523130525065!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89d4d9abfae88d1d%3A0x4bd24862b12786d8!2sPickering%2C%20ON%2C%20Canada!5e0!3m2!1sen!2snp!4v1691334411446!5m2!1sen!2snp" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                </div>
+               </div>
             </div>
         </div>
     </section>
@@ -407,6 +412,34 @@ The community will be known as Pickering City Centre and will feature over 50 ac
                     11.Pickering City Centre Condos - Pickering City Centre Condos is a new upcoming condo development at Pickering, ON Canada by CentreCourt Developments which will be launched soon. Get access to plans and pricing now <br> </br> 
 
                      12.Axess Condos : Axess condos is a new, one-of-a-kind development in Pickering. With spacious suites, and luxurious amenities, Axess is a pre-construction project to keep an eye on. <br> </br>
+
+                    
+                                    </p>
+                </div><br><br>
+
+                <div class="p-1  d-flex justify-content-center align-items-center precon-list">
+                <p>
+                 <strong>Buying a pre-construction home in Pickering?</strong>  <br> <br> 
+
+Here are a few things to consider when buying a pre-construction home:<br> <br>
+
+Research the developer: Make sure you research the developer and their track record of delivering high quality properties on time and on budget. Look for reviews and talk to people who have purchased properties from them in the past.<br> <br>
+
+Understand the terms of the purchase agreement: Carefully review the terms of the purchase agreement, including the deposit structure, closing date, and any warranties or guarantees being offered by the developer. Consider hiring a real estate lawyer to review the agreement.<br> <br>
+
+Consider the location: Think about the location of the development and whether it is a desirable area to live in. Consider factors such as proximity to amenities, public transportation, and schools.<br> <br>
+
+Check the price: Make sure the price of the unit is reasonable compared to similar properties in the area.<br> <br>
+
+Understand the completion date: Make sure you understand the estimated completion date and whether it is realistic given the stage of construction.<br> <br>
+
+Consider the amenities: Think about the amenities being offered and whether they are worth the price of the unit.<br> <br>
+
+Check the size and layout of the unit: Make sure the unit meets your needs in terms of size and layout.<br> <br>
+
+Visit the site: If possible, visit the site of the development to get a sense of the quality of the construction.<br> <br>
+
+Consider future development in the area: Think about any potential future development in the area and how it may affect the value of your property.<br> <br>
 
                     
                                     </p>
