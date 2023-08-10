@@ -120,6 +120,45 @@
                             </div>
                         </div>
                     </div>
+                    <div class="col">
+                        <div href="#" class="afte-proj">
+                            <img src="../images/Pickering-City-Centre-Condos-Coming-Soon--1-v9-full.webp" alt="Pickering-City-Centre-Condos" class="img-fluid rounded-mine imghei">
+                            <div class="img-text card">
+                                <p class="mb-0">Pickering City Centre Condos</p>
+                                <p class="mb-0 card-price">Pricing not available</p>
+                                <p class="mb-0 tet-s">1355 A Kingston Road, Pickering, ON</p>
+                                <p class="mb-0 tet-s">Move in TBD</p>
+                                <p class="mb-0 tet-s">Developed by: CentreCourt</p>
+                                <p class="mb-0 tet-s"> No of units: 0</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div href="#" class="afte-proj">
+                            <img src="../images/Clarehaven-Estates-pickering.webp" alt="Clarehaven-Estates" class="img-fluid rounded-mine imghei">
+                            <div class="img-text card">
+                                <p class="mb-0">Clarehaven Estates</p>
+                                <p class="mb-0 card-price">Pricing not available</p>
+                                <p class="mb-0 tet-s">5033 Brock Road, Pickering, ON</p>
+                                <p class="mb-0 tet-s">Move in TBD</p>
+                                <p class="mb-0 tet-s">Developed by: Geranium</p>
+                                <p class="mb-0 tet-s"> No of units: 70</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div href="#" class="afte-proj">
+                            <img src="../images/Axess-condos.webp" alt="Axess-condos" class="img-fluid rounded-mine imghei">
+                            <div class="img-text card">
+                                <p class="mb-0">Axess Condos</p>
+                                <p class="mb-0 card-price">Starting from Low Low $300k</p>
+                                <p class="mb-0 tet-s">1525 Pickering Parkway, Pickering, ON</p>
+                                <p class="mb-0 tet-s">Move in TBD</p>
+                                <p class="mb-0 tet-s">Developed by: Liberty Hamlets and Fieldgate Construction Management Ltd</p>
+                                <p class="mb-0 tet-s"> No of units: 336</p>
+                            </div>
+                        </div>
+                    </div>
                 </div>
                     </div>
                 </div>
