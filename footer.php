@@ -45,7 +45,7 @@
 
                     </div>
                 </div>
-                <div class="col-md-4 py-md-5 py-5 center-sm px-md-5 px-5 d-flex justify-content-around">
+                <div class="col-md-3 py-md-5 py-5 center-sm px-md-5 px-5 d-flex justify-content-around">
                     <div>
                         <h5 class="text-dark fw-bold mt-2 mb-3 ">Pre Construction Cities</h5>
                         <div class="list d-block ">
@@ -67,7 +67,7 @@
                     </div>
                 </div>
 
-                <div class="col-md-4 py-md-5 py-5 center-sm px-md-5 px-5 d-flex justify-content-around">
+                <div class="col-md-3 py-md-5 py-5 center-sm px-md-5 px-5 d-flex justify-content-around">
                     <div>
                         <h5 class="text-dark fw-bold mt-2 mb-3 ">Pre Construction Condos</h5>
                         <div class="list d-block ">
@@ -84,6 +84,14 @@
                             <a href ="../new-condos-pickering/" class ="text-dark">Pre construction condos Oshawa</a>
                             </p>
 
+                        </div>
+
+                    </div>
+                </div>
+                <div class="col-md-2 py-md-5 py-5 center-sm px-md-5 px-5 d-flex justify-content-around">
+                    <div>
+                    <div class="row mx-1">
+                    <a href ="../contact/" class ="text-dark fw-bold fs-4 d-flex">Contact</a>
                         </div>
 
                     </div>

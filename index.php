@@ -160,6 +160,7 @@
                     <div class="d-flex justify-content-between pb-3">
                     <div class="row row-cols-1 row-cols-sm-2 row-cols-lg-4 justify-content-center g-4 mt-2">
                     <div class="col">
+                    <a href="./new-seaton/" target="_blank" class ="text-decoration-none"> 
                         <div class="afte-proj">
                             <img src="./images/new-seaton.webp" alt="Bristol Palace" class="img-fluid rounded-mine imghei">
                             <div class="img-text card">
@@ -171,8 +172,10 @@
                                 <p class="mb-0 tet-s"> No of units: 0</p>
                             </div>
                         </div>
+                    </a>
                     </div>
                     <div class="col">
+                    <a href="./the-highmark-condos/" target="_blank" class ="text-decoration-none"> 
                         <div class="afte-proj">
                             <img src="./images/highmark.png" alt="The Unionville Condos" class="img-fluid rounded-mine imghei">
                             <div class="img-text card">
@@ -184,8 +187,10 @@
                                 <p class="mb-0 tet-s"> No of units: 346</p>
                             </div>
                         </div>
+                    </a>
                     </div>
                     <div class="col">
+                    <a href="./riverside-towns-on-brock/" target="_blank" class ="text-decoration-none"> 
                         <div href="#" class="afte-proj">
                             <img src="./images/riverside.png" alt="New Seaton" class="img-fluid rounded-mine imghei">
                             <div class="img-text card">
@@ -197,6 +202,7 @@
                                 <p class="mb-0 tet-s"> No of units: 53</p>
                             </div>
                         </div>
+                        </a>
                     </div>
                     <div class="col">
                         <div href="#" class="afte-proj">
