@@ -114,6 +114,7 @@
                     </a>
                     </div>
                     <div class="col">
+                    <a href="../universal-city-east-condos/" target="_blank" class ="text-decoration-none"> 
                         <div href="#" class="afte-proj">
                             <img src="../images/universal.jpg" alt="The Unionville Condos" class="img-fluid rounded-mine imghei">
                             <div class="img-text card">
@@ -125,6 +126,7 @@
                                 <p class="mb-0 tet-s"> No of units: 302</p>
                             </div>
                         </div>
+                    </a>
                     </div>
                     <div class="col">
                         <div href="#" class="afte-proj">

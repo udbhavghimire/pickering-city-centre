@@ -69,6 +69,7 @@
                     <div class="d-flex justify-content-between pb-3">
                     <div class="row row-cols-1 row-cols-sm-2 row-cols-lg-4 justify-content-center g-4 mt-2">
                     <div class="col">
+                    <a href="../lake-pointe-condos/" target="_blank" class ="text-decoration-none"> 
                         <div class="afte-proj">
                             <img src="../images/ajax/lake-pointe condos.jpg" alt="Lake Pointe Condos" class="img-fluid rounded-mine imghei">
                             <div class="img-text card">
@@ -80,8 +81,10 @@
                                 <p class="mb-0 tet-s"> No of units: 187</p>
                             </div>
                         </div>
+                    </a>
                     </div>
                     <div class="col">
+                    <a href="../eagle-woods/" target="_blank" class ="text-decoration-none"> 
                         <div class="afte-proj">
                             <img src="../images/ajax/eagle-woods.png" alt="Eagle Woods" class="img-fluid rounded-mine imghei">
                             <div class="img-text card">
@@ -93,8 +96,10 @@
                                 <p class="mb-0 tet-s"> No of units: 550</p>
                             </div>
                         </div>
+                    </a>
                     </div>
                     <div class="col">
+                    <a href="../ajax-taunton/" target="_blank" class ="text-decoration-none"> 
                         <div href="#" class="afte-proj">
                             <img src="../images/ajax/ajax-taunton.jpg" alt="Ajax Taunton" class="img-fluid rounded-mine imghei">
                             <div class="img-text card">
@@ -106,9 +111,11 @@
                                 <p class="mb-0 tet-s"> No of units: 1233</p>
                             </div>
                         </div>
+                    </a>
                     </div>
                     <div class="col">
-                        <div href="#" class="afte-proj">
+                    <a href="../garden-on-the-bay/" target="_blank" class ="text-decoration-none"> 
+                        <div class="afte-proj">
                             <img src="../images/ajax/garden-on-the-bay.png" alt="Garden on the Bay" class="img-fluid rounded-mine imghei">
                             <div class="img-text card">
                                 <p class="mb-0">Garden on the Bay</p>
@@ -119,6 +126,7 @@
                                 <p class="mb-0 tet-s"> No of units: 949</p>
                             </div>
                         </div>
+                    </a>
                     </div>
                 </div>
                     </div>

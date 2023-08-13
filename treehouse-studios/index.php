@@ -16,10 +16,10 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css">
 
-    <title> New Seaton Homes for sale in Pickering | Register Today</title>
+    <title> Treehouse Studios for sale in Oshawa | Register Today</title>
 
-    <meta name="title" content="New Seaton Homes for sale in Pickering | Register Today">
-    <meta name="description" content="New Seaton Homes for sale in Pickering | Register Today">
+    <meta name="title" content="Treehouse Studios for sale in Oshawa | Register Today">
+    <meta name="description" content="Treehouse Studios for sale in Oshawa | Register Today">
     <meta name="keywords" content="Pickering City Centre, Pickering City Centre, Pickering City Centre Condos, CentreCourt Developments, Pre construction condos in pickering,  condo in pickering">
     <meta name="robots" content="index, follow">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -59,47 +59,37 @@
             <div class="container pt-3 " id="gallery">
                 <div class="my-md-5 my-3"></div>
                 <div class="py-5">
-                    <a href="../pre-construction-homes-pickering/" class = "text-decoration-none"><h1 class="fw-bold fs-1  mx-1 ps-md-0   brand-color ">
-                    Pre construction homes in Pickering  
+                    <a href="../pre-construction-homes-oshawa/" class = "text-decoration-none"><h1 class="fw-bold fs-1  mx-1 ps-md-0   brand-color ">
+                    Pre construction homes in Oshawa  
                     </h1></a>
-                    <span class="small-text custom-underline mb-5 mx-1">New Pre construction Detached, Townhomes, or Condos for sale in Pickering, Ontario </span>
+                    <span class="small-text custom-underline mb-5 mx-1">New Pre construction Detached, Townhomes, or Condos for sale in Oshawa, Ontario </span>
                 </div>
                 <div class="rounded-3">
                
                     <div class="d-flex justify-content-between pb-3">
-                        <div class="row  row-cols-1 row-cols-sm-2 row-cols-lg-3  g-4 ">
+                    <div class="row  row-cols-1 row-cols-sm-2 row-cols-lg-3  g-4 ">
                     
-                            <div class="col">
-                                <div class="afte">
-                                    <img loading="lazy" src="../images/New Seaton/new_seaton_1.webp" alt="New Seaton" class="img-fluid imghei">
-                                </div>
-                            </div>
-                            <div class="col">
-                                <div class="afte">
-                                    <img loading="lazy" src="../images/New Seaton/new_seaton_2.webp" alt="New Seaton" class="img-fluid imghei">
-                                </div>
-                            </div>
-                            <div class="col">
-                                <div href="#" class="afte">
-                                    <img loading="lazy" src="../images/New Seaton/new_seaton_3.webp" alt="New Seaton" class="img-fluid imghei">
-                                </div>
-                            </div>
-                            <div class="col">
-                                <div href="#" class="afte">
-                                    <img loading="lazy" src="../images/New Seaton/new_seaton_4.webp" alt="New Seaton" class="img-fluid imghei">
-                                </div>
-                            </div>
-                            <div class="col">
-                                <div href="#" class="afte">
-                                    <img loading="lazy" src="../images/New Seaton/new_seaton_5.webp" alt="New Seaton" class="img-fluid imghei">
-                                </div>
-                            </div>
-                            <div class="col">
-                                <div href="#" class="afte">
-                                    <img loading="lazy" src="../images/New Seaton/new_seaton_6.webp" alt="New Seaton" class="img-fluid imghei">
-                                </div>
-                            </div>
+                    <div class="col">
+                        <div class="afte">
+                            <img loading="lazy" src="../images/oshawa/Treehouse Studios/1.jpg" alt="Treehouse Studios" class="img-fluid imghei">
                         </div>
+                    </div>
+                    <div class="col">
+                        <div class="afte">
+                            <img loading="lazy" src="../images/oshawa/Treehouse Studios/2.jpg" alt="Treehouse Studios" class="img-fluid imghei">
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="afte">
+                            <img loading="lazy" src="../images/oshawa/Treehouse Studios/3.jpg" alt="Treehouse Studios" class="img-fluid imghei">
+                        </div>                
+                    </div>
+                    <div class="col">
+                        <div class="afte">
+                            <img loading="lazy" src="../images/oshawa/Treehouse Studios/4.jpg" alt="Treehouse Studios" class="img-fluid imghei">
+                        </div>                
+                    </div>
+                </div>
                     </div>
                 </div>
             </div>
@@ -110,27 +100,25 @@
    <div class="container">
   <div class="d-flex center-sm">
   <div class=" pt-5">
-   <p class="mb-0 fs-1 fw-bold">New Seaton</p>
-        <p class="mb-0 card-price fs-3">Starting from low $700k</p>
-        <p class="mb-0 fs-3">Taunton Road & Sideline 26, Pickering, ON</p>
-        <p class="mb-0 fs-3">Move in Est. Spring 2024</p>
-        <p class="mb-0 fs-3">Developed by: Towerhill Homes</p>
-        <p class="mb-0 fs-3"> No of units: 0</p>
+      <p class="mb-0 fw-bold fs-1">Treehouse Studios</p>
+      <p class="mb-0 card-price fs-3">Pricing not available</p>
+      <p class="mb-0 tet-s fs-3">1664 Simcoe Street North, Oshawa, ON</p>
+      <p class="mb-0 tet-s fs-3">Move in TBD</p>
+      <p class="mb-0 tet-s fs-3">Developed by: Karmina Developments</p>
+      <p class="mb-0 tet-s fs-3"> No of units: 142</p>
     </div> 
   </div> 
 
   <div class="pt-5 row">
         <p class ="textt d-flex justify-content-center">
-        New Seaton is a new townhouse and single family home development by Towerhill Homes currently under construction at Taunton Road & Sideline 26, Pickering. Starting price from $700000. New Seaton unit sizes range from 1573 to 3537 square feet. <br> <br>
-
-Located in north Pickering, New Seaton is one of the few truly visionary communities in the Greater Toronto Area. Surrounded by peaceful farmland, New Seaton is a grand collaboration between numerous builders and various levels of government to create a thriving, convenient urban community that co-exists in perfect balance with the natural landscape. <br> <br>
-
-When completed, Seaton will let you enjoy a world of remarkable beauty and convenience right at your doorstep. Pedestrian friendly main streets will feature shops and restaurants. An extensive natural heritage system will let you enjoy the area’s rich natural landscape with an expansive trail network. Well-planned streets and neighbourhoods will make it easier than ever to get around, with a network of designated bike lanes and easy access to public transit. And with parks, recreation centres, schools and nearby highways 407 and 401 all nearby, you can find everything you’ve always wanted at Seaton. <br> <br>
-
-Source: TowerHill Homes <br>
-
-Builder's website - http://towerhillhomes.ca/  
-        </p>
+        Treehouse Studios is a new condo development by Karmina Developments currently in preconstruction at 1664 Simcoe Street North, Oshawa. Treehouse Studios has a total of 142 units.
+<br><br>
+Located steps to the Ontario Tech University and Durham College campus in North Oshawa, Treehouse Studio is designed to meet the needs of today's Students and tomorrow's professionals. Full of street-savvy style on the outside and unique amenities inside that redefine urban condo living.
+<br><br>
+Source: Karmina Developments
+<br>
+Builder's website - https://karminadevelopments.com/
+</p>
     </div>
    </div>                  
     </section>

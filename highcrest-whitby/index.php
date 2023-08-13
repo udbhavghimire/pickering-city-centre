@@ -16,10 +16,10 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css">
 
-    <title> New Seaton Homes for sale in Pickering | Register Today</title>
+    <title> Highcrest Whitby for sale in Whitby | Register Today</title>
 
-    <meta name="title" content="New Seaton Homes for sale in Pickering | Register Today">
-    <meta name="description" content="New Seaton Homes for sale in Pickering | Register Today">
+    <meta name="title" content="Highcrest Whitby for sale in Whitby | Register Today">
+    <meta name="description" content="Highcrest Whitby for sale in Whitby | Register Today">
     <meta name="keywords" content="Pickering City Centre, Pickering City Centre, Pickering City Centre Condos, CentreCourt Developments, Pre construction condos in pickering,  condo in pickering">
     <meta name="robots" content="index, follow">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -59,47 +59,49 @@
             <div class="container pt-3 " id="gallery">
                 <div class="my-md-5 my-3"></div>
                 <div class="py-5">
-                    <a href="../pre-construction-homes-pickering/" class = "text-decoration-none"><h1 class="fw-bold fs-1  mx-1 ps-md-0   brand-color ">
-                    Pre construction homes in Pickering  
+                    <a href="../pre-construction-homes-whitby/" class = "text-decoration-none"><h1 class="fw-bold fs-1  mx-1 ps-md-0   brand-color ">
+                    Pre construction homes in Whitby  
                     </h1></a>
-                    <span class="small-text custom-underline mb-5 mx-1">New Pre construction Detached, Townhomes, or Condos for sale in Pickering, Ontario </span>
+                    <span class="small-text custom-underline mb-5 mx-1">New Pre construction Detached, Townhomes, or Condos for sale in Whitby, Ontario </span>
                 </div>
                 <div class="rounded-3">
                
                     <div class="d-flex justify-content-between pb-3">
-                        <div class="row  row-cols-1 row-cols-sm-2 row-cols-lg-3  g-4 ">
+                    <div class="row  row-cols-1 row-cols-sm-2 row-cols-lg-3  g-4 ">
                     
-                            <div class="col">
-                                <div class="afte">
-                                    <img loading="lazy" src="../images/New Seaton/new_seaton_1.webp" alt="New Seaton" class="img-fluid imghei">
-                                </div>
-                            </div>
-                            <div class="col">
-                                <div class="afte">
-                                    <img loading="lazy" src="../images/New Seaton/new_seaton_2.webp" alt="New Seaton" class="img-fluid imghei">
-                                </div>
-                            </div>
-                            <div class="col">
-                                <div href="#" class="afte">
-                                    <img loading="lazy" src="../images/New Seaton/new_seaton_3.webp" alt="New Seaton" class="img-fluid imghei">
-                                </div>
-                            </div>
-                            <div class="col">
-                                <div href="#" class="afte">
-                                    <img loading="lazy" src="../images/New Seaton/new_seaton_4.webp" alt="New Seaton" class="img-fluid imghei">
-                                </div>
-                            </div>
-                            <div class="col">
-                                <div href="#" class="afte">
-                                    <img loading="lazy" src="../images/New Seaton/new_seaton_5.webp" alt="New Seaton" class="img-fluid imghei">
-                                </div>
-                            </div>
-                            <div class="col">
-                                <div href="#" class="afte">
-                                    <img loading="lazy" src="../images/New Seaton/new_seaton_6.webp" alt="New Seaton" class="img-fluid imghei">
-                                </div>
-                            </div>
+                    <div class="col">
+                        <div class="afte">
+                            <img loading="lazy" src="../images/whitby/Highcrest Whitby/1.jpg" alt="Highcrest Whitby" class="img-fluid imghei">
                         </div>
+                    </div>
+                    <div class="col">
+                        <div class="afte">
+                            <img loading="lazy" src="../images/whitby/Highcrest Whitby/2.jpg" alt="Highcrest Whitby" class="img-fluid imghei">
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div href="#" class="afte">
+                            <img loading="lazy" src="../images/whitby/Highcrest Whitby/3.jpg" alt="Highcrest Whitby" class="img-fluid imghei">
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div href="#" class="afte">
+                            <img loading="lazy" src="../images/whitby/Highcrest Whitby/4.jpg" alt="Highcrest Whitby" class="img-fluid imghei">
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div href="#" class="afte">
+                            <img loading="lazy" src="../images/whitby/Highcrest Whitby/5.jpg" alt="Highcrest Whitby" class="img-fluid imghei">
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div href="#" class="afte">
+                            <img loading="lazy" src="../images/whitby/Highcrest Whitby/6.jpg" alt="Highcrest Whitby" class="img-fluid imghei">
+                        </div>
+                    </div>
+
+                    
+                </div>
                     </div>
                 </div>
             </div>
@@ -110,26 +112,25 @@
    <div class="container">
   <div class="d-flex center-sm">
   <div class=" pt-5">
-   <p class="mb-0 fs-1 fw-bold">New Seaton</p>
-        <p class="mb-0 card-price fs-3">Starting from low $700k</p>
-        <p class="mb-0 fs-3">Taunton Road & Sideline 26, Pickering, ON</p>
-        <p class="mb-0 fs-3">Move in Est. Spring 2024</p>
-        <p class="mb-0 fs-3">Developed by: Towerhill Homes</p>
-        <p class="mb-0 fs-3"> No of units: 0</p>
+      <p class="mb-0 fw-bold fs-1">Highcrest Whitby</p>
+      <p class="mb-0 card-price fs-3">Pricing not available</p>
+      <p class="mb-0 tet-s fs-3">Seaboard Gate, Whitby, ON</p>
+      <p class="mb-0 tet-s fs-3">Move in Est. 2023</p>
+      <p class="mb-0 tet-s fs-3">Developed by: Laurier Homes</p>
+      <p class="mb-0 tet-s fs-3"> No of units: 39</p>
     </div> 
   </div> 
 
   <div class="pt-5 row">
         <p class ="textt d-flex justify-content-center">
-        New Seaton is a new townhouse and single family home development by Towerhill Homes currently under construction at Taunton Road & Sideline 26, Pickering. Starting price from $700000. New Seaton unit sizes range from 1573 to 3537 square feet. <br> <br>
+        Highcrest is a new single family home development by Laurier Homes currently under construction at Seaboard Gate, Whitby. Highcrest has a total of 39 units. Sizes range up to 2950 square feet.
+<br> <br>
 
-Located in north Pickering, New Seaton is one of the few truly visionary communities in the Greater Toronto Area. Surrounded by peaceful farmland, New Seaton is a grand collaboration between numerous builders and various levels of government to create a thriving, convenient urban community that co-exists in perfect balance with the natural landscape. <br> <br>
+Adjacent to the windswept sands of Lake Ontario comes an intimate new home community promising comfort and convenience from Whitby’s most ideal lakeside locale. Here, a marvellous collection of residences offers the ultimate waterfront lifestyle in stunning semis and spacious singles up to 2,950 sq.ft. Within reach of serene marine beauty yet moments away from excellent shopping, dining, greenspaces and convenient transit and highway access, Highcrest at Whitby Shores truly puts you in touch with the best elements of the city. Register now to be first to receive exclusive updates and purchase opportunities for Whitby’s most-anticipated new community, coming soon.
+<br> <br>
+Source: Laurier Homes <br>
 
-When completed, Seaton will let you enjoy a world of remarkable beauty and convenience right at your doorstep. Pedestrian friendly main streets will feature shops and restaurants. An extensive natural heritage system will let you enjoy the area’s rich natural landscape with an expansive trail network. Well-planned streets and neighbourhoods will make it easier than ever to get around, with a network of designated bike lanes and easy access to public transit. And with parks, recreation centres, schools and nearby highways 407 and 401 all nearby, you can find everything you’ve always wanted at Seaton. <br> <br>
-
-Source: TowerHill Homes <br>
-
-Builder's website - http://towerhillhomes.ca/  
+Builders website: http://www.laurierhomes.com/
         </p>
     </div>
    </div>                  

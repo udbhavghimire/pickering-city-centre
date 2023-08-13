@@ -67,6 +67,7 @@
                     <div class="d-flex justify-content-between pb-3">
                     <div class="row row-cols-1 row-cols-sm-2 row-cols-lg-4 justify-content-center g-4 mt-2">
                     <div class="col">
+                    <a href="../the-trails-of-country-lane/" target="_blank" class ="text-decoration-none"> 
                         <div class="afte-proj">
                             <img src="../images/whitby/the-trial-of-country-lane.jpg" alt="the-trial-of-country-lane" class="img-fluid rounded-mine imghei">
                             <div class="img-text card">
@@ -78,8 +79,10 @@
                                 <p class="mb-0 tet-s"> No of units: 133</p>
                             </div>
                         </div>
+                    </a>
                     </div>
                     <div class="col">
+                   <a href = "../mary-street-towns/" target="_blank" class ="text-decoration-none">
                         <div class="afte-proj">
                             <img src="../images/whitby/Mary-Street-Towns.jpg" alt="Mary-Street-Towns" class="img-fluid rounded-mine imghei">
                             <div class="img-text card">
@@ -91,8 +94,10 @@
                                 <p class="mb-0 tet-s"> No of units: 0</p>
                             </div>
                         </div>
+                   </a>
                     </div>
                     <div class="col">
+                    <a href = "../manors-on-mayfield-towns/" target="_blank" class ="text-decoration-none">
                         <div href="#" class="afte-proj">
                             <img src="../images/whitby/Manors-on-Mayfield-Towns.webp" alt="Manors-on-Mayfield-Towns" class="img-fluid rounded-mine imghei">
                             <div class="img-text card">
@@ -104,8 +109,10 @@
                                 <p class="mb-0 tet-s"> No of units: 40</p>
                             </div>
                         </div>
+                    </a>
                     </div>
                     <div class="col">
+                    <a href = "../highcrest-whitby/" target="_blank" class ="text-decoration-none">
                         <div href="#" class="afte-proj">
                             <img src="../images/whitby/Highcrest-Whitby.jpg" alt="Highcrest-Whitby" class="img-fluid rounded-mine imghei">
                             <div class="img-text card">
@@ -117,6 +124,7 @@
                                 <p class="mb-0 tet-s"> No of units: 39</p>
                             </div>
                         </div>
+                    </a>
                     </div>
                 </div>
                     </div>

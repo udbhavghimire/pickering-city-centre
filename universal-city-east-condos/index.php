@@ -16,10 +16,10 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css">
 
-    <title> New Seaton Homes for sale in Pickering | Register Today</title>
+    <title>Universal City East Condos for sale in Pickering | Register Today</title>
 
-    <meta name="title" content="New Seaton Homes for sale in Pickering | Register Today">
-    <meta name="description" content="New Seaton Homes for sale in Pickering | Register Today">
+    <meta name="title" content="Universal City East Condos for sale in Pickering | Register Today">
+    <meta name="description" content="Universal City East Condos for sale in Pickering | Register Today">
     <meta name="keywords" content="Pickering City Centre, Pickering City Centre, Pickering City Centre Condos, CentreCourt Developments, Pre construction condos in pickering,  condo in pickering">
     <meta name="robots" content="index, follow">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -71,32 +71,32 @@
                     
                             <div class="col">
                                 <div class="afte">
-                                    <img loading="lazy" src="../images/New Seaton/new_seaton_1.webp" alt="New Seaton" class="img-fluid imghei">
+                                    <img loading="lazy" src="../images/Universal pickering/1.jpg" alt="Universal City East Condos" class="img-fluid imghei">
                                 </div>
                             </div>
                             <div class="col">
                                 <div class="afte">
-                                    <img loading="lazy" src="../images/New Seaton/new_seaton_2.webp" alt="New Seaton" class="img-fluid imghei">
+                                    <img loading="lazy" src="../images/Universal pickering/2.jpg" alt="Universal City East Condos" class="img-fluid imghei">
                                 </div>
                             </div>
                             <div class="col">
                                 <div href="#" class="afte">
-                                    <img loading="lazy" src="../images/New Seaton/new_seaton_3.webp" alt="New Seaton" class="img-fluid imghei">
+                                    <img loading="lazy" src="../images/Universal pickering/3.jpg" alt="Universal City East Condos" class="img-fluid imghei">
                                 </div>
                             </div>
                             <div class="col">
                                 <div href="#" class="afte">
-                                    <img loading="lazy" src="../images/New Seaton/new_seaton_4.webp" alt="New Seaton" class="img-fluid imghei">
+                                    <img loading="lazy" src="../images/Universal pickering/4.jpg" alt="Universal City East Condos" class="img-fluid imghei">
                                 </div>
                             </div>
                             <div class="col">
                                 <div href="#" class="afte">
-                                    <img loading="lazy" src="../images/New Seaton/new_seaton_5.webp" alt="New Seaton" class="img-fluid imghei">
+                                    <img loading="lazy" src="../images/Universal pickering/5.jpg" alt="Universal City East Condos" class="img-fluid imghei">
                                 </div>
                             </div>
                             <div class="col">
                                 <div href="#" class="afte">
-                                    <img loading="lazy" src="../images/New Seaton/new_seaton_6.webp" alt="New Seaton" class="img-fluid imghei">
+                                    <img loading="lazy" src="../images/Universal pickering/6.jpg" alt="Universal City East Condos" class="img-fluid imghei">
                                 </div>
                             </div>
                         </div>
@@ -110,26 +110,25 @@
    <div class="container">
   <div class="d-flex center-sm">
   <div class=" pt-5">
-   <p class="mb-0 fs-1 fw-bold">New Seaton</p>
-        <p class="mb-0 card-price fs-3">Starting from low $700k</p>
-        <p class="mb-0 fs-3">Taunton Road & Sideline 26, Pickering, ON</p>
-        <p class="mb-0 fs-3">Move in Est. Spring 2024</p>
-        <p class="mb-0 fs-3">Developed by: Towerhill Homes</p>
-        <p class="mb-0 fs-3"> No of units: 0</p>
-    </div> 
-  </div> 
+  <p class="mb-0 fw-bold fs-1">Universal City East Condos</p>
+  <p class="mb-0 card-price fs-3">Pricing not available</p>
+<p class="mb-0 tet-s fs-3 ">1496 Bayly Street, Pickering, ON</p>
+<p class="mb-0 tet-s fs-3">Move in TBD</p>
+<p class="mb-0 tet-s fs-3">Developed by: Chestnut Hill Developments</p>
+<p class="mb-0 tet-s fs-3"> No of units: 302</p> 
+</div> 
+  </div>
+
 
   <div class="pt-5 row">
         <p class ="textt d-flex justify-content-center">
-        New Seaton is a new townhouse and single family home development by Towerhill Homes currently under construction at Taunton Road & Sideline 26, Pickering. Starting price from $700000. New Seaton unit sizes range from 1573 to 3537 square feet. <br> <br>
+        Universal City East is a new condo development by Chestnut Hill Developments currently in preconstruction at 1496 Bayly Street, Pickering. Universal City East has a total of 302 units. <br> <br>
 
-Located in north Pickering, New Seaton is one of the few truly visionary communities in the Greater Toronto Area. Surrounded by peaceful farmland, New Seaton is a grand collaboration between numerous builders and various levels of government to create a thriving, convenient urban community that co-exists in perfect balance with the natural landscape. <br> <br>
+Welcome home to exquisite style, comfort and convenience in a hotel-inspired lobby that says you’ve arrived. The lounge is beautifully designed with luxurious furnishing and artful expressions, defining an impressive environment to relax and greet guests in. Enjoy first-class concierge service, along with the ease of a secure automated parcel room and Pet Spa for your best four-legged friends. <br> <br>
 
-When completed, Seaton will let you enjoy a world of remarkable beauty and convenience right at your doorstep. Pedestrian friendly main streets will feature shops and restaurants. An extensive natural heritage system will let you enjoy the area’s rich natural landscape with an expansive trail network. Well-planned streets and neighbourhoods will make it easier than ever to get around, with a network of designated bike lanes and easy access to public transit. And with parks, recreation centres, schools and nearby highways 407 and 401 all nearby, you can find everything you’ve always wanted at Seaton. <br> <br>
+Source: Universal City East <br>
 
-Source: TowerHill Homes <br>
-
-Builder's website - http://towerhillhomes.ca/  
+Builder's website - https://chestnuthilldevelopments.com/ 
         </p>
     </div>
    </div>                  

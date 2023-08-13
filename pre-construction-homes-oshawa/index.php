@@ -69,6 +69,7 @@
                     <div class="d-flex justify-content-between pb-3">
                     <div class="row row-cols-1 row-cols-sm-2 row-cols-lg-4 justify-content-center g-4 mt-2">
                     <div class="col">
+                    <a href="../palmetto-homes/" target="_blank" class ="text-decoration-none"> 
                         <div class="afte-proj">
                             <img src="../images/oshawa/Palmetto-Homes.jpg" alt="Palmetto Homes" class="img-fluid rounded-mine imghei">
                             <div class="img-text card">
@@ -80,8 +81,10 @@
                                 <p class="mb-0 tet-s"> No of units: 0</p>
                             </div>
                         </div>
+                    </a>
                     </div>
                     <div class="col">
+                    <a href="../treehouse-studios/" target="_blank" class ="text-decoration-none"> 
                         <div class="afte-proj">
                             <img src="../images/oshawa/treehouse_studios.webp" alt="Treehouse Studios" class="img-fluid rounded-mine imghei">
                             <div class="img-text card">
@@ -93,8 +96,10 @@
                                 <p class="mb-0 tet-s"> No of units: 142</p>
                             </div>
                         </div>
+                    </a>
                     </div>
                     <div class="col">
+                    <a href="../nahid-harbour-condos/" target="_blank" class ="text-decoration-none"> 
                         <div href="#" class="afte-proj">
                             <img src="../images/oshawa/nahid-harbour.webp" alt="Nahid Harbour Condos" class="img-fluid rounded-mine imghei">
                             <div class="img-text card">
@@ -106,9 +111,11 @@
                                 <p class="mb-0 tet-s"> No of units: 694</p>
                             </div>
                         </div>
+                    </a>
                     </div>
                     <div class="col">
-                        <div href="#" class="afte-proj">
+                    <a href="../uc-tower-3/" target="_blank" class ="text-decoration-none">
+                        <div class="afte-proj">
                             <img src="../images/oshawa/uc-tower-3.jpg" alt="U.C. Tower 3" class="img-fluid rounded-mine imghei">
                             <div class="img-text card">
                                 <p class="mb-0">U.C. Tower 3</p>
@@ -119,6 +126,7 @@
                                 <p class="mb-0 tet-s"> No of units: 229</p>
                             </div>
                         </div>
+                    </a>
                     </div>
                 </div>
                     </div>

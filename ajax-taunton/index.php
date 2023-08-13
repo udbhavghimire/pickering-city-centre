@@ -16,10 +16,10 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css">
 
-    <title> New Seaton Homes for sale in Pickering | Register Today</title>
+    <title> Ajax Taunton for sale in Ajax | Register Today</title>
 
-    <meta name="title" content="New Seaton Homes for sale in Pickering | Register Today">
-    <meta name="description" content="New Seaton Homes for sale in Pickering | Register Today">
+    <meta name="title" content="Ajax Taunton for sale in Ajax | Register Today">
+    <meta name="description" content="Ajax Taunton for sale in Ajax | Register Today">
     <meta name="keywords" content="Pickering City Centre, Pickering City Centre, Pickering City Centre Condos, CentreCourt Developments, Pre construction condos in pickering,  condo in pickering">
     <meta name="robots" content="index, follow">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -59,47 +59,32 @@
             <div class="container pt-3 " id="gallery">
                 <div class="my-md-5 my-3"></div>
                 <div class="py-5">
-                    <a href="../pre-construction-homes-pickering/" class = "text-decoration-none"><h1 class="fw-bold fs-1  mx-1 ps-md-0   brand-color ">
-                    Pre construction homes in Pickering  
+                    <a href="../pre-construction-homes-ajax/" class = "text-decoration-none"><h1 class="fw-bold fs-1  mx-1 ps-md-0   brand-color ">
+                    Pre construction homes in Ajax  
                     </h1></a>
-                    <span class="small-text custom-underline mb-5 mx-1">New Pre construction Detached, Townhomes, or Condos for sale in Pickering, Ontario </span>
+                    <span class="small-text custom-underline mb-5 mx-1">New Pre construction Detached, Townhomes, or Condos for sale in Ajax, Ontario </span>
                 </div>
                 <div class="rounded-3">
                
                     <div class="d-flex justify-content-between pb-3">
-                        <div class="row  row-cols-1 row-cols-sm-2 row-cols-lg-3  g-4 ">
+                    <div class="row  row-cols-1 row-cols-sm-2 row-cols-lg-3  g-4 ">
                     
-                            <div class="col">
-                                <div class="afte">
-                                    <img loading="lazy" src="../images/New Seaton/new_seaton_1.webp" alt="New Seaton" class="img-fluid imghei">
-                                </div>
-                            </div>
-                            <div class="col">
-                                <div class="afte">
-                                    <img loading="lazy" src="../images/New Seaton/new_seaton_2.webp" alt="New Seaton" class="img-fluid imghei">
-                                </div>
-                            </div>
-                            <div class="col">
-                                <div href="#" class="afte">
-                                    <img loading="lazy" src="../images/New Seaton/new_seaton_3.webp" alt="New Seaton" class="img-fluid imghei">
-                                </div>
-                            </div>
-                            <div class="col">
-                                <div href="#" class="afte">
-                                    <img loading="lazy" src="../images/New Seaton/new_seaton_4.webp" alt="New Seaton" class="img-fluid imghei">
-                                </div>
-                            </div>
-                            <div class="col">
-                                <div href="#" class="afte">
-                                    <img loading="lazy" src="../images/New Seaton/new_seaton_5.webp" alt="New Seaton" class="img-fluid imghei">
-                                </div>
-                            </div>
-                            <div class="col">
-                                <div href="#" class="afte">
-                                    <img loading="lazy" src="../images/New Seaton/new_seaton_6.webp" alt="New Seaton" class="img-fluid imghei">
-                                </div>
-                            </div>
+                    <div class="col">
+                        <div class="afte">
+                            <img loading="lazy" src="../images/ajax/Ajax Taunton/1.jpg" alt="Ajax Taunton" class="img-fluid imghei">
                         </div>
+                    </div>
+                    <div class="col">
+                        <div class="afte">
+                            <img loading="lazy" src="../images/ajax/Ajax Taunton/2.jpg" alt="Ajax Taunton" class="img-fluid imghei">
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div href="#" class="afte">
+                            <img loading="lazy" src="../images/ajax/Ajax Taunton/3.jpg" alt="Ajax Taunton" class="img-fluid imghei">
+                        </div>                
+                    </div>
+                </div>
                     </div>
                 </div>
             </div>
@@ -110,27 +95,23 @@
    <div class="container">
   <div class="d-flex center-sm">
   <div class=" pt-5">
-   <p class="mb-0 fs-1 fw-bold">New Seaton</p>
-        <p class="mb-0 card-price fs-3">Starting from low $700k</p>
-        <p class="mb-0 fs-3">Taunton Road & Sideline 26, Pickering, ON</p>
-        <p class="mb-0 fs-3">Move in Est. Spring 2024</p>
-        <p class="mb-0 fs-3">Developed by: Towerhill Homes</p>
-        <p class="mb-0 fs-3"> No of units: 0</p>
+      <p class="mb-0 fw-bold fs-1">Ajax Taunton</p>
+      <p class="mb-0 card-price fs-3">Pricing not available</p>
+      <p class="mb-0 tet-s fs-3">361 Taunton Road West, Ajax, ON</p>
+      <p class="mb-0 tet-s fs-3">Move in TBD</p>
+      <p class="mb-0 tet-s fs-3">Developed by: Valour Group</p>
+      <p class="mb-0 tet-s fs-3"> No of units: 1233</p>
     </div> 
   </div> 
 
   <div class="pt-5 row">
         <p class ="textt d-flex justify-content-center">
-        New Seaton is a new townhouse and single family home development by Towerhill Homes currently under construction at Taunton Road & Sideline 26, Pickering. Starting price from $700000. New Seaton unit sizes range from 1573 to 3537 square feet. <br> <br>
-
-Located in north Pickering, New Seaton is one of the few truly visionary communities in the Greater Toronto Area. Surrounded by peaceful farmland, New Seaton is a grand collaboration between numerous builders and various levels of government to create a thriving, convenient urban community that co-exists in perfect balance with the natural landscape. <br> <br>
-
-When completed, Seaton will let you enjoy a world of remarkable beauty and convenience right at your doorstep. Pedestrian friendly main streets will feature shops and restaurants. An extensive natural heritage system will let you enjoy the area’s rich natural landscape with an expansive trail network. Well-planned streets and neighbourhoods will make it easier than ever to get around, with a network of designated bike lanes and easy access to public transit. And with parks, recreation centres, schools and nearby highways 407 and 401 all nearby, you can find everything you’ve always wanted at Seaton. <br> <br>
-
-Source: TowerHill Homes <br>
-
-Builder's website - http://towerhillhomes.ca/  
-        </p>
+        Ajax Taunton is a new condo and townhouse development by Valour Group currently in preconstruction at 361 Taunton Road West, Ajax. Ajax Taunton has a total of 1233 units.
+<br> <br>
+This project consists of 4 phases with 1,541-units approved for development. Phase 1 consists of a planned 391-unit condominium apartment building, Phase 2 consists of a planned 308-unit seniors condominium apartment building, Phase 3 consists of a planned 800-unit condominium apartment building, and Phase 4 is the final phase of the development and contemplates a planned 42-unit stacked townhome development.
+<br> <br>
+Source: Valour Group
+</p>
     </div>
    </div>                  
     </section>
