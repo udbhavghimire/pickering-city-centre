@@ -111,6 +111,8 @@
                         </div>
                     </a>
                     </div>
+
+
                     <div class="col">
                     <a href = "../highcrest-whitby/" target="_blank" class ="text-decoration-none">
                         <div href="#" class="afte-proj">
@@ -128,14 +130,21 @@
                     </div>
                 </div>
                     </div>
+                    
                 </div>
             </div>
         </div>
     </section>
 
+<div class ="mt-3">
+<h2 class="fw-bold fs-1  mx-1 ps-md-0 d-flex justify-content-center align-items-center text-center">
+      Checkout all the <a href="https://homebaba.ca/whitby" target="_blank" class = "text-dark mx-1"> preconstruction homes in whitby </a>
+</h2>
+</div>
+
     <section>
-        <div class="pt-2" data-aos="fade-up" data-aos-duration="2000" data-aos-delay="50">
-            <div class="container pt-3 " id="newcondos">
+        <div class="pt-2 pt-md-5 mt-md-3" data-aos="fade-up" data-aos-duration="2000" data-aos-delay="50">
+            <div class="container pt-3 pt-md-4" id="newcondos">
                 <div class="my-md-5 my-3"></div>
                 <div class="pt-md-5 pt-5">
                     <h2 class="fw-bold fs-1  mx-1 ps-md-0 d-flex justify-content-center align-items-center brand-color text-center">
