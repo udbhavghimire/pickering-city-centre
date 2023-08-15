@@ -60,8 +60,8 @@
             <div class="container pt-3 " id="newcondos">
                 <div class="my-md-5 my-3"></div>
                 <div class="pt-md-5 pt-5">
-                    <h1 class="fw-bold fs-1  mx-1 ps-md-0 d-flex justify-content-center align-items-center  brand-color text-center">
-                    Latest New Pre construction homes in Pickering | August Updates* 
+                    <h1 class="fw-bold fs-1  mx-1 ps-md-0 d-flex justify-content-center align-items-center  brand-color text-center bg-color">
+                    Latest New Pre construction homes in Pickering | August Updates*  
                     </h1>
                     <span class="small-text text-center d-flex justify-content-center custom-underline pb-3 mx-1">New Pre construction Detached, Townhomes, or Condos for sale in Pickering, Ontario </span>
                 </div>
@@ -179,8 +179,8 @@
             <div class="container pt-3 " id="newcondos">
                 <div class="my-md-5 my-3"></div>
                 <div class="pt-md-5 pt-5">
-                    <h2 class="fw-bold fs-1  mx-1 ps-md-0 d-flex justify-content-center align-items-center brand-color text-center">
-                    Past Pre Construction Projects in Pickering
+                    <h2 class="fw-bold fs-1  mx-1 ps-md-0 d-flex justify-content-center align-items-center brand-color text-center ">
+                     <span class ="bg-color"> Past Pre Construction Projects in Pickering </span>
                     </h2>
                     <span class="small-text text-center d-flex justify-content-center custom-underline pb-3 mx-1">See the pricing, plans & information about previous pre-construction homes sold in Pickering</span>
                 </div>

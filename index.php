@@ -148,7 +148,7 @@
                     <div class="d-flex justify-content-center align-items-center  brand-color text-center">
                    <div class="py-3">
                    <h2>
-                         <a class="brand-color bg-color" href="./pre-construction-homes-pickering/">Pickering</a>      
+                       <a class="brand-color bg-color " href="./pre-construction-homes-pickering/">Pickering</a>   
                         <a class=" brand-color bg-color" href="./pre-construction-homes-ajax/">Ajax</a>
                         <a class=" brand-color bg-color" href="./pre-construction-homes-whitby/">Whitby</a> 
                         <a class=" brand-color bg-color" href="./pre-construction-homes-oshawa/">Oshawa</a>

@@ -59,7 +59,7 @@
                 <div class="my-md-5 my-3"></div>
                 <div class="pt-md-5 pt-5">
                     <h1 class="fw-bold fs-1  mx-1 ps-md-0 d-flex justify-content-center align-items-center  brand-color text-center">
-                    Top Pre construction homes in Whitby | New Updates*
+                   <Span class="bg-color"> Top Pre construction homes in Whitby | New Updates*</Span>
                     </h1>
                     <span class="small-text text-center d-flex justify-content-center custom-underline pb-3 mx-1">New Pre construction Detached, Townhomes, or Condos for sale in Whitby, Ontario </span>
                 </div>
@@ -148,7 +148,7 @@
                 <div class="my-md-5 my-3"></div>
                 <div class="pt-md-5 pt-5">
                     <h2 class="fw-bold fs-1  mx-1 ps-md-0 d-flex justify-content-center align-items-center brand-color text-center">
-                    Past Pre Construction Projects in Whitby
+                <span class="bg-color"> Past Pre Construction Projects in Whitby </span>
                     </h2>
                     <span class="small-text text-center d-flex justify-content-center custom-underline pb-3 mx-1">See the pricing, plans & information about previous pre-construction homes sold in Whitby</span>
                 </div>

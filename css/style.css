@@ -30,6 +30,7 @@
 }
 
 .bg-color {
+    display: inline-block;
     color: black;
     font-weight: 700;
     background-color: #FFE167;
@@ -291,7 +292,7 @@
         font-weight: 900 !important;
         font-size: 2.5rem !important;
         margin-right: 0rem !important;
-        height: 70px;
+        height: 110px;
         padding-left: 10px;
     }
     .fixxcont2 {
@@ -303,5 +304,13 @@
         position: fixed;
         z-index: 9999;
         display: block;
+    }
+    .bg-color {
+        display: inline-block;
+        color: black;
+        font-weight: 700;
+        background-color: #FFE167;
+        margin-top: 3px !important;
+        padding: 10px;
     }
 }
