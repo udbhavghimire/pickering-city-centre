@@ -2,7 +2,7 @@
         <nav class="navbar navbar-expand-md navbar-light" id="navbar">
             <div class="container">
                 <a href="/" class="navbar-brand">
-                <img src="../images/the-pickering-logo.png" class="navbar-brand"  alt="The Pickeiring Logo">
+                <img src="../images/pickering-logo.png" class="navbar-brand"  alt="The Pickeiring Logo">
                 </a>
                 <div class="dropdown d-block d-md-none shadow-lg rounded-3 mt-4">
                             <a class="nav-link scrollto" href="#cities">Cities

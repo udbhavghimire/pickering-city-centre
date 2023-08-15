@@ -142,17 +142,18 @@
             <div class="container pt-3 " id="newcondos">
                 <div class="my-md-5 my-3"></div>
                 <div class="pt-md-5 pt-5">
-                    <h1 class="fw-bold fs-1  mx-1 ps-md-0 d-flex justify-content-center align-items-center  brand-color text-center">
-                    Latest New Construction Development in Durham Region | Updated Daily
+                    <h1 class="fw-bold fs-1 main-titlee mx-1 ps-md-0 d-flex justify-content-center align-items-center  brand-color text-center">
+                    Latest New Construction Development in Durham Region
                     </h1>
                     <div class="d-flex justify-content-center align-items-center  brand-color text-center">
-                    <h2>
-                        
-                        ( <a class="brand-color" href="./pre-construction-homes-pickering/">Pickering</a>,      
-                        <a class=" brand-color" href="./pre-construction-homes-ajax/">Ajax</a>,
-                        <a class=" brand-color" href="./pre-construction-homes-whitby/">Whitby</a> &
-                        <a class=" brand-color" href="./pre-construction-homes-oshawa/">Oshawa</a> ) 
+                   <div class="py-3">
+                   <h2>
+                         <a class="brand-color bg-color" href="./pre-construction-homes-pickering/">Pickering</a>      
+                        <a class=" brand-color bg-color" href="./pre-construction-homes-ajax/">Ajax</a>
+                        <a class=" brand-color bg-color" href="./pre-construction-homes-whitby/">Whitby</a> 
+                        <a class=" brand-color bg-color" href="./pre-construction-homes-oshawa/">Oshawa</a>
                     </h2>
+                   </div>
 </div>
                     <span class="small-text text-center d-flex justify-content-center custom-underline pb-3 mx-1">All upcoming and current pre construction detached, townhomes & condos in Durham region | Updated Daily </span>
                 </div>
@@ -235,13 +236,15 @@
                     Past New Pre Construction Projects in Durham
                     </h2>
                     <div class="d-flex justify-content-center align-items-center  brand-color text-center">
+                    <div class="py-3">
                     <h2>
                         
-                        ( <a class="brand-color" href="/pre-construction-homes-pickering/">Pickering</a>,      
-                        <a class=" brand-color" href="/pre-construction-homes-ajax/">Ajax</a>,
-                        <a class=" brand-color" href="/pre-construction-homes-whitby/">Whitby</a> &
-                        <a class=" brand-color" href="/pre-construction-homes-oshawa/">Oshawa</a> ) 
+                         <a class="brand-color bg-color" href="/pre-construction-homes-pickering/">Pickering</a>     
+                        <a class=" brand-color bg-color" href="/pre-construction-homes-ajax/">Ajax</a>
+                        <a class=" brand-color bg-color" href="/pre-construction-homes-whitby/">Whitby</a> 
+                        <a class=" brand-color bg-color" href="/pre-construction-homes-oshawa/">Oshawa</a> 
                     </h2>
+                    </div>
 </div>
                 </div>
                 <div class="rounded-3">
