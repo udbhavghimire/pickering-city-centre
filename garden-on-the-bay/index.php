@@ -59,10 +59,15 @@
             <div class="container pt-3 " id="gallery">
                 <div class="my-md-5 my-3"></div>
                 <div class="py-5">
-                    <a href="../pre-construction-homes-ajax/" class = "text-decoration-none"><h1 class="fw-bold fs-1  mx-1 ps-md-0   brand-color ">
-                    Pre construction homes in Ajax  
-                    </h1></a>
-                    <span class="small-text custom-underline mb-5 mx-1">New Pre construction Detached, Townhomes, or Condos for sale in Ajax, Ontario </span>
+                   <h1 class="fw-bold fs-1  mx-1 ps-md-0   brand-color ">
+                   Garden on the Bay
+                    </h1>
+                    <nav style="--bs-breadcrumb-divider: '>';" aria-label="breadcrumb">
+                        <ol class="breadcrumb">
+                            <li class="breadcrumb-item"><a href="../pre-construction-homes-ajax/">Pre Construction Homes Ajax</a></li>
+                            <li class="breadcrumb-item active" aria-current="page">Garden on the Bay</li>
+                        </ol>
+                        </nav>
                 </div>
                 <div class="rounded-3">
                

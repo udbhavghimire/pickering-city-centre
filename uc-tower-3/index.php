@@ -59,10 +59,15 @@
             <div class="container pt-3 " id="gallery">
                 <div class="my-md-5 my-3"></div>
                 <div class="py-5">
-                    <a href="../pre-construction-homes-oshawa/" class = "text-decoration-none"><h1 class="fw-bold fs-1  mx-1 ps-md-0   brand-color ">
-                    Pre construction homes in Oshawa  
-                    </h1></a>
-                    <span class="small-text custom-underline mb-5 mx-1">New Pre construction Detached, Townhomes, or Condos for sale in Oshawa, Ontario </span>
+                   <h1 class="fw-bold fs-1  mx-1 ps-md-0   brand-color ">
+                   U.C. Tower 3
+                    </h1>
+                    <nav style="--bs-breadcrumb-divider: '>';" aria-label="breadcrumb">
+                        <ol class="breadcrumb">
+                            <li class="breadcrumb-item"><a href="../pre-construction-homes-oshawa/">Pre Construction Homes Oshawa</a></li>
+                            <li class="breadcrumb-item active" aria-current="page">U.C. Tower 3</li>
+                        </ol>
+                        </nav>
                 </div>
                 <div class="rounded-3">
                

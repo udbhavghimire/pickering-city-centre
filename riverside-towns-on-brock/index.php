@@ -58,6 +58,17 @@
         <div class="">
             <div class="container pt-3 " id="gallery">
                 <div class="my-md-5 my-3"></div>
+                <div class="py-5">
+                   <h1 class="fw-bold fs-1  mx-1 ps-md-0   brand-color ">
+                   Riverside Towns on Brock
+                    </h1>
+                    <nav style="--bs-breadcrumb-divider: '>';" aria-label="breadcrumb">
+                        <ol class="breadcrumb">
+                            <li class="breadcrumb-item"><a href="../pre-construction-homes-pickering/">Pre Construction Homes Pickering</a></li>
+                            <li class="breadcrumb-item active" aria-current="page"> Riverside Towns on Brock</li>
+                        </ol>
+                        </nav>
+                </div>
                 <div class="rounded-3">
                     <div class="d-flex justify-content-between pb-3">
                         <div class="row 

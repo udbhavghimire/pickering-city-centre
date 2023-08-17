@@ -241,6 +241,11 @@
     background-color: #f1f3fa;
 }
 
+.breadcrumb-item a {
+    text-decoration: none !important;
+    color: #000;
+}
+
 .foot-fields {
     width: 100%;
     padding: 0.9rem 0.9rem;

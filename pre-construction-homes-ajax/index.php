@@ -16,9 +16,9 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css">
 
-    <title> Pre construction homes for sale in Ajax | Register Today</title>
+    <title> Ajax New Construction Homes | Daily Updates </title>
 
-    <meta name="title" content="Pre construction homes for sale in Ajax | Register Today">
+    <meta name="title" content="Ajax New Construction Homes | Daily Updates ">
     <meta name="description" content="New Construction Homes & Condos in Ajax | Find Pre construction Detached, Townhomes & condos in Ajax. Plans & pricing.">
     <meta name="keywords" content="Pickering City Centre, Pickering City Centre, Pickering City Centre Condos, CentreCourt Developments, Pre construction condos in pickering,  condo in pickering">
     <meta name="robots" content="index, follow">
