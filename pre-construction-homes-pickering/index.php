@@ -67,7 +67,7 @@
                 </div>
                 <div class="rounded-3">
                     <div class="d-flex justify-content-between pb-3">
-                    <div class="row row-cols-1 row-cols-sm-2 row-cols-lg-4 justify-content-center g-4 mt-2">
+                    <div class="row row-cols-1 row-cols-sm-2 row-cols-lg-4  g-4 mt-2">
                     <div class="col">
                     <a href="../new-seaton/" target="_blank" class ="text-decoration-none"> 
                         <div class="afte-proj">
@@ -164,6 +164,32 @@
                                 <p class="mb-0 tet-s">Move in TBD</p>
                                 <p class="mb-0 tet-s">Developed by: Liberty Hamlets and Fieldgate Construction Management Ltd</p>
                                 <p class="mb-0 tet-s"> No of units: 336</p>
+                            </div>
+                        </div>
+                    </div>
+                      <div class="col">
+                        <div href="#" class="afte-proj">
+                            <img src="../images/699-kingston-road.webp" alt="699-kingston-road-condos" class="img-fluid rounded-mine imghei">
+                            <div class="img-text card">
+                                <p class="mb-0">699 Kingston Road Condos</p>
+                                <p class="mb-0 card-price">Pricing not available</p>
+                                <p class="mb-0 tet-s">699 Kingston Road,  Pickering,   ON</p>
+                                <p class="mb-0 tet-s">Move in TBD</p>
+                                <p class="mb-0 tet-s">Developed by: Sorbara Group of Companies</p>
+                                <p class="mb-0 tet-s"> No of units: 2884</p>
+                            </div>
+                        </div>
+                    </div>
+                       <div class="col">
+                        <div href="#" class="afte-proj">
+                            <img src="../images/875-kingston-road.jpg" alt="699-kingston-road-condos" class="img-fluid rounded-mine imghei">
+                            <div class="img-text card">
+                                <p class="mb-0">875 Kingston Road Condos</p>
+                                <p class="mb-0 card-price">Pricing not available</p>
+                                <p class="mb-0 tet-s">875 Kingston Road,  Pickering,   ON</p>
+                                <p class="mb-0 tet-s">Move in TBD</p>
+                                <p class="mb-0 tet-s">Developed by: Sphere Developments</p>
+                                <p class="mb-0 tet-s"> No of units: 400</p>
                             </div>
                         </div>
                     </div>
