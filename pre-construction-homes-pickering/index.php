@@ -129,6 +129,7 @@
                     </a>
                     </div>
                     <div class="col">
+                    <a href="../pickering-city-centre-condos/" target="_blank" class ="text-decoration-none"> 
                         <div href="#" class="afte-proj">
                             <img src="../images/Pickering-City-Centre-Condos-Coming-Soon--1-v9-full.webp" alt="Pickering-City-Centre-Condos" class="img-fluid rounded-mine imghei">
                             <div class="img-text card">
@@ -140,8 +141,10 @@
                                 <p class="mb-0 tet-s"> No of units: 0</p>
                             </div>
                         </div>
+                    </a>
                     </div>
                     <div class="col">
+                    <a href="../clarehaven-estates/" target="_blank" class ="text-decoration-none"> 
                         <div href="#" class="afte-proj">
                             <img src="../images/Clarehaven-Estates-pickering.webp" alt="Clarehaven-Estates" class="img-fluid rounded-mine imghei">
                             <div class="img-text card">
@@ -153,6 +156,7 @@
                                 <p class="mb-0 tet-s"> No of units: 70</p>
                             </div>
                         </div>
+                    </a>
                     </div>
                     <div class="col">
                         <div href="#" class="afte-proj">
