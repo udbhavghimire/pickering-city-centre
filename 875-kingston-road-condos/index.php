@@ -16,11 +16,11 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css">
 
-    <title> Clarehaven Estates for sale in Pickering | Register Today</title>
+    <title> 875 Kingston Road Condos for sale in Pickering | Register Today</title>
 
-    <meta name="title" content="Clarehaven Estates for sale in Pickering | Register Today">
-    <meta name="description" content="Clarehaven Estates for sale in Pickering | Register Today">
-    <meta name="keywords" content="Pickering City Centre, Pickering City Centre, Pickering City Centre Condos, CentreCourt Developments, Pre construction condos in pickering,  condo in pickering">
+    <meta name="title" content="875 Kingston Road Condos for sale in Pickering | Register Today">
+    <meta name="description" content="875 Kingston Road Condos for sale in Pickering | Register Today">
+    <meta name="keywords" content="Pickering City Centre, Pickering City Centre, 875 Kingston Road Condos, CentreCourt Developments, Pre construction condos in pickering,  condo in pickering">
     <meta name="robots" content="index, follow">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <meta name="language" content="English">
@@ -60,28 +60,37 @@
                 <div class="my-md-5 my-3"></div>
                 <div class="py-5">
                    <h1 class="fw-bold fs-1  mx-1 ps-md-0   brand-color ">
-                    Clarehaven Estates
+                   875 Kingston Road Condos
                     </h1>
                     <nav style="--bs-breadcrumb-divider: '>';" aria-label="breadcrumb">
                         <ol class="breadcrumb">
                             <li class="breadcrumb-item"><a href="../pre-construction-homes-pickering/">Pre Construction Homes Pickering</a></li>
-                            <li class="breadcrumb-item active" aria-current="page"> Clarehaven Estates</li>
+                            <li class="breadcrumb-item active" aria-current="page">875 Kingston Road Condos</li>
                         </ol>
                         </nav>
                 </div>
 
                 <div class="rounded-3">
                
-                <div class="d-flex justify-content-between pb-3">
-                    <div class="row  g-4 ">
+                    <div class="d-flex justify-content-between pb-3">
+                        <div class="row  row-cols-1 row-cols-sm-2 row-cols-lg-3  g-4 ">
                     
-                    <div class="col">
-                        <div class="afte">
-                            <img loading="lazy" src="../images/Clarehaven Estates/1.jpg" alt="Mary Street Towns" class="img-fluid rounded-3">
+                            <div class="col">
+                                <div class="afte">
+                                    <img loading="lazy" src="../images/875 Kingston Road Condos/1.jpeg" alt="875 Kingston Road Condos" class="img-fluid imghei">
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="afte">
+                                    <img loading="lazy" src="../images/875 Kingston Road Condos/2.jpeg" alt="875 Kingston Road Condos" class="img-fluid imghei">
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div href="#" class="afte">
+                                    <img loading="lazy" src="../images/875 Kingston Road Condos/3.jpeg" alt="875 Kingston Road Condos" class="img-fluid imghei">
+                                </div>
+                            </div>
                         </div>
-                    </div>
-                    
-                </div>
                     </div>
                 </div>
             </div>
@@ -92,26 +101,24 @@
    <div class="container">
   <div class="d-flex center-sm">
   <div class=" pt-5">
-   <p class="mb-0 fs-1 fw-bold">Clarehaven Estates</p>
+   <p class="mb-0 fs-1 fw-bold">875 Kingston Road Condos</p>
         <p class="mb-0 card-price fs-3">Pricing not available</p>
-        <p class="mb-0 fs-3">5033 Brock Road, Pickering, ON</p>
+        <p class="mb-0 fs-3">1355 A Kingston Road, Pickering, ON</p>
         <p class="mb-0 fs-3">Move in TBD</p>
-        <p class="mb-0 fs-3">Developed by: Geranium</p>
-        <p class="mb-0 fs-3"> No of units: 70</p>
+        <p class="mb-0 fs-3">Developed by: Sphere Developments</p>
+        <p class="mb-0 fs-3"> No of units: 400</p>
     </div> 
   </div> 
 
   <div class="pt-5 row">
         <p class ="textt d-flex justify-content-center">
-        Clarehaven Estates is a new single family home community by Geranium currently in preconstruction at 5033 Brock Road, Pickering. Clarehaven Estates has a total of 70 units. Sizes range from 2500 to 5000 square feet.
-<br> <br>
-Your Haven Awaits<br>
-Experience the best of the country living at Clarehaven Estates – an exquisite community of spacious Bungalow, Bungalow with Lofts, and Two-Storey residences nestled in the heart of the Hamlet of Claremont. Surround yourself with lush natural landscapes, abundant wildlife, and breathtaking scenery, and savour the joys of quality time with your loved ones in an environment that promotes relaxation and well-being.
-<br> <br>
-
-Source: Geranium Homes<br>
-
-Builder's website - http://www.geranium.com/
+        875 Kingston Road Condos is a new pre-construction condo development by Sphere Developments. Coming soon to 875 Kingston Road in Pickering.
+        <br><br>
+This condominium consists of two towers, each tower has 17 storeys, total number of 400 units and 195 ft tall, connected by a common podium.
+<br><br>
+Builder's Website:https://sphere-developments.com/
+<br><br>
+</p>
     </div>
    </div>                  
     </section>

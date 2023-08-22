@@ -16,11 +16,11 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css">
 
-    <title> Clarehaven Estates for sale in Pickering | Register Today</title>
+    <title> Axess Condos for sale in Pickering | Register Today</title>
 
-    <meta name="title" content="Clarehaven Estates for sale in Pickering | Register Today">
-    <meta name="description" content="Clarehaven Estates for sale in Pickering | Register Today">
-    <meta name="keywords" content="Pickering City Centre, Pickering City Centre, Pickering City Centre Condos, CentreCourt Developments, Pre construction condos in pickering,  condo in pickering">
+    <meta name="title" content="Axess Condos for sale in Pickering | Register Today">
+    <meta name="description" content="Axess Condos for sale in Pickering | Register Today">
+    <meta name="keywords" content="Pickering City Centre, Pickering City Centre, Axess Condos, CentreCourt Developments, Pre construction condos in pickering,  condo in pickering">
     <meta name="robots" content="index, follow">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <meta name="language" content="English">
@@ -60,28 +60,47 @@
                 <div class="my-md-5 my-3"></div>
                 <div class="py-5">
                    <h1 class="fw-bold fs-1  mx-1 ps-md-0   brand-color ">
-                    Clarehaven Estates
+                   Axess Condos
                     </h1>
                     <nav style="--bs-breadcrumb-divider: '>';" aria-label="breadcrumb">
                         <ol class="breadcrumb">
                             <li class="breadcrumb-item"><a href="../pre-construction-homes-pickering/">Pre Construction Homes Pickering</a></li>
-                            <li class="breadcrumb-item active" aria-current="page"> Clarehaven Estates</li>
+                            <li class="breadcrumb-item active" aria-current="page">Axess Condos</li>
                         </ol>
                         </nav>
                 </div>
 
                 <div class="rounded-3">
                
-                <div class="d-flex justify-content-between pb-3">
-                    <div class="row  g-4 ">
+                    <div class="d-flex justify-content-between pb-3">
+                        <div class="row  row-cols-1 row-cols-sm-2 row-cols-lg-3  g-4 ">
                     
-                    <div class="col">
-                        <div class="afte">
-                            <img loading="lazy" src="../images/Clarehaven Estates/1.jpg" alt="Mary Street Towns" class="img-fluid rounded-3">
+                            <div class="col">
+                                <div class="afte">
+                                    <img loading="lazy" src="../images/Axess Condos/1.jpg" alt="Axess Condos" class="img-fluid imghei">
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="afte">
+                                    <img loading="lazy" src="../images/Axess Condos/2.jpg" alt="Axess Condos" class="img-fluid imghei">
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div href="#" class="afte">
+                                    <img loading="lazy" src="../images/Axess Condos/3.jpg" alt="Axess Condos" class="img-fluid imghei">
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div href="#" class="afte">
+                                    <img loading="lazy" src="../images/Axess Condos/4.jpg" alt="Axess Condos" class="img-fluid imghei">
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div href="#" class="afte">
+                                    <img loading="lazy" src="../images/Axess Condos/5.jpg" alt="Axess Condos" class="img-fluid imghei">
+                                </div>
+                            </div>
                         </div>
-                    </div>
-                    
-                </div>
                     </div>
                 </div>
             </div>
@@ -92,26 +111,30 @@
    <div class="container">
   <div class="d-flex center-sm">
   <div class=" pt-5">
-   <p class="mb-0 fs-1 fw-bold">Clarehaven Estates</p>
-        <p class="mb-0 card-price fs-3">Pricing not available</p>
-        <p class="mb-0 fs-3">5033 Brock Road, Pickering, ON</p>
+   <p class="mb-0 fs-1 fw-bold">Axess Condos</p>
+        <p class="mb-0 card-price fs-3">Starting from Low $ 300k</p>
+        <p class="mb-0 fs-3">1525 Pickering Parkway, Pickering, ON</p>
         <p class="mb-0 fs-3">Move in TBD</p>
-        <p class="mb-0 fs-3">Developed by: Geranium</p>
-        <p class="mb-0 fs-3"> No of units: 70</p>
+        <p class="mb-0 fs-3">Developed by: Liberty Hamlets and Fieldgate Construction Management Ltd </p>
+        <p class="mb-0 fs-3"> No of units: 336</p>
     </div> 
   </div> 
 
   <div class="pt-5 row">
         <p class ="textt d-flex justify-content-center">
-        Clarehaven Estates is a new single family home community by Geranium currently in preconstruction at 5033 Brock Road, Pickering. Clarehaven Estates has a total of 70 units. Sizes range from 2500 to 5000 square feet.
-<br> <br>
-Your Haven Awaits<br>
-Experience the best of the country living at Clarehaven Estates – an exquisite community of spacious Bungalow, Bungalow with Lofts, and Two-Storey residences nestled in the heart of the Hamlet of Claremont. Surround yourself with lush natural landscapes, abundant wildlife, and breathtaking scenery, and savour the joys of quality time with your loved ones in an environment that promotes relaxation and well-being.
-<br> <br>
-
-Source: Geranium Homes<br>
-
-Builder's website - http://www.geranium.com/
+        Axess condos is a new, one-of-a-kind development in Pickering. With spacious suites, and luxurious amenities, Axess is a pre-construction project to keep an eye on.
+        <br><br>
+A mixed-used building developed by Liberty Hamlet, this project will rise out of the property at 1525 Pickering Parkway. Just over five minutes by foot from Pickering Town Centre, Axess will have a singularly convenient location within Pickering. 
+<br><br>
+The world's first fully-accessible condominium, Axess will provide unparalleled accommodation to people with mobility and cognitive disabilities. Every suite will be outfitted with additional amenities to account for this, and provide a higher standard of living for people with needs not usually met by condominiums. Room sizes will be larger, as will hallways, and since it is located so close to a mall and transportation hub, residents will have easy commutes and transit options.
+<br><br>
+Source: Axess Condos
+<br>
+Builder's website - https://www.libertyhamlets.ca/ and https://fieldgateconstruction.com/ 
+<br><br>
+</p>
+<div>
+</div>
     </div>
    </div>                  
     </section>

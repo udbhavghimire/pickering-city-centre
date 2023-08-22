@@ -159,6 +159,7 @@
                     </a>
                     </div>
                     <div class="col">
+                    <a href="../axess-condos/" target="_blank" class ="text-decoration-none"> 
                         <div href="#" class="afte-proj">
                             <img src="../images/Axess-condos.webp" alt="Axess-condos" class="img-fluid rounded-mine imghei">
                             <div class="img-text card">
@@ -170,8 +171,10 @@
                                 <p class="mb-0 tet-s"> No of units: 336</p>
                             </div>
                         </div>
+                    </a>
                     </div>
                       <div class="col">
+                      <a href="../699-kingston-condos/" target="_blank" class ="text-decoration-none"> 
                         <div href="#" class="afte-proj">
                             <img src="../images/699-kingston-road.webp" alt="699-kingston-road-condos" class="img-fluid rounded-mine imghei">
                             <div class="img-text card">
@@ -183,8 +186,10 @@
                                 <p class="mb-0 tet-s"> No of units: 2884</p>
                             </div>
                         </div>
+                      </a>
                     </div>
                        <div class="col">
+                       <a href="../875-kingston-road-condos/" target="_blank" class ="text-decoration-none">
                         <div href="#" class="afte-proj">
                             <img src="../images/875-kingston-road.jpg" alt="699-kingston-road-condos" class="img-fluid rounded-mine imghei">
                             <div class="img-text card">
@@ -196,6 +201,7 @@
                                 <p class="mb-0 tet-s"> No of units: 400</p>
                             </div>
                         </div>
+                       </a>
                     </div>
                 </div>
                     </div>
