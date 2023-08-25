@@ -546,10 +546,31 @@ Check the size and layout of the unit: Make sure the unit meets your needs in te
 Visit the site: If possible, visit the site of the development to get a sense of the quality of the construction.<br> <br>
 
 Consider future development in the area: Think about any potential future development in the area and how it may affect the value of your property.<br> <br>
-
-                    
-                                    </p>
+  </p>
                 </div>
+                
+                </div>
+
+                <div class="p-1 fw-bold">
+                
+
+               <br><br>
+               <p>
+                <h3 class="fw-bold"> Moving to Pickering, Ontario? Find out CONS and the actual cost of living in Pickering, watch the videos below.</h3>
+               </p>
+
+                </div>
+                <div class="row row-cols-1 row-cols-sm-1 row-cols-lg-2 justify-content-center g-4 mt-2">
+             
+             <div class="col d-flex justify-content-between">
+             <iframe width="600" height="350" src="https://www.youtube.com/embed/I6kwvgRurtg?si=lm5c5_KW0jsoJXs8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+             </div>
+             <div class="col d-flex justify-content-between">
+             <iframe width="600" height="350" src="https://www.youtube.com/embed/xmV00wP0U5I?si=lu4o561QfkC5Z7Tt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+             </div>
+
+            </div>
+        </div>
             </div>
         </div>
     </section>
