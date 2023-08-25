@@ -4,6 +4,7 @@
 } */
 
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+
 * {
     box-sizing: border-box;
     margin: 0;
@@ -97,7 +98,7 @@
 .nav-link:hover,
 .nav-link-active {
     color: #001F2C !important;
-    text-decoration: underline #001F2C!important;
+    text-decoration: underline #001F2C !important;
     text-underline-offset: 5px;
     text-decoration-thickness: 2px;
 }
@@ -141,14 +142,14 @@
 }
 
 .imghei {
-    background: linear-gradient(110deg, #ececec 8%, #f5f5f5 18%, #ececec 33%)!important;
-    background-size: 200% 100%!important;
+    background: linear-gradient(110deg, #ececec 8%, #f5f5f5 18%, #ececec 33%) !important;
+    background-size: 200% 100% !important;
     animation: shine 1.5s linear infinite;
     height: 320px !important;
     width: 100% !important;
-    object-fit: cover!important;
+    object-fit: cover !important;
     border-radius: 10px !important;
-    object-position: center!important;
+    object-position: center !important;
 }
 
 .afte {
@@ -195,10 +196,10 @@
 }
 
 .card {
-    padding: 0.6rem 0.5rem!important;
+    padding: 0.6rem 0.5rem !important;
     border: rgb(103, 103, 103) !important;
     background-color: #ffffff !important;
-    box-shadow: 0 1rem 2rem hsla(180, 1%, 52%, .175)!important;
+    box-shadow: 0 1rem 2rem hsla(180, 1%, 52%, .175) !important;
 }
 
 .img-text {
@@ -279,9 +280,16 @@
 }
 
 .br-m {
-    border-radius: 9px!important;
-    padding-top: 0.65rem!important;
-    padding-bottom: 0.65rem!important;
+    border-radius: 9px !important;
+    padding-top: 0.65rem !important;
+    padding-bottom: 0.65rem !important;
+}
+
+.instagram-long {
+    height: 600px !important;
+    /* Set your desired height here */
+    width: 100%;
+    /* Optionally set a width */
 }
 
 @media (max-width: 768px) {
@@ -289,9 +297,11 @@
         font-size: 48px;
         line-height: 46px;
     }
+
     .center-sm {
         text-align: center;
     }
+
     .navbar-brand {
         color: rgb(0, 0, 0) !important;
         font-weight: 900 !important;
@@ -300,6 +310,7 @@
         height: 110px;
         padding-left: 10px;
     }
+
     .fixxcont2 {
         bottom: 12px;
         width: 70%;
@@ -310,6 +321,7 @@
         z-index: 9999;
         display: block;
     }
+
     .bg-color {
         display: inline-block;
         color: black;
