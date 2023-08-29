@@ -422,10 +422,10 @@ The community will be known as Pickering City Centre and will feature over 50 ac
     <section class="mt-md-5 py-md-5">
     <div class="container mt-5" data-aos="fade-up" data-aos-duration="2000" data-aos-delay="50">
         <h2 class="fw-bold fs-1 mb-0 text-center justify-content-center" data-aos="fade-up">
-                    <span class="mx-1 pb-5">Pre Construction Living in Pickering</span>
+                    <span class="mx-1 pb-5">New Developments in Pickering  </span>
                 </h2>
                
-                <span class="small-text text-center d-flex justify-content-center custom-underline pb-3 px-2"> Mapping Your Journey to New Homes</span>
+                <span class="small-text text-center d-flex justify-content-center custom-underline pb-3 px-2"> Townhomes, Single Detached homes & Condos</span>
        <div class="pt-4 d-flex justify-content-center align-items-center">
         <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d368815.0300425257!2d-79.40609289637035!3d43.76523130525065!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89d4d9abfae88d1d%3A0x4bd24862b12786d8!2sPickering%2C%20ON%2C%20Canada!5e0!3m2!1sen!2snp!4v1691334411446!5m2!1sen!2snp" width="100%" height="500" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
         </div>
@@ -494,30 +494,29 @@ The community will be known as Pickering City Centre and will feature over 50 ac
                 <span class="small-text text-center d-flex justify-content-center custom-underline pb-4 px-2">The most anticipated pre construction homes for sale in Pickering</span>
                 <div class="p-1  d-flex justify-content-center align-items-center precon-list">
                 <p>
-                    1.New Seaton - By Towerhill Homes | Location : Taunton Road & Sideline 26, Pickering, ON <br> </br>
+                    1. <a href="../new-seaton/" class="text-dark fw-bold" target="_blank"> New Seaton</a> - By Towerhill Homes | Location : Taunton Road & Sideline 26, Pickering, ON <br> </br>
 
-                    2.375 Kingston Road Condos - By Decade Homes | Location : 375 Kingston Road, Pickering, ON <br> </br>
+                    2. <a href="#" class="text-dark fw-bold" target="_blank">375 Kingston Road Condos</a> - By Decade Homes | Location : 375 Kingston Road, Pickering, ON <br> </br>
 
-                    3.Je Vila Towns - By Revation Group | Location : 2620 Brock Road, Pickering, ON <br> </br>
+                    3. <a href="#" class="text-dark fw-bold" target="_blank">Je Vila Towns</a> - By Revation Group | Location : 2620 Brock Road, Pickering, ON <br> </br>
 
-                    4.Universal City East Condos - By Chestnut Hill Developments | Location : 1496 Bayly Street, Pickering, ON <br> </br>
+                    4. <a href="../universal-city-east-condos/" class="text-dark fw-bold" target="_blank">Universal City East Condo</a> - By Chestnut Hill Developments | Location : 1496 Bayly Street, Pickering, ON <br> </br>
 
-                   5.The Grand at Universal City - By Chestnut Hill Developments | Location : 1474 Bayly Street, Pickering, ON <br> </br>
+                   5. <a href="#" class="text-dark fw-bold" target="_blank">The Grand at Universal City</a> - By Chestnut Hill Developments | Location : 1474 Bayly Street, Pickering, ON <br> </br>
 
-                    6.The Highmark Condos - By Highmark Homes | Location : 1640 Kingston Road, Pickering, ON <br> </br>
+                    6. <a href="../the-highmark-condos/" class="text-dark fw-bold" target="_blank">The Highmark Condos</a> - By Highmark Homes | Location : 1640 Kingston Road, Pickering, ON <br> </br>
 
-                    7.DeerView Heights - By Stonepay | Location : Palmers Sawmill Road, Pickering, ON <br> </br>
+                    7. <a href="#" class="text-dark fw-bold" target="_blank">DeerView Heights</a> - By Stonepay | Location : Palmers Sawmill Road, Pickering, ON <br> </br>
 
-                    8.Park District Towns - By Icon Homes | Location : 2574 Brock Road, Pickering, ON <br> </br> 
+                    8. <a href="#" class="text-dark fw-bold" target="_blank">Park District Towns</a> - By Icon Homes | Location : 2574 Brock Road, Pickering, ON <br> </br> 
 
-                    9.Central District Towns - By Icon Homes and Old Orchard | Location : 770 Kingston Road, Pickering, ON <br> </br>
+                    9. <a href="#" class="text-dark fw-bold" target="_blank">Central District Towns</a> - By Icon Homes and Old Orchard | Location : 770 Kingston Road, Pickering, ON <br> </br>
 
-                    10.Daniels FirstHome - By The Daniels Corporation | Location : 1525 Kingston Road, Pickering, ON <br> </br>
+                    10. <a href="#" class="text-dark fw-bold" target="_blank">Daniels FirstHome</a> - By The Daniels Corporation | Location : 1525 Kingston Road, Pickering, ON <br> </br>
                     
+                    11. <a href="../pickering-city-centre-condos/" class="text-dark fw-bold" target="_blank">Pickering City Centre Condos</a> - Pickering City Centre Condos is a new upcoming condo development at Pickering, ON Canada by CentreCourt Developments which will be launched soon. Get access to plans and pricing now <br> </br> 
 
-                    11.Pickering City Centre Condos - Pickering City Centre Condos is a new upcoming condo development at Pickering, ON Canada by CentreCourt Developments which will be launched soon. Get access to plans and pricing now <br> </br> 
-
-                     12.Axess Condos : Axess condos is a new, one-of-a-kind development in Pickering. With spacious suites, and luxurious amenities, Axess is a pre-construction project to keep an eye on. <br> </br>
+                     12. <a href="../axess-condos/" class="text-dark fw-bold" target="_blank">Axess Condos</a> : Axess condos is a new, one-of-a-kind development in Pickering. With spacious suites, and luxurious amenities, Axess is a pre-construction project to keep an eye on. <br> </br>
 
                     
                                     </p>
