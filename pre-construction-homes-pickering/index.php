@@ -278,6 +278,48 @@
         </div>
     </section>
 
+    <section class="pt-3 py-md-5">
+    <div class="my-md-5 my-3"></div>
+            <div class="container pt-md-5 pt-5" id="hero">
+            <h2 class="fw-bold fs-1 mb-0 text-center justify-content-center" data-aos="fade-up">
+                    <span class="mx-1 pb-3">Pickering City Centre <br> The Most Affordable Condos in GTA</span> </span>
+                </h2>
+                <div class="row me-0 row-cols-1 row-cols-md-2 d-flex align-items-center pt-5">
+                    <div class="col order-2 order-md-1 pt-5 pt-md-0">
+                        <div class="">
+                            <div>
+                                <div class="pt-2 pt-sm-2 pt-md-2 rounded-mine mt-3 ">
+                                    <h2 class="headline-textt headline-textt-sm">
+                                    Pickering City Centre Condos by CentreCourt Developments is currently in planning at 1355 A Kingston Road, Pickering. It is the most affordable condos in gta being developed on a 55 acres of land. The site will house 10+ buildings and over 6,000 units. This will a mixed use residential condo, rental, commercial retail, seniors and youth facility, gymnasium, theatre, art gallery, library and parkland development. 
+                                  
+                            </h2>
+                            <div class="list d-block headline-textt pt-4">
+                                <p class="mybot pb-md-0 pb-0 ">
+                                    Builder: CentreCourt
+                                </p>
+
+                                <p class="mybot pb-md-0 pb-0 ">
+                                    Address:  1355 A Kingston Road, Pickering, ON
+                                </p>
+                                <p class="mybot pb-md-0 pb-0 ">
+                                Occupancy: TBD
+                                </p>
+                                <p class="mybot pb-md-0 pb-0 ">
+                                Pricing : Not available at the moment
+                                </p>
+
+                            </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col position-relative order-1 order-md-2">
+                        <img src="../images/the-most-affordable-condos-in-gta.jpeg" class="img-fluid" id="" alt="pickering city centre">
+                    </div>
+                </div>
+
+        </section>
+
     <section data-aos="fade-up" >
         <div class="container pt-md-5 pt-5" id="video">
             <div class="pt-md-5 "></div>
