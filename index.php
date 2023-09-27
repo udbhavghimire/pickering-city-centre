@@ -373,10 +373,11 @@ The community will be known as Pickering City Centre and will feature over 50 ac
   </div>
 
   <div class="col">
+    <a href="./pre-construction-homes-pickering/" target ="_blank" class="text-decoration-none text-dark">
     <div class="card ">
-      <img src="./images/Pickering City Centre Condos/pickering-city-center-launch.jpeg" class="imghei" alt="Pickering city centre condos has officialy launched.>
+      <img src="./images/Pickering City Centre Condos/pickering-city-center-launch.jpeg" class="imghei" alt="Pickering city centre condos has officialy launched.">
       <div class="card-body">
-      <h5 class="card-title fw-bold pb-2">Pickering city centre condos has officialy launched.  </h5>
+      <h5 class="card-title fw-bold pb-2"> <a  href="./pickering-city-centre-condos" target ="_blank"  class="text-decoration-none">Pickering city centre condos</a>  has officialy launched.  </h5>
         <p class="card-text">The real estate industry is constantly evolving, and staying up-to-date with the latest trends and innovations is essential for success. Recently, we had the privilege of participating in one of the most exciting condo proect launch in Pickering by the renowned developer Centrecourt. This event brought together industry leaders, professionals, and enthusiasts from all over, creating a platform for networking, knowledge-sharing, and exploration of the newest condo development coming to Pickering City Centre.
 <br> <br>
 Hundreds of real estate agents across ontario participated in the event. According to the developer, Centrecourt, Pickering city centre condos is expected to change the makeover of the City of Pickering in the coming decade.
@@ -386,6 +387,7 @@ Hundreds of real estate agents across ontario participated in the event. Accordi
         <small class="text-muted">Last updated 3 mins ago</small>
       </div>
     </div>
+    </a>
   </div>
 </div>
 
