@@ -325,9 +325,50 @@
             <div class="pt-md-5 "></div>
             <div class="py-5" data-aos="fade-up" data-aos-duration="2000" data-aos-delay="50">
                 <h2 class="fw-bold fs-1 mb-0 text-center justify-content-center" data-aos="fade-up">
+                    <span class="mx-1 pb-3">Brooklin Towns Launches in Whitby By Madision Group</span> </span>
+                </h2>
+                <span class="small-text text-center d-flex justify-content-center custom-underline pb-4 px-2">The most anticipated pre construction project in Whitby</span>
+                <div>
+                        
+                        <img src="../images/Brooklin-Towns.jpg" class=" imgheiii" alt="">
+                    </div>
+                <div class="p-1  pt-5 d-flex justify-content-center align-items-center precon-list">
+                   
+                <p>
+                Madison Group Unveils The Brooklin Towns: A most anticipated townhome project in the Heart of Whitby, Ontario. Madision Group has launched the most awaited townhome project in the heart of Whitby - The Brooklin Towns. Over 50+ top performing realtors were present during the Project launch event in Whitby. Brooklin Town is expected to have approximately 59 townhome units. Madison group has previously launched projects such as Unionglen, MILA, Alias condos & Alfie condos coming up shortly.
+
+<br><br>
+
+The launch of their highly awaited townhome project, The Brooklin Towns. Nestled in the one of the most sought after residential area of Whitby, this project has been a topic of conversation for lots of buyers as well as investors across the Greater Toronto Area.
+<br><br>
+
+
+
+
+The Brooklin Towns is poised to redefine modern living in Whitby. With an estimated 59 townhome units in the development plan, it promises a harmonious blend of urban convenience and suburban tranquility. The project caters to individuals and families looking for spacious, contemporary homes that are well-connected to the amenities of a thriving urban center while preserving the charm of suburban living.
+
+<br><br>
+
+
+
+About the Neighborhood:
+<br>
+
+Brooklin: Brooklin is a highly sought-after neighborhood in Whitby known for its charming small-town atmosphere. It is a vibrant and rapidly growing neighborhood in Whitby. It is known for its small-town feel and close-knit community. Residents enjoy the charm of historic homes, tree-lined streets, and a thriving downtown area with shops, restaurants, and local businesses. The neighborhood hosts regular events and festivals, fostering a strong sense of community. With its dynamic offering and infrastructures, Brooklin is one of the best neighborhoods to buy pre construction homes in Whitby.
+              </p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section data-aos="fade-up" >
+        <div class="container pt-md-5 pt-5" id="video">
+            <div class="pt-md-5 "></div>
+            <div class="py-5" data-aos="fade-up" data-aos-duration="2000" data-aos-delay="50">
+                <h2 class="fw-bold fs-1 mb-0 text-center justify-content-center" data-aos="fade-up">
                     <span class="mx-1 pb-3">Top new homes in Whitby for sale</span> </span>
                 </h2>
-                <span class="small-text text-center d-flex justify-content-center custom-underline pb-4 px-2">The most anticipated pre construction homes for sale in Whitby</span>
+                <span class="small-text text-center d-flex justify-content-center custom-underline pb-4 px-2">The most anticipated pre construction project for sale in Whitby</span>
                 <div class="p-1  d-flex justify-content-center align-items-center precon-list">
                 <p>
                 1. Whitby Meadows - Whitby Meadows is a new townhouse and single family home development by Arista Homes currently under construction at Rossland Road West, Whitby. Whitby Meadow is a beautiful master-planned community offering one of the widest selections of home designs in the GTA. Amidst parks and nature trails, superb transit access, top-rated schools, restaurants, retail, and so much more, it truly offers the most comprehensive lifestyle in Whitby. Enjoy an immense selection of semis and 30’ Detached designs in the community that surrounds you with all the best Whitby has to offer. <br> <br>
@@ -343,6 +384,9 @@
             </div>
         </div>
     </section>
+
+
+
 
     <?php require '../footer.php'; ?>
 

@@ -152,6 +152,17 @@
     object-position: center !important;
 }
 
+.imgheiii {
+    background: linear-gradient(110deg, #ececec 8%, #f5f5f5 18%, #ececec 33%) !important;
+    background-size: 200% 100% !important;
+    animation: shine 1.5s linear infinite;
+    height: 720px !important;
+    width: 100% !important;
+    object-fit: cover !important;
+    border-radius: 10px !important;
+    object-position: center !important;
+}
+
 .afte {
     position: relative;
     display: block;
